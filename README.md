@@ -1,24 +1,34 @@
-# Hi, I'm Thokchom Lolet Singh
+# Thokchom Lolet Singh
 
-I am a Software Engineer specializing in **Knowledge Synthesis Architectures** and **Edge AI workflows**. I build end-to-end R&D pipelines that transform raw theoretical data into deployed, interactive edge nodes.
+**Cloud infrastructure · Software development · Computational biotechnology**
 
-### The R&D Pipeline
+I build software for learning and research while developing practical skills in Linux, networking, and cloud infrastructure. My projects connect a near-term focus on reliable systems with a long-term interest in computational biology and longevity research.
 
-I engineer an automated continuous integration pipeline for ingesting, synthesizing, and deploying complex domain architectures:
+[Technical writing](https://thokchomlolet03-cpu.github.io/my-tech-blog/) · [Learning & research journal](https://thokchomlolet03-cpu.github.io/longevity-research-journey/) · [LinkedIn](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/)
 
-`Coursera/Research Specs` $\to$ `Agentic Processing (LLMs)` $\to$ `Audio Synthesis (NotebookLM)` $\to$ `Astro/React Edge UI` $\to$ `GCP Batch Serverless Compute`
+## Selected projects
 
-### Featured R&D Apex Node
-**Project Mangal: Autonomous Biomedical Discovery Compiler**
-*A serverless, end-to-end reasoning framework deployed on GCP with an interactive WebGL frontend.*
-- **Live Edge UI & Architecture Dashboard:** [Link to Astro Blog Post]
-- **Audio Synthesis Critique:** The Ontological Subtraction (Embedded in Dashboard)
-- **Backend Source Code:** [Link to Mangal Repo]
+| Project | What you can explore |
+| :--- | :--- |
+| **[The Token Cosmos](https://github.com/thokchomlolet03-cpu/the-token-cosmos)** | Interactive visualizations of LLM token probabilities and sampling parameters. React, TypeScript, and FastAPI; demonstration data is identified separately from model output. |
+| **[Terraform Mastery](https://github.com/thokchomlolet03-cpu/terraform-mastery)** | A first-principles Terraform curriculum with local labs, source references, and predict-and-verify exercises. |
+| **[Nua](https://github.com/thokchomlolet03-cpu/Nua)** | A lecture translation and dubbing project combining a web backend with an Android client and synchronized audio/video playback. |
+| **[Discovery Intelligence](https://github.com/thokchomlolet03-cpu/discovery_intelligence_system)** | A molecular screening research prototype using Python, FastAPI, and RDKit, with dataset validation, candidate ranking, and review workflows. |
 
-### Core Technologies
-*   **Systems & Compute:** Linux, GCP, AWS, Docker, Terraform
-*   **Languages:** Python, TypeScript, Rust, Go, C++
-*   **Edge & AI:** WebGPU, Astro, React, Local LLMs, RAG Architectures, Function Calling
+## Building a foundation for research
+
+**[Mangal BioTech](https://github.com/thokchomlolet03-cpu/mangal-biotech)** is my simulated-company portfolio framework for cloud, systems, and research-data projects. It defines how future assignments should document requirements, architecture, testing, costs, recovery, and lessons learned. The public repository currently establishes that framework.
+
+**[Universal Inverse Design](https://github.com/thokchomlolet03-cpu/universal-inverse-design)** explores biomedical knowledge graphs and candidate-generation workflows. This is exploratory software; generated candidates and model scores do not establish biological efficacy or validated therapies.
+
+## Technical focus
+
+- **Infrastructure:** Linux, networking, Terraform, Docker, AWS, and Google Cloud.
+- **Software:** Python, TypeScript, React, Astro, and FastAPI.
+- **Learning method:** Study the mechanism, predict the result, run the experiment, and document the evidence.
+
+My current focus is strengthening systems fundamentals and making projects easier to reproduce, test, and explain.
 
 ---
-*Open to engineering roles and architectural discussions in the UAE (Dubai/Abu Dhabi) and remote.*
+
+Open to IT support, cloud infrastructure, and software opportunities in the UAE and remote. Connect with me on [LinkedIn](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/).
