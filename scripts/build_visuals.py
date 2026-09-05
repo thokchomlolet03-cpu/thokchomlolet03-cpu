@@ -80,3 +80,22 @@ b+=text(36,55,'THOKCHOM LOLET SINGH',25,'#18211b',600,'letter-spacing="2"')
 b+=text(1040,55,'SYSTEMS FIRST. SCIENCE AHEAD.',24,'#18211b',400,'letter-spacing="2"')
 (OUT/'signature.svg').write_text(svg(1800,86,'Thokchom Lolet Singh — Systems first. Science ahead.',b))
 print('Generated 4 illustrated project cards, method strip, and signature.')
+
+# Compact compositions selected by README picture sources at narrow viewports.
+mobile_titles={'cosmos':['The Token','Cosmos'],'terraform':['Terraform','Mastery'],'nua':['Nua',''],'discovery':['Discovery','Intelligence']}
+mobile_desc={'cosmos':['LLM sampling','visualizer'],'terraform':['Infrastructure','from first principles'],'nua':['Lecture translation','& dubbing'],'discovery':['Molecular screening','research prototype']}
+for key,num,label,title,desc,stack,light in cards:
+ bg='#eeede5' if light else '#141917';fg='#18211b' if light else '#f0efe6';muted='#69766a' if light else '#a8b3aa';accent='#385d28' if light else '#d2f76b';rule='#c4cbc0' if light else '#364139'
+ b=f'<rect x="1" y="1" width="438" height="498" rx="20" fill="{bg}" stroke="{rule}"/>'
+ b+=text(26,88,num,70,accent,400)
+ b+=f'<g transform="translate(-193,25) scale(.7)">{art(key,accent,rule)}</g>'
+ for i,s in enumerate(mobile_titles[key]):b+=text(26,261+i*49,s,42,fg,600,'letter-spacing="-1"')
+ for i,s in enumerate(mobile_desc[key]):b+=text(27,372+i*32,s,26,muted)
+ b+=line(26,433,412,433,rule)+text(27,474,'VIEW SOURCE',23,accent,600)
+ b+='<path d="M366 466 h34 m-12 -12 12 12 -12 12" fill="none" stroke="'+accent+'" stroke-width="2"/>'
+ (OUT/f'{key}-mobile.svg').write_text(svg(440,500,title+' — '+'. '.join(mobile_desc[key]),b))
+b='<rect width="600" height="320" rx="18" fill="#141917"/>'
+b+=text(25,45,'THE WORKING METHOD',20,'#98a498',600,'letter-spacing="2"')
+for i,(title,sub) in enumerate([('BUILD','Make it concrete.'),('TEST','Measure the result.'),('UNDERSTAND','Explain the mechanism.')]):
+ y=107+i*84;b+=text(25,y,title,31,'#d2f76b',600)+text(25,y+29,sub,24,'#d6dbd0')
+(OUT/'method-mobile.svg').write_text(svg(600,320,'Build. Test. Understand.',b))

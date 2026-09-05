@@ -17,17 +17,17 @@ I'm **Lolet**. I build software for learning and research while developing pract
 Four ways I explore that direction. **Each card opens the source.**
 
 <p>
-  <a href="https://github.com/thokchomlolet03-cpu/the-token-cosmos"><img src="./assets/cosmos.svg" width="49%" alt="01 — The Token Cosmos. Interactive LLM probability and sampling visualizer. React, TypeScript, FastAPI. View repository." /></a>
-  <a href="https://github.com/thokchomlolet03-cpu/terraform-mastery"><img src="./assets/terraform.svg" width="49%" alt="02 — Terraform Mastery. First-principles curriculum with local predict-and-verify labs. View repository." /></a>
+  <a href="https://github.com/thokchomlolet03-cpu/the-token-cosmos"><picture><source media="(max-width: 640px)" srcset="./assets/cosmos-mobile.svg"><img src="./assets/cosmos.svg" width="49%" alt="01 — The Token Cosmos. Interactive LLM probability and sampling visualizer. React, TypeScript, FastAPI. View repository." /></picture></a>
+  <a href="https://github.com/thokchomlolet03-cpu/terraform-mastery"><picture><source media="(max-width: 640px)" srcset="./assets/terraform-mobile.svg"><img src="./assets/terraform.svg" width="49%" alt="02 — Terraform Mastery. First-principles curriculum with local predict-and-verify labs. View repository." /></picture></a>
 </p>
 <p>
-  <a href="https://github.com/thokchomlolet03-cpu/Nua"><img src="./assets/nua.svg" width="49%" alt="03 — Nua. Lecture translation, dubbing, and synchronized Android playback. View repository." /></a>
-  <a href="https://github.com/thokchomlolet03-cpu/discovery_intelligence_system"><img src="./assets/discovery.svg" width="49%" alt="04 — Discovery Intelligence. Molecular screening research prototype with Python, RDKit, and FastAPI. View repository." /></a>
+  <a href="https://github.com/thokchomlolet03-cpu/Nua"><picture><source media="(max-width: 640px)" srcset="./assets/nua-mobile.svg"><img src="./assets/nua.svg" width="49%" alt="03 — Nua. Lecture translation, dubbing, and synchronized Android playback. View repository." /></picture></a>
+  <a href="https://github.com/thokchomlolet03-cpu/discovery_intelligence_system"><picture><source media="(max-width: 640px)" srcset="./assets/discovery-mobile.svg"><img src="./assets/discovery.svg" width="49%" alt="04 — Discovery Intelligence. Molecular screening research prototype with Python, RDKit, and FastAPI. View repository." /></picture></a>
 </p>
 
 <br>
 
-<img src="./assets/method.svg" width="100%" alt="My working method: Build — make the idea concrete. Test — measure what actually happens. Understand — explain the mechanism." />
+<picture><source media="(max-width: 640px)" srcset="./assets/method-mobile.svg"><img src="./assets/method.svg" width="100%" alt="My working method: Build — make the idea concrete. Test — measure what actually happens. Understand — explain the mechanism." /></picture>
 
 <br>
 
