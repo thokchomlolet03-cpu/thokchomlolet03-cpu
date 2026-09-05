@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://lolet-observatory.lolet.chatgpt.site"><b>ENTER THE OBSERVATORY ↗</b></a> &nbsp; / &nbsp;
   <a href="#selected-work"><b>EXPLORE THE WORK</b></a> &nbsp; / &nbsp;
   <a href="https://thokchomlolet03-cpu.github.io/my-tech-blog/"><b>READ THE NOTES</b></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/"><b>LET'S CONNECT ↗</b></a>
