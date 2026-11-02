@@ -11,7 +11,17 @@
 
 <br>
 
-I'm **Lolet**. I build software for learning and research while developing practical skills in cloud infrastructure, Linux, and networking. My long-term direction is computational biotechnology: reliable systems as a foundation for reproducible science.
+I'm **Lolet** — an enterprise IT support professional and independent software builder based in the UAE. My background includes three years of Level 2 support for Finastra through Tech Mahindra, where I worked across user devices, identity and access, collaboration tools, incident management, and technical escalations.
+
+I build practical cloud and software projects alongside my work. My long-term direction is computational biotechnology: reliable systems, reproducible experiments, and honest handling of uncertain evidence.
+
+## Professional foundation
+
+- **Enterprise support:** Microsoft 365 and Teams, Active Directory / Entra ID, Windows and macOS, JAMF, Intune, SCCM, ServiceNow, and secure connectivity. Six Tech Mahindra Bravo Awards.
+- **Independent engineering:** Python, FastAPI, Docker, GitHub Actions, Terraform learning labs, and cloud deployment experiments. These are projects and labs, not claims of commercial production operation.
+- **Working method:** Build something testable, observe failures, document limitations, and revise the explanation when evidence changes.
+
+**[Project guide: purpose, evidence, maturity, and limitations](./PROJECT_GUIDE.md)**
 
 ## Selected work
 
@@ -54,7 +64,7 @@ A public record of study, projects, evidence, and changes of mind along the path
 
 <br>
 
-**Open to IT support, cloud infrastructure, and software opportunities in the UAE and remote.**<br>
+**Open to enterprise IT, cloud infrastructure, and software opportunities internationally, including relocation.**<br>
 [Connect on LinkedIn ↗](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/) · [Read Friction Hunter ↗](https://thokchomlolet03-cpu.github.io/my-tech-blog/)
 
 <br>
