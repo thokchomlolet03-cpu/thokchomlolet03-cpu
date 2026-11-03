@@ -57,6 +57,9 @@ systemctl --user stop p03-lab.service
 ~~~
 Do not enable the service at boot or enable user lingering. If systemctl --user is unavailable in a headless VM, **document that limitation** rather than replacing it with an unauthorized system-level service. Only remove the copied unit if it belongs to this lab.
 
+## [Initial synthetic test evidence](EVIDENCE.md)
+Four tests passed in an assistant-side Debian environment. Actual systemd faults and the owner's own VM remain untested.
+
 ## Automated tests
 ~~~bash
 python3 -m unittest discover -s tests -v
