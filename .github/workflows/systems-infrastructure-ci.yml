@@ -26,5 +26,18 @@ jobs:
           bash -n systems-infrastructure/projects/p01-linux-diagnostics/diagnose.sh
           shellcheck systems-infrastructure/projects/p01-linux-diagnostics/diagnose.sh
           shellcheck systems-infrastructure/projects/p01-linux-diagnostics/tests/smoke.sh
-      - name: Run read-only smoke tests
-        run: bash systems-infrastructure/projects/p01-linux-diagnostics/tests/smoke.sh
+          shellcheck systems-infrastructure/projects/p01-linux-diagnostics/tests/failure_cases.sh
+      - name: Run read-only smoke and failure-path tests
+        run: |
+          bash systems-infrastructure/projects/p01-linux-diagnostics/tests/smoke.sh
+          bash systems-infrastructure/projects/p01-linux-diagnostics/tests/failure_cases.sh
+
+  documentation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test the local link checker
+        run: python3 -m unittest discover -s systems-infrastructure/scripts/tests -v
+      - name: Validate internal Markdown file links
+        run: python3 systems-infrastructure/scripts/check_local_links.py
