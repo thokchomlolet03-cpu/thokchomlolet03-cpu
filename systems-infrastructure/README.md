@@ -24,7 +24,7 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 | Reusable project readme template | [Project template](templates/project-readme.md) |
 
 ### Actionable GitHub issues
-[Month-1 lab checklist](../../issues/1) · [P01 validation](../../issues/2) · [Linux failure atlas](../../issues/3) · [Quarterly career/cert review](../../issues/4)
+[Month-1 lab checklist](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/1) · [P01 validation](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/2) · [Linux failure atlas](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/3) · [Quarterly career/cert review](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/4)
 
 ### Technical tracks
 [OS internals](OPERATING_SYSTEMS.md) · [Linux and Windows automation](AUTOMATION.md) · [Networking](NETWORKING.md) · [Windows/macOS/MDM](ENDPOINTS.md) · [Cloud & reliability](CLOUD_AND_RELIABILITY.md) · [Incident method](INCIDENT_METHOD.md)
