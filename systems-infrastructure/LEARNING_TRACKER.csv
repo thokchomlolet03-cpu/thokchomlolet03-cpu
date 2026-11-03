@@ -1,0 +1,41 @@
+id,track,priority,resource,official_url,access,project,learning_status,evidence_link,notes
+L001,Linux,1,Linux Foundation LFS101,https://training.linuxfoundation.org/training/introduction-to-linux/,Free content,P01,Not started,,Linux foundation
+L002,Tools,1,MIT Missing Semester,https://missing.csail.mit.edu/2026/,Free materials,P01,Not started,,Shell and debugging
+L003,Linux,1,Ubuntu Server documentation,https://documentation.ubuntu.com/server/,Free docs,P01,Not started,,Use in lab
+L004,OS internals,1,Operating Systems Three Easy Pieces,https://pages.cs.wisc.edu/~remzi/OSTEP/,Free textbook,P02 and P09,Not started,,Read and test chapter claims
+L005,PowerShell,1,Microsoft PowerShell training,https://learn.microsoft.com/en-us/training/paths/get-started-windows-powershell/,Free learning,P05,Not started,,Object pipeline
+L006,Windows,1,Sysinternals,https://learn.microsoft.com/en-us/sysinternals/,Free tools and docs,P04,Not started,,ProcMon and Process Explorer
+L007,Networking,1,Cisco Networking Academy,https://www.netacad.com/,Varies by course,P07,Not started,,Use free modules where available
+L008,Networking,1,Wireshark User Guide,https://www.wireshark.org/docs/wsug_html_chunked/,Free docs,P07,Not started,,Capture only authorized lab traffic
+L009,Linux,1,Red Hat RHEL documentation,https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/,Free docs,P03 and P06,Not started,,Practice SELinux and systemd
+L010,Automation,1,GNU Bash reference,https://www.gnu.org/software/bash/manual/,Free docs,P01,Not started,,Quoting and exit behavior
+L011,Automation,1,Python tutorial,https://docs.python.org/3/tutorial/,Free docs,P05,Not started,,Systems utilities
+L012,Automation,1,Ansible getting started,https://docs.ansible.com/projects/ansible/latest/getting_started/get_started_ansible.html,Free docs,P06,Not started,,Convergence and idempotence
+L013,Automation,1,ShellCheck,https://www.shellcheck.net/,Free tool,P01,Not started,,Lint scripts
+L014,Automation,1,PowerShell documentation,https://learn.microsoft.com/en-us/powershell/,Free docs,P05,Not started,,Advanced scripting
+L015,Windows,2,Windows Server docs,https://learn.microsoft.com/en-us/windows-server/,Free docs,P04,Not started,,AD DS and DNS
+L016,Identity,2,Microsoft Entra docs,https://learn.microsoft.com/en-us/entra/,Free docs,P08,Not started,,Identity lifecycle
+L017,Endpoint,2,Intune docs,https://learn.microsoft.com/en-us/intune/,Free docs,P08,Not started,,Device policies
+L018,Endpoint,2,Jamf 100,https://www.jamf.com/training/100-course/,Free course paid exam,P08,Not started,,Mac management fundamentals
+L019,Security,2,Jamf 170,https://www.jamf.com/training/170-course/,Free course; check exam terms,P08,Not started,,Apple endpoint security
+L020,Apple,2,Apple IT Training,https://training.apple.com/,Free content; exams paid,P08,Not started,,IT support and deployment
+L021,Apple,2,Apple Platform Deployment,https://support.apple.com/guide/deployment/welcome/web,Free docs,P08,Not started,,MDM lifecycle
+L022,Apple,2,Apple Platform Security,https://support.apple.com/guide/security/welcome/web,Free docs,P08,Not started,,FileVault and system trust
+L023,OS internals,2,Linux kernel docs,https://docs.kernel.org/,Free docs,P09,Not started,,Kernel reference
+L024,OS internals,2,MIT 6.1810 Operating Systems,https://pdos.csail.mit.edu/6.1810/2026/,Free materials,P09,Not started,,Respect course code-sharing rules
+L025,Automation,2,Bats core,https://bats-core.readthedocs.io/,Free docs,P01,Not started,,Bash tests
+L026,Automation,2,Pester,https://pester.dev/,Free docs,P05,Not started,,PowerShell tests
+L027,Automation,2,pytest,https://docs.pytest.org/en/stable/,Free docs,P05,Not started,,Python tests
+L028,IaC,2,Terraform tutorials,https://developer.hashicorp.com/terraform/tutorials,Free docs; resources may cost,P12,Not started,,Also see terraform-mastery repo
+L029,Observability,3,Google SRE book,https://sre.google/sre-book/table-of-contents/,Free book,P10,Not started,,Error budgets and incidents
+L030,Observability,3,Google SRE Workbook,https://sre.google/workbook/table-of-contents/,Free book,P10,Not started,,Applied reliability
+L031,Observability,3,Prometheus docs,https://prometheus.io/docs/introduction/overview/,Free docs,P10,Not started,,Metrics and alerts
+L032,Observability,3,Grafana tutorials,https://grafana.com/tutorials/,Mixed,P10,Not started,,Dashboard design
+L033,Cloud,3,AWS Skill Builder,https://skillbuilder.aws/,Free and paid,P12,Not started,,Choose one cloud provider
+L034,Cloud,3,Azure Architecture Center,https://learn.microsoft.com/en-us/azure/architecture/,Free docs,P12,Not started,,Architecture patterns
+L035,Cloud,3,Google Cloud training,https://cloud.google.com/learn/training,Free and paid,P12,Not started,,Only if hiring roles justify it
+L036,Hardware,3,Intel Software Developer Manuals,https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html,Free docs,P02,Not started,,Advanced CPU internals
+L037,Hardware,3,UEFI specifications,https://uefi.org/specifications,Free docs,P02,Not started,,Advanced firmware
+L038,Networking,2,Cisco Packet Tracer,https://www.netacad.com/cisco-packet-tracer,Free for eligible learners,P07,Not started,,Physical networking simulations
+L039,Windows,2,Windows Performance Toolkit,https://learn.microsoft.com/en-us/windows-hardware/test/wpt/,Free docs and tool,P09,Not started,,ETW and WPA
+L040,Endpoint,3,Jamf 200,https://www.jamf.com/training/200-course/,Paid instructor-led,P08,Not started,,Employer funded if possible
