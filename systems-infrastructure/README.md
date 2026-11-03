@@ -13,7 +13,7 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 |---|---|
 | Start learning immediately | [First 30 days](FIRST_30_DAYS.md) · [First 12 weeks](LEARNING_SCHEDULE.md) |
 | 24-month strategy and decision gates | [Roadmap](ROADMAP.md) |
-| Courses, books, docs and free practice | [Learning resources](LEARNING_RESOURCES.md) |
+| Courses, books, docs and free practice | [Learning resources](LEARNING_RESOURCES.md) · [Editable study tracker](LEARNING_TRACKER.csv) |
 | Exam priorities and current versions | [Certifications](CERTIFICATIONS.md) |
 | Portfolio-quality projects and acceptance tests | [Project backlog](PROJECT_BACKLOG.md) |
 | What employers can actually inspect | [Recruiter portfolio](RECRUITER_PORTFOLIO.md) · [Career-role matching](CAREER_MATCHING.md) |
@@ -24,7 +24,7 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 | Reusable project readme template | [Project template](templates/project-readme.md) |
 
 ### Actionable GitHub issues
-[Month-1 lab checklist](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/1) · [P01 validation](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/2) · [Linux failure atlas](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/3) · [Quarterly career/cert review](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/4)
+[Month-1 lab checklist](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/1) · [P01 validation](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/2) · [Linux failure atlas](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/3) · [Quarterly career/cert review](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/4) · [P03 hands-on systemd lab](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/5)
 
 ### Technical tracks
 [OS internals](OPERATING_SYSTEMS.md) · [Linux and Windows automation](AUTOMATION.md) · [Networking](NETWORKING.md) · [Windows/macOS/MDM](ENDPOINTS.md) · [Cloud & reliability](CLOUD_AND_RELIABILITY.md) · [Incident method](INCIDENT_METHOD.md)
