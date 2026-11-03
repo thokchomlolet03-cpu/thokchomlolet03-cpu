@@ -17,6 +17,6 @@
 This verifies **only a narrow smoke path** against a reproduced copy of the committed script. No ShellCheck execution, unit-test harness result, second distribution, independent review, resource-fault simulation, permission boundary or deployment has been verified.
 
 ## What would justify saying this project is “demonstrated”?
-A learner-owned VM with documented OS/kernel/architecture, unprivileged run, measured output validation, tests for missing/failing tools, lint results, controlled incident capture and repeatability after rebuild. See [P01 backlog](../../PROJECT_BACKLOG.md) and [validation issue](../../../../issues/2).
+A learner-owned VM with documented OS/kernel/architecture, unprivileged run, measured output validation, tests for missing/failing tools, lint results, controlled incident capture and repeatability after rebuild. See [P01 backlog](../../PROJECT_BACKLOG.md) and [validation issue](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/2).
 
 **No employer/customer system was accessed or modified.**
