@@ -1,6 +1,6 @@
 # P01 — Linux System Diagnostics (read-only starter)
 
-**Status: source authored; NOT yet validated in the owner's Linux lab.** This is an original Bash starter for learning, not an enterprise monitoring/remote-management agent.
+**Status: source authored; passed a narrow assistant-side isolated-Linux smoke test; NOT yet validated in the owner's Linux lab.** This is an original Bash starter for learning, not an enterprise monitoring/remote-management agent.
 
 ## Problem
 A support engineer needs immediate, **non-invasive**, local observations for a Linux performance or service problem. The wrong action (e.g., blindly restarting a process) can erase evidence and mask root cause.
@@ -32,7 +32,10 @@ Review the code before running. Do **not** run it on employer devices without au
 - The highest instantaneous CPU consumer need not be root cause.
 - A single snapshot does not establish a trend or service-level objective.
 
-## Planned validation (not yet executed in owner's lab)
+## Initial narrow smoke evidence
+A separate isolated Linux container executed a reproduced copy of the script: Bash syntax passed, help printed, invalid-argument exit was 2, and read-only output completed with exit code 0 and zero section warnings. [Evidence and limitations](EVIDENCE.md). This is **not independent validation and not a test on the owner's machine**. CI has been configured, but its successful execution is not claimed here.
+
+## Planned owner-lab validation (not yet executed)
 1. Run `bash -n diagnose.sh` and `shellcheck diagnose.sh` when installed.
 2. Compare each printed section with direct source commands.
 3. Run as non-root in Ubuntu Server and at least one other Linux version, logging exact versions.

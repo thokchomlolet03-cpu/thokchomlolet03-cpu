@@ -8,14 +8,14 @@ Enterprise Level 2 support experience across endpoint software, Microsoft 365, A
 ## What this portfolio proves today
 - An intentionally sequenced 24-month technical development plan and official-first resource catalog.
 - Public, explicit project specifications with acceptance tests, security boundaries and reproducibility requirements.
-- [P01 Linux Diagnostics starter](projects/p01-linux-diagnostics/README.md): source code available for review, **not yet validated or deployed**.
+- [P01 Linux Diagnostics starter](projects/p01-linux-diagnostics/README.md): source code available for review and narrow assistant-side Linux smoke execution; **not yet validated in the owner's lab or deployed**.
 
 It does **not yet prove** live operation of a production fleet, paid certifications listed in the plan, cloud employment, enterprise ownership of Jamf or Intune tenants, or completed advanced Linux labs.
 
 ## Demonstration links (update only after evidence exists)
 | Engineering capability | Project / evidence | Status |
 |---|---|---|
-| Linux initial response and observability | [P01 starter](projects/p01-linux-diagnostics/README.md) | Source authored; lab verification pending |
+| Linux initial response and observability | [P01 starter](projects/p01-linux-diagnostics/README.md) | Source authored; narrow assistant-side smoke only; owner-lab verification pending |
 | Linux boot and service repair | P02 / P03 in [project backlog](PROJECT_BACKLOG.md) | Planned |
 | Windows identity and endpoint admin | P04 / P05 in [project backlog](PROJECT_BACKLOG.md) | Planned |
 | Configuration management | P06 in [project backlog](PROJECT_BACKLOG.md) | Planned |
