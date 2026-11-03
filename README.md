@@ -11,7 +11,7 @@
 
 <br>
 
-I'm **Lolet** — an enterprise IT support professional and independent software builder based in the UAE. My background includes three years of Level 2 support for Finastra through Tech Mahindra, where I worked across user devices, identity and access, collaboration tools, incident management, and technical escalations.
+I'm **Lolet** — an enterprise IT support professional based in the UAE, concentrating on operating systems, Windows/macOS endpoint administration, networks, technical troubleshooting, and reliable infrastructure automation. I also build independent software and research projects. My background includes three years of Level 2 support for Finastra through Tech Mahindra, where I worked across user devices, identity and access, collaboration tools, incident management, and technical escalations.
 
 I build practical cloud and software projects alongside my work. My long-term direction is computational biotechnology: reliable systems, reproducible experiments, and honest handling of uncertain evidence.
 
@@ -70,7 +70,7 @@ A public record of study, projects, evidence, and changes of mind along the path
 
 <br>
 
-**Open to enterprise IT, cloud infrastructure, and software opportunities internationally, including relocation.**<br>
+**Open to IT support engineering, endpoint administration, systems/infrastructure operations, and cloud support opportunities internationally, including relocation.**<br>
 [Connect on LinkedIn ↗](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/) · [Read Friction Hunter ↗](https://thokchomlolet03-cpu.github.io/my-tech-blog/)
 
 <br>
