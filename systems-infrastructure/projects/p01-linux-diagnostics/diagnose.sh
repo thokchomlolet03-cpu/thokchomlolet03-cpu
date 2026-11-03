@@ -2,7 +2,7 @@
 # P01 — intentionally read-only Linux diagnostics starter.
 # Run on an isolated, personally owned or authorized Linux VM only.
 # Does not persist output, mutate system settings, or invoke network clients.
-set -u
+set -uo pipefail
 export LC_ALL=C
 
 usage() {
@@ -30,6 +30,7 @@ failures=0
 section() {
   local label="$1"; shift
   local program="$1"; shift
+  local status
   printf '\n=== %s ===\n' "$label"
   if ! command -v "$program" >/dev/null 2>&1; then
     printf 'WARN: command unavailable: %s\n' "$program" >&2
@@ -39,7 +40,7 @@ section() {
   if "$program" "$@"; then
     :
   else
-    local status=$?
+    status=$?
     printf 'WARN: %s exited with code %s\n' "$program" "$status" >&2
     failures=$((failures + 1))
   fi
@@ -53,7 +54,6 @@ section 'Memory allocation' free -h
 section 'Filesystem capacity' df -hP
 top_processes() {
   # Keep output bounded while consuming ps completely to avoid SIGPIPE.
-  set -o pipefail
   ps -eo pid,comm,%cpu,%mem --sort=-%cpu | awk 'NR <= 11 { print }'
 }
 section 'Top 10 processes by CPU (names may be sensitive)' top_processes
