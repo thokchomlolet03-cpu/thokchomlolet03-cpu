@@ -2,6 +2,8 @@
 
 **Last researched: 2026-11-03.** Free means content access is free, **not** necessarily a free exam, included lab/cloud tenant, perpetual access or optional instruction. Verify region-specific price, version and availability before paying.
 
+An editable [40-entry learning tracker](LEARNING_TRACKER.csv) is available for dated, evidence-linked progress. **Not started** in the tracker means *not yet recorded as completed in this portfolio*; it does not assert the user never studied the material elsewhere.
+
 ## How to use this catalog
 Pick **one primary** resource per topic, then use the reference material to answer questions raised by a lab. Record actual exercise evidence in [PROGRESS](PROGRESS.md). For each module, ask: (1) what mechanism did I learn? (2) can I predict an outcome? (3) can I provoke and diagnose a failure? (4) can I automate and test recovery?
 
