@@ -1,0 +1,16 @@
+# Example systemd user unit; do not install unchanged.
+# Replace every /ABSOLUTE/PATH with an actual path inside YOUR lab.
+# Keep it as a user unit; do not copy this to a production /etc/systemd/system.
+[Unit]
+Description=P03 Synthetic Loopback Health Service (Personal Lab Only)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/ABSOLUTE/PATH/TO/p03-service-failure-lab
+ExecStart=/usr/bin/python3 /ABSOLUTE/PATH/TO/p03-service-failure-lab/service.py --config /ABSOLUTE/PATH/TO/p03-service-failure-lab/config.json --port 8765
+Restart=no
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target
