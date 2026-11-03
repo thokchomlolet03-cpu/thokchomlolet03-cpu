@@ -51,7 +51,12 @@ section 'Kernel and machine' uname -srmo
 section 'Uptime and load' uptime
 section 'Memory allocation' free -h
 section 'Filesystem capacity' df -hP
-section 'Top processes by CPU (names may be sensitive)' ps -eo pid,comm,%cpu,%mem --sort=-%cpu
+top_processes() {
+  # Keep output bounded while consuming ps completely to avoid SIGPIPE.
+  set -o pipefail
+  ps -eo pid,comm,%cpu,%mem --sort=-%cpu | awk 'NR <= 11 { print }'
+}
+section 'Top 10 processes by CPU (names may be sensitive)' top_processes
 section 'Network socket summary (no remote connections)' ss -s
 
 printf '\nCompleted with %s section warning(s).\n' "$failures"

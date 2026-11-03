@@ -1,0 +1,30 @@
+name: Systems infrastructure - Bash starter checks
+
+on:
+  push:
+    paths:
+      - 'systems-infrastructure/**'
+      - '.github/workflows/systems-infrastructure-ci.yml'
+  pull_request:
+    paths:
+      - 'systems-infrastructure/**'
+      - '.github/workflows/systems-infrastructure-ci.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  linux-diagnostics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install shell diagnostic tooling
+        run: sudo apt-get update -qq && sudo apt-get install -y shellcheck iproute2 procps
+      - name: Validate Bash syntax and lint
+        run: |
+          bash -n systems-infrastructure/projects/p01-linux-diagnostics/diagnose.sh
+          shellcheck systems-infrastructure/projects/p01-linux-diagnostics/diagnose.sh
+          shellcheck systems-infrastructure/projects/p01-linux-diagnostics/tests/smoke.sh
+      - name: Run read-only smoke tests
+        run: bash systems-infrastructure/projects/p01-linux-diagnostics/tests/smoke.sh
