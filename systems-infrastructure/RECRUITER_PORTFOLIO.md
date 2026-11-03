@@ -16,7 +16,7 @@ It does **not yet prove** live operation of a production fleet, paid certificati
 | Engineering capability | Project / evidence | Status |
 |---|---|---|
 | Linux initial response and observability | [P01 starter](projects/p01-linux-diagnostics/README.md) | Source authored; narrow assistant-side smoke only; owner-lab verification pending |
-| Linux boot and service repair | P02 / P03 in [project backlog](PROJECT_BACKLOG.md) | Planned |
+| Linux boot and service repair | [P03 read-only local service incident starter](projects/p03-service-failure-lab/README.md); P02 in [backlog](PROJECT_BACKLOG.md) | P03 synthetic unit tests passed; systemd experiments pending |
 | Windows identity and endpoint admin | P04 / P05 in [project backlog](PROJECT_BACKLOG.md) | Planned |
 | Configuration management | P06 in [project backlog](PROJECT_BACKLOG.md) | Planned |
 | Real protocol troubleshooting | P07 in [project backlog](PROJECT_BACKLOG.md) | Planned |

@@ -7,7 +7,8 @@
 | 2026-11-03 | Program | Authored study roadmap, resource catalog and project specifications | Repository commit history | Documentation published | Build one isolated Ubuntu VM |
 | 2026-11-03 | P01 | Authored starter Bash diagnostics script and README | [P01](projects/p01-linux-diagnostics/README.md) | Not run in owner's VM; **unvalidated in owner lab** | Run ShellCheck/Bats, cross-distro tests and capture real owner-lab outputs |
 | 2026-11-03 | P01 local syntax smoke | Assistant-side isolated Linux container: `bash -n` passed; `--help` displayed help; invalid option returned 2; normal execution returned 0 with 0 section warnings | [Narrow evidence record](projects/p01-linux-diagnostics/EVIDENCE.md) | **Limited assistant-side execution**; no independent owner validation | Reproduce from fresh Linux VM and inspect sensitive-output handling |
-| — | P02–P12 | — | — | Planned | Follow [first month](FIRST_30_DAYS.md) |
+| 2026-11-03 | P03 local tests | Authored synthetic loopback health service and four unit tests; tests run in assistant-side Debian 13 container using Python 3.13.5 | [P03 service/test code](projects/p03-service-failure-lab/README.md) | **Four unit tests passed; no owner-lab/systemd validation** | Exercise configuration, port and user-unit errors on a fresh VM |
+| — | P02, P04–P12 | — | — | Planned | Follow [first month](FIRST_30_DAYS.md) |
 
 ## Weekly log template (copy, fill only after doing the work)
 ### YYYY-MM-DD — Topic

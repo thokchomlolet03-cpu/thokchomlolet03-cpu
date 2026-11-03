@@ -19,7 +19,7 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 | What employers can actually inspect | [Recruiter portfolio](RECRUITER_PORTFOLIO.md) · [Career-role matching](CAREER_MATCHING.md) |
 | Low-cost VM and hardware setup | [Home lab](LAB_SETUP.md) |
 | What I need to prove to claim competence | [Skills matrix](SKILLS_MATRIX.md) |
-| Dated learning and evidence journal | [Progress ledger](PROGRESS.md) · [Evidence policy](EVIDENCE_POLICY.md) |
+| Dated learning and evidence journal | [Progress ledger](PROGRESS.md) · [Evidence policy](EVIDENCE_POLICY.md) · [QA checks](QUALITY_ASSURANCE.md) |
 | Reusable incident-report template | [Incident report template](templates/incident-report.md) |
 | Reusable project readme template | [Project template](templates/project-readme.md) |
 
@@ -30,7 +30,8 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 [OS internals](OPERATING_SYSTEMS.md) · [Linux and Windows automation](AUTOMATION.md) · [Networking](NETWORKING.md) · [Windows/macOS/MDM](ENDPOINTS.md) · [Cloud & reliability](CLOUD_AND_RELIABILITY.md) · [Incident method](INCIDENT_METHOD.md)
 
 ### Code and existing evidence
-- [P01 Linux Diagnostics starter](projects/p01-linux-diagnostics/README.md) — **starter code; no executed user-lab evidence yet**.
+- [P01 Linux Diagnostics](projects/p01-linux-diagnostics/README.md) — read-only Bash diagnostics; local smoke/error-path tests, user-lab verification pending.
+- [P03 Linux Service Failure Lab](projects/p03-service-failure-lab/README.md) — loopback-only Python service; four local unit tests passed, systemd incidents pending.
 - [Terraform Mastery](https://github.com/thokchomlolet03-cpu/terraform-mastery) — separate, existing in-depth IaC curriculum.
 - [Professional GitHub home](https://github.com/thokchomlolet03-cpu) — career profile and other technical work.
 

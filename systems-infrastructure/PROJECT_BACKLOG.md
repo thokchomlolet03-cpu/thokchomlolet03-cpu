@@ -17,7 +17,7 @@ Use [project template](templates/project-readme.md), [incident report template](
 |---|---|---|---|---|
 | P01 | Immediate | [Linux System Diagnostics](projects/p01-linux-diagnostics/README.md) | Bash, Linux observations, safe CLI | **Starter authored; not yet validated on a real user lab** |
 | P02 | First quarter | Boot-to-login and Linux recovery atlas | Firmware, bootloader, kernel, systemd | Planned |
-| P03 | First half-year | Linux service failure investigation suite | Systemd, permissions, logs, processes | Planned |
+| P03 | First half-year | [Linux Service Failure Lab](projects/p03-service-failure-lab/README.md) | systemd, service configuration, ports, logs | **Code and tests locally executed; real systemd failure atlas planned** |
 | P04 | First half-year | Isolated Windows AD DS / Group Policy lab | Windows Server, DNS, GPO, identity | Planned |
 | P05 | Months 7–9 | Cross-platform system inventory and remediation | PowerShell, Python/Bash, schema, tests | Planned |
 | P06 | Months 7–9 | Idempotent three-node Linux fleet | Ansible, security, configuration drift | Planned |

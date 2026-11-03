@@ -32,6 +32,14 @@ jobs:
           bash systems-infrastructure/projects/p01-linux-diagnostics/tests/smoke.sh
           bash systems-infrastructure/projects/p01-linux-diagnostics/tests/failure_cases.sh
 
+  service-failure-lab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test synthetic loopback service
+        run: python3 -m unittest discover -s systems-infrastructure/projects/p03-service-failure-lab/tests -v
+
   documentation:
     runs-on: ubuntu-latest
     timeout-minutes: 5
