@@ -23,6 +23,12 @@ I build practical cloud and software projects alongside my work. My long-term di
 
 **[Project guide: purpose, evidence, maturity, and limitations](./PROJECT_GUIDE.md)**
 
+## Systems & Infrastructure Engineering
+
+My focused career-development and hands-on systems portfolio is now organized in **[Systems & Infrastructure Engineering](./systems-infrastructure/README.md)** — an evidence-first learning workbench for Linux and Windows OS internals, networking, enterprise endpoint management (Intune/Jamf), Bash/PowerShell/Python automation, Ansible and reliability.
+
+Start with the [24-month roadmap](./systems-infrastructure/ROADMAP.md), [official learning resources](./systems-infrastructure/LEARNING_RESOURCES.md), [certification priorities](./systems-infrastructure/CERTIFICATIONS.md) or the [recruiter-facing evidence index](./systems-infrastructure/RECRUITER_PORTFOLIO.md). **The syllabus is a plan; incomplete projects and unearned certifications are explicitly labelled.**
+
 ## Selected work
 
 Four ways I explore that direction. **Each card opens the source.**
