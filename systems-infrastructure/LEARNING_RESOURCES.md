@@ -55,6 +55,7 @@ Pick **one primary** resource per topic, then use the reference material to answ
 |---|---|---|
 | **[Jamf 100](https://www.jamf.com/training/100-course/)** | **25 free lessons**; exam **USD 100** currently | Mac/iOS/iPadOS, Jamf Pro, profiles, app/software management |
 | [Jamf training catalog](https://trainingcatalog.jamf.com/) | Self-paced selection and paid tracks | Jamf Pro, Protect, device management |
+| **[Jamf 170 — Jamf Protect](https://www.jamf.com/training/170-course/)** | **14 free lessons and a free certification exam** per Jamf's 2025 announcement; verify current exam terms before registering | Apple endpoint security, compliance, Jamf Protect and Jamf Security Cloud |
 | [Jamf 200](https://www.jamf.com/training/200-course/) | Paid instructor-led | Advanced hands-on Jamf administration |
 | **[Apple IT Training](https://training.apple.com/)** | Self-paced learning; certification exams paid | Apple Device Support, Deployment and Management |
 | [Apple Platform Deployment](https://support.apple.com/guide/deployment/welcome/web) | Free Apple reference | Enrollment, identity, platform management |
