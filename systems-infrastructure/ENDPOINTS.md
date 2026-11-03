@@ -16,6 +16,7 @@ Professional relevance: user has prior enterprise support exposure to Microsoft 
 
 **Jamf Pro learning sequence:**
 1. Free [Jamf 100](https://www.jamf.com/training/100-course/) and interactive simulations.
+1a. Complete free [Jamf 170](https://www.jamf.com/training/170-course/) for Jamf Protect and Apple endpoint security; official Jamf announcement describes its exam as free.
 2. [Apple Platform Deployment](https://support.apple.com/guide/deployment/welcome/web) and [Apple Platform Security](https://support.apple.com/guide/security/welcome/web).
 3. Document lifecycle and policy examples in a mock architecture.
 4. When permitted, conduct real tests using a personal Mac and an appropriate Jamf trial/organizational tenant, under vendor licensing and Apple enrollment rules.
