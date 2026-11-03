@@ -18,6 +18,9 @@
 | **C** | **Google Associate Cloud Engineer** | Meaningful Google Cloud ops work aligned to real hiring roles | [Google Cloud certifications](https://cloud.google.com/learn/certification); exam paid |
 | **Later** | **RHCE / Ansible specialization** | Have RHCSA and advanced multi-node automation mastery | [Red Hat renewals and certification](https://www.redhat.com/en/services/certification/renewal) |
 
+## Current Jamf validity (official source)
+Jamf's [September 2026 training support matrix](https://support.jamf.com/en/articles/13180165-jamf-training-courses-certifications) states that **Jamf 100 and Jamf 170 certifications do not expire**, whereas **Jamf 200 expires after three years**. This matters when choosing a low-cost first step. Free training is not always the same as a free certification exam; confirm exam checkout terms individually.
+
 ## Decisions, not accumulation
 - Start with free resources. **Do not book any paid exam in the first 90 days by default**.
 - First paid credential: **choose one**: RHCSA if Linux/sysadmin interviews materialize, **or** MD-102 if endpoint/Intune positions respond. Existing enterprise endpoint experience provides a stronger early narrative for MD-102, but technical interest may favor RHCSA.
