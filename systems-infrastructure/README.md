@@ -13,6 +13,7 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 ### Navigation
 | Purpose | Where |
 |---|---|
+| **Daily Learning Hub — German, incident reports, NotebookLM** | **[Open Learning Hub](../learning-hub/README.md)** · [German A1–C2](../learning-hub/german/README.md) · [Engineering incidents](../learning-hub/engineering-incidents/README.md) · [NotebookLM index](../learning-hub/notebooklm/INDEX.md) |
 | Start learning immediately | [First 30 days](FIRST_30_DAYS.md) · [First 12 weeks](LEARNING_SCHEDULE.md) |
 | 24-month strategy and decision gates | [Roadmap](ROADMAP.md) |
 | Courses, books, docs and free practice | [Learning resources](LEARNING_RESOURCES.md) · [Editable study tracker](LEARNING_TRACKER.csv) |

@@ -1,0 +1,72 @@
+name: "Share a NotebookLM learning deep dive"
+description: "Submit a PUBLIC, privacy-reviewed NotebookLM link for the German/technical learning index."
+title: "[NotebookLM] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This is a PUBLIC GitHub issue.** Only submit a notebook already suitable for public sharing. Public notebook viewers may be able to access attached sources and artifacts, even from chat-view links. Never include employer/customer material, sensitive personal data, credentials, or restricted copyrighted sources. Submitting an issue does NOT automatically add it to the curated index.
+  - type: input
+    id: title
+    attributes:
+      label: "Notebook title"
+      placeholder: "e.g. German A1 — Sentence Structure or Linux — systemd service troubleshooting"
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: "Learning track"
+      options:
+        - "German language"
+        - "Linux / operating systems"
+        - "Windows / identity / endpoints"
+        - "Networking / security"
+        - "Hardware / virtualization / recovery"
+        - "Automation / cloud / SRE"
+        - "Independent research / other"
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: "German level (if applicable)"
+      options:
+        - "Not applicable or not yet assessed"
+        - "A1"
+        - "A2"
+        - "B1"
+        - "B2"
+        - "C1"
+        - "C2"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: "Public NotebookLM share URL"
+      description: "Test with a separate account before submitting. Do not post private/restricted URLs."
+      placeholder: "https://notebooklm.google.com/notebook/..."
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: "Original public source links (optional)"
+      description: "Official course, documentation or publicly accessible article links; no private docs."
+    validations:
+      required: false
+  - type: textarea
+    id: findings
+    attributes:
+      label: "Key question and two original findings"
+      placeholder: "What did I learn? What remains uncertain? Which experiment or language practice would verify it?"
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: "Public sharing confirmation"
+      options:
+        - label: "I checked the entire notebook, sources and artifacts and have permission to share them publicly; no private, employer, sensitive or restricted content is included."
+          required: true

@@ -1,0 +1,9 @@
+id,organization,topic,source_url,related_project,reading_status,notebooklm_link,notes
+R001,Cloudflare,2025 June outage,https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/,P03,Not started,,
+R002,Cloudflare,2025 December outage,https://blog.cloudflare.com/5-december-2025-outage,P07,Not started,,
+R003,Netflix,Mount Mayhem and CPU architecture,https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac,P09,Not started,,
+R004,Netflix,Pensive AI failure diagnosis,https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015,P01,Not started,,
+R005,Netflix,Service topology mapping,https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc,P10,Not started,,
+R006,Spotify,Podcast video incident July 2026,https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report,P10,Not started,,
+R007,GitHub,September 2026 availability report,https://github.blog/news-insights/company-news/github-availability-report-september-2026/,P10,Not started,,
+R008,Google SRE,Incident response case studies,https://sre.google/workbook/incident-response/,P10,Not started,,

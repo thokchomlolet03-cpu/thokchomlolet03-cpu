@@ -46,7 +46,8 @@ def check(root, documents):
 def main():
     root = Path(__file__).resolve().parents[2]
     docs = sorted((root / "systems-infrastructure").rglob("*.md"))
-    docs.append(root / "README.md")
+    docs += sorted((root / "learning-hub").rglob("*.md"))
+    docs += [root / "README.md", root / "PROJECT_GUIDE.md"]
     errors = check(root, docs)
     for error in errors:
         print(error, file=sys.stderr)
