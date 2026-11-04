@@ -32,6 +32,13 @@ Host architecture, RAM, disk, hypervisor/version, each VM OS/kernel/release, net
 ## Rebuild/recovery checklist
 From a fresh image: install, configure secure access, recreate the fault, run diagnostic commands, demonstrate root cause, fix it, reboot and verify expected state. Record exact commands and versions. Remove lab resources safely afterward.
 
+## New guided labs and realistic prerequisites
+- **[P04 Windows Server and PowerShell](projects/p04-windows-infrastructure/README.md):** a licensed or permitted evaluation Windows Server VM, Windows client VM and private virtual network for AD DS/GPO; a standalone personal Windows PC can be used for the read-only PowerShell starter if two VMs are unaffordable.
+- **[P13 Virtualization and Disaster Recovery](projects/p13-virtualization-recovery/README.md):** one hypervisor and guest VM, an independent backup destination, synthetic test files and verified restore into an isolated fresh VM. Snapshots stored with the only VM are not independent backups.
+- **[Hardware and virtualization track](HARDWARE_AND_VIRTUALIZATION.md):** focus on CPU/RAM/storage/UEFI and host/guest resource boundaries before advanced VMware or cloud certifications.
+
+**No purchasing requirement now:** choose a free/local option compatible with existing equipment. Do not assume an ARM64 Apple Silicon host can run every x86 Windows Server lab natively; check image architecture and legal licensing first.
+
 ## Upgrades
 1. One Linux VM + shell.
 2. Two Linux VMs + Ansible.

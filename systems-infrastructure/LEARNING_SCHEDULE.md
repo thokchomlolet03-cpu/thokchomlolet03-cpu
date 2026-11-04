@@ -9,7 +9,7 @@
 | 3 | Processes, services and logs | Failed systemd service diagnosis | Hypotheses + `journalctl` + repeatable repair |
 | 4 | Network interfaces, DNS, TCP | Isolated DNS misconfiguration | Distinguish DNS failure from routing/port failure |
 | 5 | Bash manual: quoting, redirection, exit codes | Improve P01 with safe error handling | Script run and real tests |
-| 6 | PowerShell basics and object pipeline | Windows services/process inventory | Structured output and explain objects vs text |
+| 6 | PowerShell basics and object pipeline | Begin [P04 read-only Windows inventory](projects/p04-windows-infrastructure/README.md) | Structured output; explain cumulative CPU vs instantaneous usage |
 | 7 | OSTEP process virtualization chapters | Compare CPU-bound and I/O-bound behaviors | Measured process timing/CPU state |
 | 8 | OSTEP memory virtualization | Inspect RSS, faults, swap | VM-safe bounded experiment and explanation |
 | 9 | Disk, mounts, ext4/XFS and journaling | Disposable disk and filesystem lab | Recover a safe mount mistake; persistence |
@@ -36,3 +36,6 @@ If MD-102/Intune job interviews rise, increase Windows/PowerShell in weeks 6–1
 
 ## Monthly reflection (copy into PROGRESS)
 Time actually studied; working artifacts; failed attempts; blind spots; changes in job requirements; spent money vs acquired skill; next month's one primary deliverable.
+
+## Additional early milestone — infrastructure recovery
+When comfortable with your first VM and snapshot, study [P13](projects/p13-virtualization-recovery/README.md) and perform a **small synthetic-file backup and independent restore**. Keep the exercise entirely within your own isolated environment. Avoid duplicating software vendors or paying for a dedicated hypervisor until the current VM workflow is reproducible.
