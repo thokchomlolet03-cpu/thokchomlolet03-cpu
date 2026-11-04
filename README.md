@@ -5,6 +5,7 @@
 <p align="center">
   <a href="./START_HERE.md"><b>START HERE ↗</b></a> &nbsp; / &nbsp;
   <a href="./learning-hub/README.md"><b>LEARNING HUB ↗</b></a> &nbsp; / &nbsp;
+  <a href="./learning-hub/quantum/README.md"><b>QUANTUM RESEARCH ↗</b></a> &nbsp; / &nbsp;
   <a href="./essays/README.md"><b>ESSAYS ↗</b></a> &nbsp; / &nbsp;
   <a href="https://lolet-observatory.lolet.chatgpt.site"><b>ENTER THE OBSERVATORY ↗</b></a> &nbsp; / &nbsp;
   <a href="#selected-work"><b>EXPLORE THE WORK</b></a> &nbsp; / &nbsp;
@@ -29,6 +30,7 @@ My current professional focus is progressing from enterprise IT support into Win
 | **German A1 → C2** | [Level-by-level courses, practice and exam preparation](./learning-hub/german/README.md) |
 | **Real engineering failures** | [Netflix, Cloudflare, GitHub, Spotify and Google SRE investigations](./learning-hub/engineering-incidents/README.md) |
 | **NotebookLM deep dives** | [Notebook index](./learning-hub/notebooklm/INDEX.md) · [Share a public notebook](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/new?template=notebooklm-link.yml) |
+| **Quantum computing for future discovery** | **[Quantum first-principles learning path](./learning-hub/quantum/README.md)** · [Qiskit](./learning-hub/quantum/QISKIT.md) · [Google Cirq](./learning-hub/quantum/GOOGLE_CIRQ.md) |
 
 German study is an ongoing personal goal, **not a claim of a certified CEFR level**. NotebookLM links are added only when safe to share publicly.
 
@@ -56,6 +58,12 @@ Start with the [24-month roadmap](./systems-infrastructure/ROADMAP.md), [officia
 | [Virtualization & Recovery (P13)](./systems-infrastructure/projects/p13-virtualization-recovery/README.md) | Can a service be restored from independent backups after a VM failure? | **Planned lab; no restore claim** |
 
 [Evidence and role-readiness index](./systems-infrastructure/RECRUITER_PORTFOLIO.md) · [Role requirements and capability tracking](./systems-infrastructure/CAREER_EVIDENCE_SYSTEM.md)
+
+## Future research track — quantum computing and AI
+
+I am separately building the mathematical and experimental foundation to evaluate quantum computing for future scientific discovery. The **[quantum computing learning path](./learning-hub/quantum/README.md)** starts with IBM/Qiskit, adds Google/Cirq and hardware constraints, and requires rigorous classical baselines before any claimed quantum benefit. **This is study and proposed experimentation, not a deployed quantum-AI product or a current professional skill claim.**
+
+[12-week optional study on-ramp](./learning-hub/quantum/ROADMAP_12_WEEKS.md) · [experiments](./learning-hub/quantum/EXPERIMENTS.md) · [quantum–AI research decision framework](./learning-hub/quantum/QUANTUM_AI_RESEARCH.md)
 
 ## Other selected software and research work
 

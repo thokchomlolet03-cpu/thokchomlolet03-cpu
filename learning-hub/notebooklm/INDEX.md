@@ -24,6 +24,16 @@
 | Infrastructure recovery | — | — | What survives snapshots, disk loss, backup and restoration? | Not submitted |
 | Engineering outages | — | — | What does a public postmortem actually establish? | Not submitted |
 
+## Quantum computing and quantum–AI research
+
+| Theme | Notebook title | Open notebook | Research question | Status |
+|---|---|---|---|---|
+| Quantum foundations | — | — | How do vectors, gates and measurement determine circuit output? | Not submitted |
+| Qiskit / Cirq | — | — | Which transformations preserve circuit meaning under hardware constraints? | Not submitted |
+| Quantum–AI integration | — | — | Which specific subproblem could justify a quantum method after a strong classical baseline? | Not submitted |
+
+[Quantum learning path](../quantum/README.md) · [Experiment protocol](../quantum/EXPERIMENTS.md)
+
 ## Other research
 
 | Theme | Notebook title | Open notebook | Scope/limitations | Status |
