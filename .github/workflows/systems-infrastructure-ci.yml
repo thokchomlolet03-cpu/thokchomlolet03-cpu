@@ -5,6 +5,8 @@ on:
     paths:
       - 'systems-infrastructure/**'
       - 'learning-hub/**'
+      - 'essays/**'
+      - 'START_HERE.md'
       - 'README.md'
       - 'PROJECT_GUIDE.md'
       - '.github/ISSUE_TEMPLATE/notebooklm-link.yml'
@@ -13,6 +15,8 @@ on:
     paths:
       - 'systems-infrastructure/**'
       - 'learning-hub/**'
+      - 'essays/**'
+      - 'START_HERE.md'
       - 'README.md'
       - 'PROJECT_GUIDE.md'
       - '.github/ISSUE_TEMPLATE/notebooklm-link.yml'
