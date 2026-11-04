@@ -15,6 +15,7 @@ Use this area as the **directory of original study notebooks**, whether the subj
 | Organize many notebooks or export records | [CATALOG.csv](CATALOG.csv) |
 | Write a deep-dive summary with source evaluation | [Study note template](NOTE_TEMPLATE.md) |
 | Go back to German lessons | [German A1–C2](../german/README.md) |
+| Study design, communication or business | [Human skills learning hub](../personal-skills/README.md) |
 | Go back to production engineering reading | [Incident library](../engineering-incidents/README.md) |
 
 **There are no user-supplied NotebookLM URLs stored here yet.** The examples below are topic suggestions, not existing notebooks.
@@ -38,6 +39,11 @@ Use this area as the **directory of original study notebooks**, whether the subj
 - **Quantum fundamentals:** qubits, complex amplitudes, tensor products, measurement and entanglement.
 - **IBM/Qiskit and Google/Cirq:** modern circuit APIs, compilation, noise, device connectivity and error correction.
 - **Quantum + AI research:** trustworthy classical baselines, hybrid methods, resource accounting and scientific limitations. Start at the [separate quantum learning pathway](../quantum/README.md). Keep unproven claims labeled as hypotheses.
+
+### Visual literacy, communication, and entrepreneurship
+- **Design:** visual hierarchy, proportion, color theory, accessible typography and original comparisons.
+- **Communication:** public-speaking practice and accurate explanations of work, with no confidential employer data.
+- **Business:** marketing frameworks and anonymous, consent-based customer discovery. See the [human skills learning path](../personal-skills/README.md).
 
 ### Other independent research
 - Keep science and exploratory-research notebooks separate from recruiter-facing employment evidence. Source-based summaries are not independent experiments or experimental proof.

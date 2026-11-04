@@ -5,6 +5,7 @@
 <p align="center">
   <a href="./START_HERE.md"><b>START HERE ↗</b></a> &nbsp; / &nbsp;
   <a href="./learning-hub/README.md"><b>LEARNING HUB ↗</b></a> &nbsp; / &nbsp;
+  <a href="./learning-hub/personal-skills/README.md"><b>HUMAN SKILLS ↗</b></a> &nbsp; / &nbsp;
   <a href="./learning-hub/quantum/README.md"><b>QUANTUM RESEARCH ↗</b></a> &nbsp; / &nbsp;
   <a href="./essays/README.md"><b>ESSAYS ↗</b></a> &nbsp; / &nbsp;
   <a href="https://lolet-observatory.lolet.chatgpt.site"><b>ENTER THE OBSERVATORY ↗</b></a> &nbsp; / &nbsp;
@@ -31,6 +32,7 @@ My current professional focus is progressing from enterprise IT support into Win
 | **Real engineering failures** | [Netflix, Cloudflare, GitHub, Spotify and Google SRE investigations](./learning-hub/engineering-incidents/README.md) |
 | **NotebookLM deep dives** | [Notebook index](./learning-hub/notebooklm/INDEX.md) · [Share a public notebook](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/new?template=notebooklm-link.yml) |
 | **Quantum computing for future discovery** | **[Quantum first-principles learning path](./learning-hub/quantum/README.md)** · [Qiskit](./learning-hub/quantum/QISKIT.md) · [Google Cirq](./learning-hub/quantum/GOOGLE_CIRQ.md) |
+| **Visual design, communication and entrepreneurship** | **[Human Skills Learning Hub](./learning-hub/personal-skills/README.md)** · [12-week practice plan](./learning-hub/personal-skills/ROADMAP_12_WEEKS.md) |
 
 German study is an ongoing personal goal, **not a claim of a certified CEFR level**. NotebookLM links are added only when safe to share publicly.
 

@@ -23,6 +23,10 @@ A dedicated [Systems & Infrastructure Engineering workbench](./systems-infrastru
 
 [Recruiter view](./systems-infrastructure/RECRUITER_PORTFOLIO.md) · [Windows lab](./systems-infrastructure/projects/p04-windows-infrastructure/README.md) · [Independent backup/recovery lab](./systems-infrastructure/projects/p13-virtualization-recovery/README.md)
 
+## Human skills — visual literacy, professional communication and entrepreneurship
+
+A separate [human skills learning track](./learning-hub/personal-skills/README.md) organizes design principles, applied aesthetic judgment, safe decision experiments, workplace communication and customer discovery. These are **planned learning activities**, not professional design/marketing qualifications. Use the [12-week roadmap](./learning-hub/personal-skills/ROADMAP_12_WEEKS.md) and preserve privacy in public notes.
+
 ## Quantum computing — longer-term research preparation
 
 The [quantum computing learning track](./learning-hub/quantum/README.md) organizes current IBM Qiskit and Google Cirq resources, theory prerequisites and planned classical-vs-quantum experiments. It is **a separate research learning roadmap**, not evidence of deployed quantum acceleration or current QPU access. Study records will be validated through the [quantum experiment protocol](./learning-hub/quantum/EXPERIMENTS.md) and not mixed into professional systems administration claims.

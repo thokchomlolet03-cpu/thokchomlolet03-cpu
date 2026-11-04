@@ -1,0 +1,22 @@
+id,track,provider,title,url,format,access,priority,exercise_note,verified_scope
+H001,Visual literacy,Nielsen Norman Group,5 Principles of Visual Design,https://www.nngroup.com/articles/principles-visual-design/,article,Free,High,Annotate hierarchy balance contrast,Official article
+H002,Visual literacy,CalArts/Coursera,Fundamentals of Graphic Design,https://www.coursera.org/learn/fundamentals-of-graphic-design,course,Access or certificate may cost,High,Recreate a poster or original project icon,Official course page
+H003,Visual literacy,Adobe,Adobe Color Wheel,https://color.adobe.com/create/color-wheel,tool,Free tool,High,Create and compare 3-5 color palette,Vendor tool
+H004,Visual literacy,WebAIM,Contrast Checker,https://webaim.org/resources/contrastchecker/,tool,Free,High,Check text and background contrast,Accessibility tool
+H005,Visual literacy,Google Design,Choosing Web Fonts,https://design.google/library/choosing-web-fonts-beginners-guide,article,Free,Medium,Compare readable fonts and consistent sizes,Editorial resource
+H006,Visual literacy,Open University,Making Sense of Art History,https://www.open.edu/openlearn/history-the-arts/making-sense-art-history/content-section-0,course,OpenLearn terms apply,Medium,Analyze artwork with evidence,University resource
+H007,Visual literacy,Stanford d.school,Design Thinking Bootleg,https://dschool.stanford.edu/tools/design-thinking-bootleg,toolkit,Free,High,Prototype and test with peers,Official toolkit
+H008,Visual literacy,Benjamin Moore,Exterior color inspiration,https://www.benjaminmoore.com/en-us/project-ideas-inspiration/exteriors,guide,Free vendor article,Optional,Compare materials and lighting,Commercial vendor inspiration
+H009,Visual literacy,GQ,GQ Style,https://www.gq.com/style,editorial,Some content paywalled,Optional,Explore fit and silhouette; test individually,Editorial not scientific sizing rule
+H010,Decision making,CCI,Put Off Procrastinating,https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Procrastination,workbook,Free,High,Modules 1-3 and 6 with private notes,Educational not clinical advice
+H011,Decision making,CCI,What Me Worry,https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination,workbook,Free,High,Module 7 problem solving and 9 uncertainty,Educational not clinical advice
+H012,Professional communication,CCI,Assert Yourself,https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Assertiveness,workbook,Free,High,Practice clear respectful requests,Educational not clinical advice
+H013,Professional communication,University of Washington/Coursera,Introduction to Public Speaking,https://www.coursera.org/learn/public-speaking,course,Access or certificate may cost,High,Practice two minute project explanation,Official course page
+H014,Professional communication,Toastmasters,RAK Toastmasters,https://www.toastmasters.org/Find-a-Club/28676661-rak-toastmasters,club,Guest visit free; membership charged,High,Confirm next club meeting and observe,Official club listing
+H015,Professional communication,Toastmasters,Find a Club,https://www.toastmasters.org/find-a-club,directory,Free directory,Medium,Compare local and virtual meeting options,Official club directory
+H016,Professional communication,Harvard Business Review,What to Do When You Are Overlooked,https://podcasts.apple.com/us/podcast/what-to-do-when-youre-overlooked/id152022135?i=1000665144866,podcast,Availability varies,Optional,Create one communication experiment,Apple Podcasts listing
+H017,Marketing and entrepreneurship,Y Combinator,Startup School,https://www.startupschool.org/,course,Free,High,Identify concrete customers and problems,Official free program
+H018,Marketing and entrepreneurship,Y Combinator,Startup Library,https://www.ycombinator.com/library,articles and videos,Free,High,Prepare five customer interview questions,Official publisher
+H019,Marketing and entrepreneurship,HubSpot,Inbound Certification,https://academy.hubspot.com/courses/inbound,course,Free certificate and learning account,High,Build persona and truthful value proposition,Official course
+H020,Marketing and entrepreneurship,HubSpot,HubSpot Academy,https://academy.hubspot.com/,course catalog,Free courses and some account features,Medium,Explore marketing and sales basics,Official catalog
+H021,Marketing and entrepreneurship,Wharton/Coursera,Introduction to Marketing,https://www.coursera.org/learn/wharton-marketing,course,Access or certificate may cost,Optional,Positioning and customer centricity,Official course
