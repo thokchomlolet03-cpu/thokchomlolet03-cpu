@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="./START_HERE.md"><b>START HERE ↗</b></a> &nbsp; / &nbsp;
   <a href="./learning-hub/README.md"><b>LEARNING HUB ↗</b></a> &nbsp; / &nbsp;
+  <a href="./essays/README.md"><b>ESSAYS ↗</b></a> &nbsp; / &nbsp;
   <a href="https://lolet-observatory.lolet.chatgpt.site"><b>ENTER THE OBSERVATORY ↗</b></a> &nbsp; / &nbsp;
   <a href="#selected-work"><b>EXPLORE THE WORK</b></a> &nbsp; / &nbsp;
   <a href="https://thokchomlolet03-cpu.github.io/my-tech-blog/"><b>READ THE NOTES</b></a> &nbsp; / &nbsp;
@@ -15,6 +17,8 @@
 I'm **Lolet** — an enterprise IT support professional based in the UAE, concentrating on operating systems, Windows/macOS endpoint administration, networks, technical troubleshooting, and reliable infrastructure automation. I also build independent software and research projects. My background includes three years of Level 2 support for Finastra through Tech Mahindra, where I worked across user devices, identity and access, collaboration tools, incident management, and technical escalations.
 
 My current professional focus is progressing from enterprise IT support into Windows/Linux systems administration, endpoint engineering and infrastructure automation. Outside that career path, I also explore longer-term independent research in computational biotechnology.
+
+**[New here? Start with the visitor guide.](./START_HERE.md)** It explains how this space works, what has been demonstrated, and where readers, recruiters and learners should go.
 
 ## Personal Learning Hub — one bookmark for daily study
 
@@ -71,6 +75,12 @@ Four ways I explore that direction. **Each card opens the source.**
 <picture><source media="(max-width: 640px)" srcset="./assets/method-mobile.svg"><img src="./assets/method.svg" width="100%" alt="My working method: Build — make the idea concrete. Test — measure what actually happens. Understand — explain the mechanism." /></picture>
 
 <br>
+
+## Essays & Ideas — beyond technical projects
+
+I publish occasional essays, reflections and creative stories about questions that interest me beyond work. The [**Essays & Ideas index**](./essays/README.md) collects verified public links and will grow over time, whether I publish through [Medium](https://medium.com/@thokchom.lolet03), Substack or another platform.
+
+Start with [**Who Answered the Group Chat?**](https://medium.com/@thokchom.lolet03/who-answered-the-group-chat-c19a39891a19) or [**The Story of Discovery Intelligence**](https://medium.com/@thokchom.lolet03/the-story-of-discovery-intelligence-building-an-ai-that-seeks-truth-d1ccce2c189c). Stories and essays are not substitutes for reproducible engineering evidence.
 
 ## The longer arc
 

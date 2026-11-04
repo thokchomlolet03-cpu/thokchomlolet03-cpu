@@ -1,5 +1,8 @@
 # Project guide
 
+**First visit?** [Start Here](START_HERE.md) for the map of this space. **Interested in ideas or creative writing?** [Essays & Ideas](essays/README.md).
+
+
 This page is a guide to my public work. The repositories themselves are the source of truth for implementation details, tests, limitations, and current status. A published README is not a substitute for independently running the code or validating a scientific result.
 
 ## Background and approach

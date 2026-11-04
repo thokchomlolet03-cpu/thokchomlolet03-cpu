@@ -1,5 +1,8 @@
 # Systems & Infrastructure Engineering
 
+[← Start Here](../START_HERE.md) · [Essays & Ideas](../essays/README.md) · [GitHub home](../README.md)
+
+
 [![Systems infrastructure checks](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/actions/workflows/systems-infrastructure-ci.yml/badge.svg?branch=main)](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/actions/workflows/systems-infrastructure-ci.yml)
 **Operating systems · Networks · Endpoint management · Automation · Reliability**
 

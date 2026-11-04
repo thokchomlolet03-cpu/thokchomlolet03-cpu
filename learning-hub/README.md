@@ -1,5 +1,8 @@
 # Learning Hub — German, real-world engineering, and NotebookLM
 
+[← Start Here](../START_HERE.md) · [Essays & Ideas](../essays/README.md) · [GitHub home](../README.md)
+
+
 **One bookmark for daily study.** You can open this page from [my public GitHub profile](../README.md) or the [Systems & Infrastructure Engineering portfolio](../systems-infrastructure/README.md). The links open original learning sites; this hub is a curated starting point, not a copy of paid courses or company reports.
 
 **Last checked:** 4 November 2026. Availability and terms may change. No claim is made that a listed resource has been completed.
@@ -12,6 +15,7 @@
 | **🛠️ [Read how real infrastructure breaks](engineering-incidents/README.md)** | Official engineering blogs, real incidents, causes, mitigations and postmortems | [Cloudflare & Netflix](engineering-incidents/README.md#start-with-these-real-investigations) |
 | **📚 [Open and organize NotebookLM deep dives](notebooklm/README.md)** | Public notebook directory, share-link intake, structured learning notes for language and tech | [Notebook library](notebooklm/INDEX.md) |
 | **🖥️ [My hands-on systems engineering workbench](../systems-infrastructure/README.md)** | Linux, Windows, networking, automation, hypervisors, labs and actual evidence | [First month lab](../systems-infrastructure/FIRST_30_DAYS.md) |
+| **✍️ [Read Essays & Ideas](../essays/README.md)** | Published reflections, technical ideas and creative writing, linked to original platforms | [Essay index](../essays/README.md) |
 
 ## Daily launch panel
 
