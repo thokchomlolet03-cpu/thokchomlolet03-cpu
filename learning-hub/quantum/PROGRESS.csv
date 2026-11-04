@@ -1,0 +1,8 @@
+id,stage,learning_activity,personal_status,owner_executed,completed_date,evidence_url,next_action
+Q00,Q0,Linear algebra and probability refresh,Not started,no,,,Study MIT linear algebra and reproduce state norm
+Q01,Q1,IBM quantum information and Bell-state derivation,Not started,no,,,Read foundations and compute Bell amplitudes by hand
+Q02,Q2,Qiskit current simulator practice,Not started,no,,,Run Bell circuit on owner environment with version record
+Q03,Q3,Cirq comparison and compilation study,Not started,no,,,Implement same circuit in Cirq with semantics checks
+Q04,Q4,Noise model and QEC foundations,Not started,no,,,Compare ideal and noisy simulation
+Q05,Q5,Quantum ML or VQE classical baseline,Not started,no,,,Choose a measurable toy problem and baseline
+Q06,Q6,Decision record for AI-discovery interface,Not started,no,,,Write no-advantage assumptions and test plan
