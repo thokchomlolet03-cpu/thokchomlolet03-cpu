@@ -1,0 +1,11 @@
+id,competency,project,recorded_status,what_to_demonstrate,evidence_url,last_validation_date,environment,owner_executed,peer_or_ci_verified,next_action
+E001,Linux system diagnostics,P01,Assistant-side smoke test,Reproduce Linux CPU memory disk and socket diagnosis in owned VM,projects/p01-linux-diagnostics/EVIDENCE.md,2026-11-03,Assistant isolated Linux,no,no,Run on owner VM and capture sanitized evidence
+E002,Linux service and systemd,P03,Assistant-side unit tests,Recover a real systemd service with journal evidence,projects/p03-service-failure-lab/EVIDENCE.md,2026-11-03,Assistant isolated Linux,no,no,Execute systemd incident exercise
+E003,Windows and PowerShell,P04,Source authored,Windows OS diagnosis and scripted observation in owned Windows VM,projects/p04-windows-infrastructure/README.md,,Unvalidated,no,no,Run script in owner Windows lab and check accuracy
+E004,Active Directory and Group Policy,P04,Planned,Synthetic domain and GPO with reversible auth failures,projects/p04-windows-infrastructure/README.md,,Unvalidated,no,no,Provision licensed isolated domain VM
+E005,Networking packet diagnosis,P07,Planned,Reproduce and distinguish DNS route TCP TLS application faults,PROJECT_BACKLOG.md,,Unvalidated,no,no,Build isolated topology
+E006,Ansible configuration management,P06,Planned,Prove first change second unchanged and drift remediation,PROJECT_BACKLOG.md,,Unvalidated,no,no,Create two owned Linux VMs
+E007,Virtualization and independent recovery,P13,Planned,Restore a fresh VM from independently stored backup and verify integrity,projects/p13-virtualization-recovery/README.md,,Unvalidated,no,no,Select supported hypervisor and write environment manifest
+E008,Endpoint lifecycle Jamf and Intune,P08,Planned,Authorization-bound endpoint enrollment policy and retirement,PROJECT_BACKLOG.md,,Unvalidated,no,no,Study free MDM resources and confirm lab access
+E009,OS performance internals,P09,Planned,Measure CPU memory storage and scheduling mechanisms,PROJECT_BACKLOG.md,,Unvalidated,no,no,Start OSTEP and bounded lab observations
+E010,Monitoring incident recovery,P10,Planned,Alert on synthetic failure and verify recovery RPO RTO,PROJECT_BACKLOG.md,,Unvalidated,no,no,Create small isolated service
