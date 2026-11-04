@@ -8,6 +8,12 @@ I spent approximately three years in Level 2 enterprise IT support for Finastra 
 
 I use projects to investigate real problems, make assumptions explicit, build a working implementation, test it, and document what remains uncertain.
 
+## Daily learning and reference material
+
+[One-click Learning Hub](./learning-hub/README.md) · [German A1–C2](./learning-hub/german/README.md) · [First-party engineering incidents](./learning-hub/engineering-incidents/README.md) · [NotebookLM deep dives](./learning-hub/notebooklm/INDEX.md).
+
+This hub is a curated personal learning directory, separate from demonstrated engineering projects and earned credentials. My NotebookLM list remains empty until I submit public, privacy-reviewed notebooks.
+
 ## Systems and infrastructure specialization (current career priority)
 
 A dedicated [Systems & Infrastructure Engineering workbench](./systems-infrastructure/README.md) links real lab instructions, resources, tests, certification decisions and a [skills evidence ledger](./systems-infrastructure/EVIDENCE_MATRIX.csv). Its P01 and P03 starters have narrow assistant-side testing; owner-machine and systemd/Windows/backup demonstrations remain outstanding.

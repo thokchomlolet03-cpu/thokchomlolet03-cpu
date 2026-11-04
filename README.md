@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="./learning-hub/README.md"><b>LEARNING HUB ↗</b></a> &nbsp; / &nbsp;
   <a href="https://lolet-observatory.lolet.chatgpt.site"><b>ENTER THE OBSERVATORY ↗</b></a> &nbsp; / &nbsp;
   <a href="#selected-work"><b>EXPLORE THE WORK</b></a> &nbsp; / &nbsp;
   <a href="https://thokchomlolet03-cpu.github.io/my-tech-blog/"><b>READ THE NOTES</b></a> &nbsp; / &nbsp;
@@ -14,6 +15,18 @@
 I'm **Lolet** — an enterprise IT support professional based in the UAE, concentrating on operating systems, Windows/macOS endpoint administration, networks, technical troubleshooting, and reliable infrastructure automation. I also build independent software and research projects. My background includes three years of Level 2 support for Finastra through Tech Mahindra, where I worked across user devices, identity and access, collaboration tools, incident management, and technical escalations.
 
 My current professional focus is progressing from enterprise IT support into Windows/Linux systems administration, endpoint engineering and infrastructure automation. Outside that career path, I also explore longer-term independent research in computational biotechnology.
+
+## Personal Learning Hub — one bookmark for daily study
+
+**[Open the Learning Hub](./learning-hub/README.md)** to launch German courses, engineering incident reports, and my source-based NotebookLM notes without searching across websites.
+
+| Choose a track | Start here |
+|---|---|
+| **German A1 → C2** | [Level-by-level courses, practice and exam preparation](./learning-hub/german/README.md) |
+| **Real engineering failures** | [Netflix, Cloudflare, GitHub, Spotify and Google SRE investigations](./learning-hub/engineering-incidents/README.md) |
+| **NotebookLM deep dives** | [Notebook index](./learning-hub/notebooklm/INDEX.md) · [Share a public notebook](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/new?template=notebooklm-link.yml) |
+
+German study is an ongoing personal goal, **not a claim of a certified CEFR level**. NotebookLM links are added only when safe to share publicly.
 
 ## Professional foundation
 
