@@ -8,18 +8,18 @@
 
 | Level | Primary course or practice | Listening and reading | Exam check |
 |---|---|---|---|
-| **[A1 — first steps](#a1--beginner)** | [DW Nicos Weg](https://learngerman.dw.com/) + [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) | [Easy German A1](https://www.easygerman.org/) | [Goethe A1 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
-| **[A2 — everyday German](#a2--elementary)** | [DW Nicos Weg](https://learngerman.dw.com/) + [deutsch.info](https://deutsch.info/) | [Easy German A2](https://www.easygerman.org/) | [Goethe A2 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
-| **[B1 — independent basics](#b1--intermediate)** | [DW Nicos Weg](https://learngerman.dw.com/) + [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) | [Easy German B1](https://www.easygerman.org/) | [Goethe B1 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
-| **[B2 — work-ready growth](#b2--upper-intermediate)** | [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) + [deutsch.info](https://deutsch.info/) | [Easy German B2](https://www.easygerman.org/podcast/) | [Goethe B2 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
-| **[C1 — advanced](#c1--advanced)** | [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) + [Goethe free practice](https://www.goethe.de/de/spr/ueb.html) | [Easy German C1/C2](https://www.easygerman.org/podcast/) | [Goethe C1 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
+| **[A1 — first steps](#a1--beginner)** | [DW Nicos Weg](https://learngerman.dw.com/) + **[VHS A1 course](https://a1.vhs-lernportal.de/wws/home.php)** | [Easy German A1](https://www.easygerman.org/) | [Goethe A1 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
+| **[A2 — everyday German](#a2--elementary)** | [DW Nicos Weg](https://learngerman.dw.com/) + **[VHS A2 course](https://a2.vhs-lernportal.de/wws/home.php)** | [Easy German A2](https://www.easygerman.org/) | [Goethe A2 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
+| **[B1 — independent basics](#b1--intermediate)** | [DW Nicos Weg](https://learngerman.dw.com/) + **[VHS B1 course](https://b1.vhs-lernportal.de/wws/home.php)** | [Easy German B1](https://www.easygerman.org/) | [Goethe B1 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
+| **[B2 — work-ready growth](#b2--upper-intermediate)** | **[VHS B2 for work](https://b2-beruf.vhs-lernportal.de/wws/home.php)** + [deutsch.info](https://deutsch.info/) | [Easy German B2](https://www.easygerman.org/podcast/) | [Goethe B2 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
+| **[C1 — advanced](#c1--advanced)** | **[VHS C1 for work](https://c1-beruf.vhs-lernportal.de/wws/home.php)** + [Goethe free practice](https://www.goethe.de/de/spr/ueb.html) | [Easy German C1/C2](https://www.easygerman.org/podcast/) | [Goethe C1 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
 | **[C2 — proficiency](#c2--proficient)** | [Goethe advanced practice](https://www.goethe.de/de/spr/ueb.html) + original long-form German texts | [Easy German C1/C2](https://www.easygerman.org/) | [Goethe C2 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
 
-**Access notes:** DW's *Nicos Weg* is a structured video course through B1, not a complete A1–C2 course. VHS has free course offerings through C1 (check the specific course available at your level). Goethe's free content and free exam samples **supplement** study; they do not provide a fully taught free C2 program. Easy German offers free videos/podcasts, while membership-only transcripts/exercises may cost money.
+**Direct-access note:** Links labeled VHS A1/A2/B1/B2-for-work/C1-for-work above open the **specific course start page**, rather than the general VHS homepage. Registration may still be needed to save progress. At B2 and C1 the verified direct courses focus on professional German.\n\n**Access notes:** DW's *Nicos Weg* is a structured video course through B1, not a complete A1–C2 course. VHS has free course offerings through C1 (check the specific course available at your level). Goethe's free content and free exam samples **supplement** study; they do not provide a fully taught free C2 program. Easy German offers free videos/podcasts, while membership-only transcripts/exercises may cost money.
 
 ## A1 — Beginner
 
-**Start:** [DW Learn German / Nicos Weg](https://learngerman.dw.com/) (A1) → [VHS free beginner German](https://www.vhs-lernportal.de/wws/home.php) → [Goethe introductory exercises](https://www.goethe.de/de/spr/ueb.html).
+**Start:** [DW Learn German / Nicos Weg](https://learngerman.dw.com/) (A1) → [VHS A1 (direct course)](https://a1.vhs-lernportal.de/wws/home.php) → [Goethe introductory exercises](https://www.goethe.de/de/spr/ueb.html).
 
 **Mechanisms to master:** alphabet and pronunciation, basic word order, present tense, verbs *sein/haben*, gender and articles, nominative/accusative, questions, numbers, appointments, directions and basic daily interactions.
 
@@ -27,7 +27,7 @@
 
 ## A2 — Elementary
 
-**Start:** [DW Nicos Weg](https://learngerman.dw.com/) (A2) → [deutsch.info A2](https://deutsch.info/) → [Easy German](https://www.easygerman.org/) for accessible real conversations.
+**Start:** [DW Nicos Weg](https://learngerman.dw.com/) (A2) → [VHS A2 direct course](https://a2.vhs-lernportal.de/wws/home.php) + [deutsch.info A2](https://deutsch.info/) → [Easy German](https://www.easygerman.org/) for accessible real conversations.
 
 **Focus:** past tense and Perfekt, dative, separable verbs, common subordinate clauses, prepositions, health/travel/work routines. Practice describing a simple technology problem in German.
 
@@ -35,7 +35,7 @@
 
 ## B1 — Intermediate
 
-**Start:** [DW Nicos Weg](https://learngerman.dw.com/) (B1) + [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) + [Goethe free exercises](https://www.goethe.de/de/spr/ueb.html).
+**Start:** [DW Nicos Weg](https://learngerman.dw.com/) (B1) + [VHS B1 direct course](https://b1.vhs-lernportal.de/wws/home.php) + [Goethe free exercises](https://www.goethe.de/de/spr/ueb.html).
 
 **Focus:** longer conversations, opinions and justifications, relative clauses, Konjunktiv II and everyday workplace correspondence.
 
@@ -43,7 +43,7 @@
 
 ## B2 — Upper intermediate
 
-**Start:** [VHS B2-level course catalog](https://www.vhs-lernportal.de/wws/home.php), [deutsch.info B2](https://deutsch.info/), [Goethe exercises](https://www.goethe.de/de/spr/ueb.html), [Easy German podcast](https://www.easygerman.org/podcast/).
+**Start:** [VHS B2 German for work — direct course](https://b2-beruf.vhs-lernportal.de/wws/home.php), [deutsch.info B2](https://deutsch.info/), [Goethe exercises](https://www.goethe.de/de/spr/ueb.html), [Easy German podcast](https://www.easygerman.org/podcast/).
 
 **Focus:** complex technical discussion, workplace disagreement, formal writing, detailed explanation of causes and consequences, reading German job descriptions and industry reports.
 
@@ -51,7 +51,7 @@
 
 ## C1 — Advanced
 
-**Start:** [VHS C1 offering](https://www.vhs-lernportal.de/wws/home.php), [Goethe advanced practice](https://www.goethe.de/de/spr/ueb.html), [Easy German](https://www.easygerman.org/podcast/) and authentic German technology articles.
+**Start:** [VHS C1 German for work — direct course](https://c1-beruf.vhs-lernportal.de/wws/home.php), [Goethe advanced practice](https://www.goethe.de/de/spr/ueb.html), [Easy German](https://www.easygerman.org/podcast/) and authentic German technology articles.
 
 **Focus:** nuanced arguments, unfamiliar accents and abstract subjects, advanced grammar, technical presentations, policy and incident-review writing.
 
