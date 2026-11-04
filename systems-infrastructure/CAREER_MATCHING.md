@@ -6,11 +6,13 @@
 |---|---|---|---|---|
 | L2/L3 IT Support Engineer | AD/Entra, Microsoft 365, user endpoints, Jamf, Intune, incident tools | Scripted diagnostics, root cause, Windows logs, DNS/VPN/TLS | P01, P04, P05, P07 | MD-102 or Jamf 100 |
 | Endpoint / Workplace Technology Engineer | Jamf/Intune exposure, SCCM, desktop/macOS, security tools | MDM architecture, device lifecycle, App/patch deployment, compliance policies | P05, P08 | MD-102, Jamf 100/200, Apple support |
-| Windows Systems Administrator | AD, Microsoft 365, troubleshooting | AD DS/DNS/GPO, PowerShell, storage, event logs, hybrid admin | P04, P05, P11 | AZ-802, MD-102 if endpoint-heavy |
+| Windows Systems Administrator | AD, Microsoft 365, troubleshooting | AD DS/DNS/GPO, PowerShell, storage, event logs, hybrid admin | P04, P05, P13 | AZ-802, MD-102 if endpoint-heavy |
 | Linux Systems Administrator | IT operations experience; Linux study in progress | RHEL administration, SELinux, systemd, disks, security, log analysis | P01–P03, P06 | RHCSA (or LFCS alternative) |
-| Infrastructure Operations Engineer | Escalations, networking applications, cloud awareness | Monitoring, Linux/Windows, networking, virtualization, backup/restore | P06, P07, P10, P11 | RHCSA / CCNA; cloud credential later |
+| Infrastructure Operations Engineer | Escalations, networking applications, cloud awareness | Monitoring, Linux/Windows, networking, virtualization, backup/restore | P06, P07, P10, P13 | RHCSA / CCNA; cloud credential later |
 | Data Center Technician | Troubleshooting, support experience | Rack cabling, power safety, hardware diagnostics, remote management/BMC, storage, network testing | Add hardware appendix to P02/P07 | CCNA; in-person hardware/cabling labs |
 | Cloud Support / Cloud Operations Engineer | Enterprise application troubleshooting, some cloud study | Linux, networking, IAM, IaC, logs, backup, failure analysis | P06, P10, P12 | AWS CloudOps / AZ-104 / Google ACE based on jobs |
+
+**Evidence discipline:** Use [real-job requirements CSV](ROLE_REQUIREMENTS.csv) and [evidence matrix](EVIDENCE_MATRIX.csv); do not treat a generic job family description as an actual opening, and never infer visa sponsorship from a multinational employer's name. Read the [career evidence system](CAREER_EVIDENCE_SYSTEM.md).
 
 ## Geographic strategy
 ### UAE — near-term improvement

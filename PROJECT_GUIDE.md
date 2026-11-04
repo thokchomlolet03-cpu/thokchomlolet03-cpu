@@ -8,7 +8,13 @@ I spent approximately three years in Level 2 enterprise IT support for Finastra 
 
 I use projects to investigate real problems, make assumptions explicit, build a working implementation, test it, and document what remains uncertain.
 
-## Start here
+## Systems and infrastructure specialization (current career priority)
+
+A dedicated [Systems & Infrastructure Engineering workbench](./systems-infrastructure/README.md) links real lab instructions, resources, tests, certification decisions and a [skills evidence ledger](./systems-infrastructure/EVIDENCE_MATRIX.csv). Its P01 and P03 starters have narrow assistant-side testing; owner-machine and systemd/Windows/backup demonstrations remain outstanding.
+
+[Recruiter view](./systems-infrastructure/RECRUITER_PORTFOLIO.md) · [Windows lab](./systems-infrastructure/projects/p04-windows-infrastructure/README.md) · [Independent backup/recovery lab](./systems-infrastructure/projects/p13-virtualization-recovery/README.md)
+
+## Other engineering and research work
 
 | Project | What it demonstrates | How to evaluate it |
 | --- | --- | --- |

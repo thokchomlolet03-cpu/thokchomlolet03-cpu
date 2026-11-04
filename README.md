@@ -13,7 +13,7 @@
 
 I'm **Lolet** — an enterprise IT support professional based in the UAE, concentrating on operating systems, Windows/macOS endpoint administration, networks, technical troubleshooting, and reliable infrastructure automation. I also build independent software and research projects. My background includes three years of Level 2 support for Finastra through Tech Mahindra, where I worked across user devices, identity and access, collaboration tools, incident management, and technical escalations.
 
-I build practical cloud and software projects alongside my work. My long-term direction is computational biotechnology: reliable systems, reproducible experiments, and honest handling of uncertain evidence.
+My current professional focus is progressing from enterprise IT support into Windows/Linux systems administration, endpoint engineering and infrastructure automation. Outside that career path, I also explore longer-term independent research in computational biotechnology.
 
 ## Professional foundation
 
@@ -29,7 +29,18 @@ My focused career-development and hands-on systems portfolio is now organized in
 
 Start with the [24-month roadmap](./systems-infrastructure/ROADMAP.md), [official learning resources](./systems-infrastructure/LEARNING_RESOURCES.md), [certification priorities](./systems-infrastructure/CERTIFICATIONS.md) or the [recruiter-facing evidence index](./systems-infrastructure/RECRUITER_PORTFOLIO.md). **The syllabus is a plan; incomplete projects and unearned certifications are explicitly labelled.**
 
-## Selected work
+### Current systems-engineering workbench
+
+| Project | Engineering question | Evidence status |
+|---|---|---|
+| [Linux Diagnostics (P01)](./systems-infrastructure/projects/p01-linux-diagnostics/README.md) | How do we observe CPU, memory, storage, processes and failure conditions safely? | Source + preliminary assistant-side tests; **owner validation pending** |
+| [Linux Service Fault Lab (P03)](./systems-infrastructure/projects/p03-service-failure-lab/README.md) | How do we distinguish configuration, port and systemd failures? | Four assistant-side unit tests; **systemd lab pending** |
+| [Windows Infrastructure (P04)](./systems-infrastructure/projects/p04-windows-infrastructure/README.md) | How do DNS, Active Directory, GPO and PowerShell fit together? | Read-only script drafted; **Windows VM lab pending** |
+| [Virtualization & Recovery (P13)](./systems-infrastructure/projects/p13-virtualization-recovery/README.md) | Can a service be restored from independent backups after a VM failure? | **Planned lab; no restore claim** |
+
+[Evidence and role-readiness index](./systems-infrastructure/RECRUITER_PORTFOLIO.md) · [Role requirements and capability tracking](./systems-infrastructure/CAREER_EVIDENCE_SYSTEM.md)
+
+## Other selected software and research work
 
 Four ways I explore that direction. **Each card opens the source.**
 
