@@ -15,8 +15,8 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 | 24-month strategy and decision gates | [Roadmap](ROADMAP.md) |
 | Courses, books, docs and free practice | [Learning resources](LEARNING_RESOURCES.md) · [Editable study tracker](LEARNING_TRACKER.csv) |
 | Exam priorities and current versions | [Certifications](CERTIFICATIONS.md) |
-| Portfolio-quality projects and acceptance tests | [Project backlog](PROJECT_BACKLOG.md) |
-| What employers can actually inspect | [Recruiter portfolio](RECRUITER_PORTFOLIO.md) · [Career-role matching](CAREER_MATCHING.md) |
+| Portfolio-quality projects and acceptance tests | [Project backlog](PROJECT_BACKLOG.md) · [Evidence matrix](EVIDENCE_MATRIX.csv) |
+| What employers can actually inspect | [Recruiter portfolio](RECRUITER_PORTFOLIO.md) · [Career-role matching](CAREER_MATCHING.md) · [Market-to-evidence tracker](CAREER_EVIDENCE_SYSTEM.md) |
 | Low-cost VM and hardware setup | [Home lab](LAB_SETUP.md) |
 | What I need to prove to claim competence | [Skills matrix](SKILLS_MATRIX.md) |
 | Dated learning and evidence journal | [Progress ledger](PROGRESS.md) · [Evidence policy](EVIDENCE_POLICY.md) · [QA checks](QUALITY_ASSURANCE.md) |
@@ -26,12 +26,17 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 ### Actionable GitHub issues
 [Month-1 lab checklist](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/1) · [P01 validation](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/2) · [Linux failure atlas](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/3) · [Quarterly career/cert review](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/4) · [P03 hands-on systemd lab](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/5)
 
+### New execution issues (complete with personal lab evidence)
+[P04 Windows/PowerShell lab](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/7) · [P13 Virtualization/independent restore](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/8) · [Real job-to-evidence review](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/9)
+
 ### Technical tracks
-[OS internals](OPERATING_SYSTEMS.md) · [Linux and Windows automation](AUTOMATION.md) · [Networking](NETWORKING.md) · [Windows/macOS/MDM](ENDPOINTS.md) · [Cloud & reliability](CLOUD_AND_RELIABILITY.md) · [Incident method](INCIDENT_METHOD.md)
+[OS internals](OPERATING_SYSTEMS.md) · [Hardware & virtualization](HARDWARE_AND_VIRTUALIZATION.md) · [Automation](AUTOMATION.md) · [Networking](NETWORKING.md) · [Windows/macOS/MDM](ENDPOINTS.md) · [Cloud & reliability](CLOUD_AND_RELIABILITY.md) · [Incident method](INCIDENT_METHOD.md)
 
 ### Code and existing evidence
 - [P01 Linux Diagnostics](projects/p01-linux-diagnostics/README.md) — read-only Bash diagnostics; local smoke/error-path tests, user-lab verification pending.
-- [P03 Linux Service Failure Lab](projects/p03-service-failure-lab/README.md) — loopback-only Python service; four local unit tests passed, systemd incidents pending.
+- [P03 Linux Service Failure Lab](projects/p03-service-failure-lab/README.md) — synthetic service; four assistant-side unit tests passed, owner-lab systemd incidents pending.
+- [P04 Windows Infrastructure and PowerShell](projects/p04-windows-infrastructure/README.md) — isolated AD DS/DNS/GPO lab specification and unvalidated read-only PowerShell starter.
+- [P13 Virtualization and Disaster Recovery](projects/p13-virtualization-recovery/README.md) — planned hypervisor, snapshot-versus-backup and verified-restore exercises.
 - [Terraform Mastery](https://github.com/thokchomlolet03-cpu/terraform-mastery) — separate, existing in-depth IaC curriculum.
 - [Professional GitHub home](https://github.com/thokchomlolet03-cpu) — career profile and other technical work.
 
@@ -43,5 +48,7 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 5. **Honest labels:** planned ≠ started ≠ demonstrated ≠ validated ≠ real production deployment.
 6. **Privacy:** no employer/customer screenshots, proprietary procedures, real user data, passwords, tokens or security-sensitive configuration.
 7. **Economical progression:** study free official material first; pay for an exam only when practical skill and real job demand justify it.
+
+**Career evidence:** Start with [the blank job requirements tracker](ROLE_REQUIREMENTS.csv) and [evidence matrix](EVIDENCE_MATRIX.csv); records are deliberately not invented. Course completion is not competence. CI success is not independent owner-lab mastery.
 
 Quarterly verify course versions, certification pages and market demand. The goal is to **understand and repair systems**, not simply collect badges.

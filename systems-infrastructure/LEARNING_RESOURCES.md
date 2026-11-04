@@ -119,3 +119,14 @@ Pick **one primary** resource per topic, then use the reference material to answ
 
 ### Study tracking template
 For each resource: URL, why chosen, free/paid, prerequisites, current version, start/finish dates, one lab artifact, failure examined, and next action. The checkpoint is *what can I reproduce?*, not the number of videos watched.
+
+### Additional virtualization and recovery sources (P13)
+| Resource | Access | Practical outcome |
+|---|---|---|
+| [Microsoft Hyper-V overview](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview) | Free documentation; supported Windows license/hardware required | Virtual switches, VM lifecycle and recovery |
+| [libvirt documentation](https://libvirt.org/docs.html) | Free documentation | KVM/QEMU virtual machines on Linux |
+| [QEMU documentation](https://www.qemu.org/docs/master/) | Free documentation | Guest architecture, virtual disk and emulation models |
+| [Proxmox VE documentation](https://pve.proxmox.com/pve-docs/) | Free documentation; assess licenses/support | Enterprise-style hypervisor and backup architecture |
+| [Microsoft Windows evaluation center](https://www.microsoft.com/en-us/evalcenter/) | Evaluation under product terms | Licensed Windows lab images, where available |
+
+Use [P13](projects/p13-virtualization-recovery/README.md) to demonstrate **verified independent restoration** rather than purchasing hardware or accumulating more tutorials. Do not treat backup software installation as proof of recovery capability.

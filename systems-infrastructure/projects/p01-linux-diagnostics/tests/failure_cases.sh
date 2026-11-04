@@ -2,6 +2,8 @@
 # Non-destructive Bash dependency failure-path test (no test files created).
 set -euo pipefail
 cd -- "$(dirname -- "$0")/.."
+# Intentional exported stub is called by the child Bash, not visibly in this file.
+# shellcheck disable=SC2317
 ss() { return 23; }
 export -f ss
 set +e

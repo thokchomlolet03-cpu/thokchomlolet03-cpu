@@ -4,14 +4,21 @@
 
 | Months | Core competency | Deliverables | Employment checkpoint |
 |---|---|---|---|
-| 1–3 | Linux shell, VMs, logs, boot, storage, Windows PowerShell, TCP/DNS fundamentals | P01 diagnostics; P02 boot/fault atlas | Apply to matched L2/IT support roles using existing professional evidence |
-| 4–6 | Linux services/SELinux/filesystems; Windows Server AD DS, GPO, Sysinternals | P03 Linux recovery; P04 Windows domain lab | Choose RHCSA or MD-102 according to interviews/job descriptions |
-| 7–9 | Bash, PowerShell, Python for administration, testing, Ansible | P05 cross-platform inventory; P06 reproducible Linux fleet | Explore endpoint/sysadmin roles with hands-on proof |
+| 1–3 | Linux shell, VMs, logs, boot, storage, Windows PowerShell, TCP/DNS fundamentals | P01 diagnostics; P03 service triage; begin P04 PowerShell | Apply to matched L2/IT support roles using existing professional evidence |
+| 4–6 | Linux services/SELinux/filesystems; Windows Server AD DS/GPO/DNS; virtual networks and backups | P04 Windows domain; begin P13 recovery | Choose RHCSA or MD-102 according to interviews/job descriptions |
+| 7–9 | Bash, PowerShell, Python for administration, testing, Ansible | P05 inventory; P06 Linux fleet; finish P13 restore | Explore endpoint/sysadmin roles with hands-on proof |
 | 10–12 | Routing, VLANs, DNS, DHCP, TLS and packet analysis | P07 network incident atlas | Decide whether CCNA has strong ROI |
 | 13–15 | Intune, Jamf, Apple platform management, patch/remediation policies | P08 enterprise endpoint runbooks | Target workplace/endpoint engineers |
 | 16–18 | Scheduling, virtual memory, locks, filesystem internals, tracing, optional xv6 | P09 performance case study | Distinguish measured mechanisms from guesses |
 | 19–21 | Observability, backups/restore, security hardening, incident response, change controls | P10 monitoring and restoration | Infrastructure/cloud operations path |
 | 22–24 | Integration, automated provisioning, operating documentation | P11 mini-enterprise; P12 cost-bounded cloud/hybrid lab | Polish top 3 deep case studies and apply systematically |
+
+### First 90 days: make three things *real*
+1. Repair GitHub CI, then personally reproduce P01 diagnostics and P03 systemd failures in an owned VM.
+2. Begin [P04 Windows + PowerShell](projects/p04-windows-infrastructure/README.md) with a legal Windows test environment or read-only Windows client observations if server licensing/hardware is not available.
+3. Document an isolated virtual machine backup and **independent** restore using [P13](projects/p13-virtualization-recovery/README.md); do not confuse snapshots with backups.
+
+For a recruiter, lead with finished evidence, not a 24-month aspirational schedule. See [career evidence](CAREER_EVIDENCE_SYSTEM.md).
 
 ### Two paths after the shared foundation
 **Track A — Workplace Technology / Endpoint Engineering:** Windows, PowerShell, Active Directory, Microsoft Entra, Intune, Jamf, macOS, Apple enrollment, endpoint security. This path has immediate relevance to prior experience.

@@ -2,6 +2,8 @@
 
 **Budget:** 8–10 focused hours/week; adjust around shift work. No need to purchase a course now. Follow [lab safety](LAB_SETUP.md).
 
+See [the 90-day career plan](ROADMAP.md) and [role-to-evidence system](CAREER_EVIDENCE_SYSTEM.md). Windows/PowerShell is parallel to Linux, not something postponed until month 13.
+
 ## Week 1 — Build and observe
 - [ ] Install one Ubuntu Server VM matched to host CPU architecture; document hypervisor, OS release, RAM, disk and network mode.
 - [ ] Isolate the VM, create an ordinary user with sudo as appropriate, use SSH keys, create a recovery snapshot.

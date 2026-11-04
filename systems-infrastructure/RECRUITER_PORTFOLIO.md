@@ -8,7 +8,12 @@ Enterprise Level 2 support experience across endpoint software, Microsoft 365, A
 ## What this portfolio proves today
 - An intentionally sequenced 24-month technical development plan and official-first resource catalog.
 - Public, explicit project specifications with acceptance tests, security boundaries and reproducibility requirements.
-- [P01 Linux Diagnostics starter](projects/p01-linux-diagnostics/README.md): source code available for review and narrow assistant-side Linux smoke execution; **not yet validated in the owner's lab or deployed**.
+- [P01 Linux Diagnostics](projects/p01-linux-diagnostics/README.md): source and limited assistant-side testing; owner-machine validation pending.
+- [P03 Linux Service Fault Lab](projects/p03-service-failure-lab/README.md): four synthetic tests passed in an assistant environment; the actual systemd failure exercises are unperformed.
+- [P04 Windows PowerShell starter](projects/p04-windows-infrastructure/README.md): read-only script authored, not executed on the owner's Windows machine.
+- [P13 Virtualization/Recovery](projects/p13-virtualization-recovery/README.md): planned project with no executed restore test.
+
+See [EVIDENCE_MATRIX.csv](EVIDENCE_MATRIX.csv) for explicit status and the [market-to-evidence process](CAREER_EVIDENCE_SYSTEM.md) for aligning projects to real vacancies.
 
 It does **not yet prove** live operation of a production fleet, paid certifications listed in the plan, cloud employment, enterprise ownership of Jamf or Intune tenants, or completed advanced Linux labs.
 
@@ -17,12 +22,13 @@ It does **not yet prove** live operation of a production fleet, paid certificati
 |---|---|---|
 | Linux initial response and observability | [P01 starter](projects/p01-linux-diagnostics/README.md) | Source authored; narrow assistant-side smoke only; owner-lab verification pending |
 | Linux boot and service repair | [P03 read-only local service incident starter](projects/p03-service-failure-lab/README.md); P02 in [backlog](PROJECT_BACKLOG.md) | P03 synthetic unit tests passed; systemd experiments pending |
-| Windows identity and endpoint admin | P04 / P05 in [project backlog](PROJECT_BACKLOG.md) | Planned |
+| Windows identity and endpoint admin | [P04 Windows & PowerShell](projects/p04-windows-infrastructure/README.md), P05 in [backlog](PROJECT_BACKLOG.md) | PowerShell source authored; AD/GPO lab planned |
 | Configuration management | P06 in [project backlog](PROJECT_BACKLOG.md) | Planned |
 | Real protocol troubleshooting | P07 in [project backlog](PROJECT_BACKLOG.md) | Planned |
 | Apple / Intune endpoint management | P08 in [project backlog](PROJECT_BACKLOG.md) | Planned; access-dependent |
 | OS internals and performance | P09 in [project backlog](PROJECT_BACKLOG.md) | Planned |
 | Service recovery & infrastructure operations | P10–P12 in [project backlog](PROJECT_BACKLOG.md) | Planned |
+| Virtualization / backup / recovery | [P13](projects/p13-virtualization-recovery/README.md) | Planned; no tested restore yet |
 
 ## Adjacent real work
 - [Terraform Mastery](https://github.com/thokchomlolet03-cpu/terraform-mastery): an existing specialized IaC learning workbench. Read its own README for exact implementation/evidence status.
@@ -43,4 +49,4 @@ Employment authorisation, language proficiency, pay and local degree recognition
 ## Contact
 [GitHub profile](https://github.com/thokchomlolet03-cpu) · [Professional LinkedIn](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/). Please review the dated evidence before interpreting any learning-plan item as achieved.
 
-**Last updated:** 2026-11-03.
+**Last updated:** 2026-11-04.
