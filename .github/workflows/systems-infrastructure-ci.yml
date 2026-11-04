@@ -1,4 +1,4 @@
-name: Systems infrastructure - Bash starter checks
+name: Systems infrastructure - build and evidence checks
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Install shell diagnostic tooling
         run: sudo apt-get update -qq && sudo apt-get install -y shellcheck iproute2 procps
       - name: Validate Bash syntax and lint
@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Test synthetic loopback service
         run: python3 -m unittest discover -s systems-infrastructure/projects/p03-service-failure-lab/tests -v
 
@@ -44,7 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Test the local link checker
         run: python3 -m unittest discover -s systems-infrastructure/scripts/tests -v
       - name: Validate internal Markdown file links
