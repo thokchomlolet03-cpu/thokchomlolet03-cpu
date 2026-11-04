@@ -4,10 +4,18 @@ on:
   push:
     paths:
       - 'systems-infrastructure/**'
+      - 'learning-hub/**'
+      - 'README.md'
+      - 'PROJECT_GUIDE.md'
+      - '.github/ISSUE_TEMPLATE/notebooklm-link.yml'
       - '.github/workflows/systems-infrastructure-ci.yml'
   pull_request:
     paths:
       - 'systems-infrastructure/**'
+      - 'learning-hub/**'
+      - 'README.md'
+      - 'PROJECT_GUIDE.md'
+      - '.github/ISSUE_TEMPLATE/notebooklm-link.yml'
       - '.github/workflows/systems-infrastructure-ci.yml'
 
 permissions:
