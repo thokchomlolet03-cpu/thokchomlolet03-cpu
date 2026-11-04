@@ -1,4 +1,4 @@
-# Learning Hub — German, real-world engineering, and NotebookLM
+# Learning Hub — German, engineering, quantum research, and NotebookLM
 
 [← Start Here](../START_HERE.md) · [Essays & Ideas](../essays/README.md) · [GitHub home](../README.md)
 
@@ -15,6 +15,7 @@
 | **🛠️ [Read how real infrastructure breaks](engineering-incidents/README.md)** | Official engineering blogs, real incidents, causes, mitigations and postmortems | [Cloudflare & Netflix](engineering-incidents/README.md#start-with-these-real-investigations) |
 | **📚 [Open and organize NotebookLM deep dives](notebooklm/README.md)** | Public notebook directory, share-link intake, structured learning notes for language and tech | [Notebook library](notebooklm/INDEX.md) |
 | **🖥️ [My hands-on systems engineering workbench](../systems-infrastructure/README.md)** | Linux, Windows, networking, automation, hypervisors, labs and actual evidence | [First month lab](../systems-infrastructure/FIRST_30_DAYS.md) |
+| **⚛️ [Quantum computing — first principles to quantum–AI research](quantum/README.md)** | IBM Qiskit, Google Cirq, math, quantum chemistry, circuit compilation and classical comparisons | **[Start the quantum pathway](quantum/README.md)** |
 | **✍️ [Read Essays & Ideas](../essays/README.md)** | Published reflections, technical ideas and creative writing, linked to original platforms | [Essay index](../essays/README.md) |
 
 ## Daily launch panel
@@ -24,7 +25,7 @@
 - Engineering: [Cloudflare postmortems](https://blog.cloudflare.com/tag/post-mortem/) — choose a failure and sketch the dependency chain.
 - Deep dive: [NotebookLM](https://notebooklm.google.com/) — review one source-based notebook, then add **your own verified observation**.
 
-**Have an hour?** Do one German lesson + a written or spoken exercise; or read one outage report, reconstruct the timeline and test a safe concept in your own VM. Record what you actually accomplished rather than the minutes spent watching.
+**Have an hour?** Do one German lesson + a written or spoken exercise; or read one outage report, reconstruct the timeline and test a safe concept in your own VM. Record what you actually accomplished rather than the minutes spent watching. For optional long-term quantum study, open the [12-week gentle on-ramp](quantum/ROADMAP_12_WEEKS.md) and work on one mathematical prediction or small simulator experiment. The career systems track remains the near-term priority.
 
 ## Weekly rotation (adjust to shift work)
 
@@ -43,6 +44,8 @@
 **Engineering incident → source analysis in NotebookLM → mechanism prediction → local lab → recruiter-ready evidence.**
 
 **German course → grammar and listening → NotebookLM review → writing/speaking correction → official exam practice.**
+
+**Quantum foundations → Qiskit/Cirq simulation → classical benchmark → noise/hardware-resource accounting → only then consider a scientific integration.** See [Quantum–AI research decisions](quantum/QUANTUM_AI_RESEARCH.md).
 
 For language, don't count AI chat as a speaking qualification; for infrastructure, don't count AI-generated incident summaries as hands-on skill. Both demand **independent practice**.
 

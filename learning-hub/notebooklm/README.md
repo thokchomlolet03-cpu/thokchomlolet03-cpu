@@ -34,6 +34,11 @@ Use this area as the **directory of original study notebooks**, whether the subj
 - **Infrastructure and reliability:** virtualization, backup/restore, Terraform, Ansible, monitoring, outages and postmortems.
 - **Certification preparation:** RHCSA, MD-102, CCNA and justified credential tracks.
 
+### Quantum computing
+- **Quantum fundamentals:** qubits, complex amplitudes, tensor products, measurement and entanglement.
+- **IBM/Qiskit and Google/Cirq:** modern circuit APIs, compilation, noise, device connectivity and error correction.
+- **Quantum + AI research:** trustworthy classical baselines, hybrid methods, resource accounting and scientific limitations. Start at the [separate quantum learning pathway](../quantum/README.md). Keep unproven claims labeled as hypotheses.
+
 ### Other independent research
 - Keep science and exploratory-research notebooks separate from recruiter-facing employment evidence. Source-based summaries are not independent experiments or experimental proof.
 

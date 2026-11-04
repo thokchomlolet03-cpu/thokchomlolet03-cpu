@@ -35,6 +35,10 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 ### New execution issues (complete with personal lab evidence)
 [P04 Windows/PowerShell lab](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/7) · [P13 Virtualization/independent restore](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/8) · [Real job-to-evidence review](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/9)
 
+### Separate long-term quantum research
+
+My [quantum computing learning path](../learning-hub/quantum/README.md) covers Qiskit, Google Cirq, physics, mathematical foundations and future AI/quantum comparison studies. It is a **separate speculative research direction**, not a required skill for my current infrastructure-career progression and not a claim of quantum hardware access.
+
 ### Technical tracks
 [OS internals](OPERATING_SYSTEMS.md) · [Hardware & virtualization](HARDWARE_AND_VIRTUALIZATION.md) · [Automation](AUTOMATION.md) · [Networking](NETWORKING.md) · [Windows/macOS/MDM](ENDPOINTS.md) · [Cloud & reliability](CLOUD_AND_RELIABILITY.md) · [Incident method](INCIDENT_METHOD.md)
 

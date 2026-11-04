@@ -1,0 +1,23 @@
+id,stage,provider,resource,official_url,type,access,priority,validation_note
+Q001,Q0,MIT OpenCourseWare,18.06 Linear Algebra,https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/,course,Free open materials,High,Mathematics prerequisite
+Q002,Q0,NumPy,NumPy documentation,https://numpy.org/doc/stable/,technical documentation,Free,High,Check versions
+Q003,Q0,PennyLane,Codebook Foundations,https://pennylane.ai/codebook/learning-paths/foundations-of-quantum-computing/,interactive learning,Free materials; sign-in may be required for progress,Medium,Optional second exposition
+Q004,Q1,IBM Quantum,Use a quantum computer today,https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today,course,Free course content; QPU subject to plan,High,First click
+Q005,Q1,IBM Quantum,Basics of quantum information,https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information,course,Free course content,High,John Watrous foundations
+Q006,Q2,IBM Quantum,Install Qiskit,https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit,documentation,Free,High,Current Qiskit v2.x guidance
+Q007,Q2,IBM Quantum,Qiskit Quickstart,https://quantum.cloud.ibm.com/docs/en/guides/quick-start,tutorial,Free simulator,High,Modern primitives
+Q008,Q2,IBM Quantum,Fundamentals of quantum algorithms,https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms,course,Free course content,High,Grover phase estimation complexity
+Q009,Q2,IBM Quantum,Qiskit tutorials,https://quantum.cloud.ibm.com/docs/en/tutorials,documentation/tutorials,Free docs; hardware depends on plan,High,Maintained patterns
+Q010,Q3,Google Quantum AI,Cirq overview,https://quantumai.google/cirq,documentation,Free,High,Google supported open-source programming
+Q011,Q3,Google Quantum AI,Cirq Basics,https://quantumai.google/cirq/start/basics,notebook tutorial,Free simulator and Colab option,High,Assumes prior fundamentals
+Q012,Q3,Google Quantum AI,Cirq simulation,https://quantumai.google/cirq/simulate/simulation,notebook tutorial,Free,High,Ideal vs noise
+Q013,Q3,Google Quantum AI,Cirq textbook algorithms,https://quantumai.google/cirq/experiments/textbook_algorithms,notebook tutorial,Free,Medium,Algorithms in Cirq
+Q014,Q4,IBM Quantum,General formulation of quantum information,https://quantum.cloud.ibm.com/learning/en/courses/general-formulation-of-quantum-information/index,course,Free course content,High,Density matrices and channels
+Q015,Q4,IBM Quantum,Foundations of quantum error correction,https://quantum.cloud.ibm.com/learning/en/courses/foundations-of-quantum-error-correction/index,course,Free course content,High,QEC and logical qubits
+Q016,Q4,Google Quantum AI,Quantum Virtual Machine,https://quantumai.google/cirq/simulate/quantum_virtual_machine,notebook tutorial,Free simulator,High,Hardware-model simulation not QPU
+Q017,Q4,Google Quantum AI,Quantum hardware access rules,https://quantumai.google/cirq/google/access,documentation,Restricted hardware,High,Approved group and sponsor usually required
+Q018,Q5,IBM Quantum,Variational algorithm design,https://quantum.cloud.ibm.com/learning/en/courses/variational-algorithm-design,course,Free course content,High,Hybrid optimizer basics
+Q019,Q5,IBM Quantum,Quantum machine learning,https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning,course,Free course content,High,Requires classical benchmarks
+Q020,Q5,IBM Quantum,Quantum chemistry with VQE,https://quantum.cloud.ibm.com/learning/en/courses/quantum-chem-with-vqe/index,course,Free course content,High,Chemistry use case
+Q021,Q5,PennyLane,PennyLane demos,https://pennylane.ai/demonstrations,demos/tutorials,Free browsing,Medium,QML chemistry resource estimation
+Q022,Q6,IBM Quantum,Integrating quantum and HPC,https://quantum.cloud.ibm.com/learning/en/courses/integrating-quantum-and-high-performance-computing/introduction,course,Free course content,Medium,Quantum systems infrastructure
