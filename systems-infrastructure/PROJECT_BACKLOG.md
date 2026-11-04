@@ -1,4 +1,4 @@
-# Portfolio project backlog — 12 real engineering demonstrations
+# Portfolio project backlog — 13 evidence-first engineering demonstrations
 
 **State of this file:** specifications, not finished projects. A project can be featured for recruiters only after reproducible implementation and written evidence exist. Prioritize quality over count: three deep, credible studies beat twelve shallow scripts.
 
@@ -18,7 +18,7 @@ Use [project template](templates/project-readme.md), [incident report template](
 | P01 | Immediate | [Linux System Diagnostics](projects/p01-linux-diagnostics/README.md) | Bash, Linux observations, safe CLI | **Starter authored; not yet validated on a real user lab** |
 | P02 | First quarter | Boot-to-login and Linux recovery atlas | Firmware, bootloader, kernel, systemd | Planned |
 | P03 | First half-year | [Linux Service Failure Lab](projects/p03-service-failure-lab/README.md) | systemd, service configuration, ports, logs | **Code and tests locally executed; real systemd failure atlas planned** |
-| P04 | First half-year | Isolated Windows AD DS / Group Policy lab | Windows Server, DNS, GPO, identity | Planned |
+| P04 | Months 2–6 | [Enterprise Windows Infrastructure + PowerShell](projects/p04-windows-infrastructure/README.md) | Windows Server, DNS, GPO, identity, PowerShell | Script authored; Windows lab not validated |
 | P05 | Months 7–9 | Cross-platform system inventory and remediation | PowerShell, Python/Bash, schema, tests | Planned |
 | P06 | Months 7–9 | Idempotent three-node Linux fleet | Ansible, security, configuration drift | Planned |
 | P07 | Months 10–12 | Network failure and packet-evidence atlas | DNS, routing, TCP, TLS, Wireshark | Planned |
@@ -27,6 +27,7 @@ Use [project template](templates/project-readme.md), [incident report template](
 | P10 | Months 19–21 | Observability and disaster recovery game day | Metrics, alerting, SLOs, backups | Planned |
 | P11 | Months 22–24 | Mini-enterprise IT operations capstone | Identity, endpoints, networks, automation | Planned |
 | P12 | Optional | Cost-bounded cloud/hybrid infrastructure | Terraform, cloud ops, IAM, spending | Planned |
+| P13 | Months 4–9 | [Virtualization, Storage and Recovery](projects/p13-virtualization-recovery/README.md) | Hypervisor, virtual networks, backups, restore, measured RPO/RTO | Planned |
 
 ## P01 — Linux System Diagnostics (start now)
 **User story:** A support engineer needs a non-destructive first view of a slow Linux workstation or server. Build a **read-only**, locally executable Bash script that reports kernel/uptime, load, memory, disk and process/network summaries. Initial source and limitations are in [P01](projects/p01-linux-diagnostics/README.md).
@@ -52,6 +53,8 @@ Use [project template](templates/project-readme.md), [incident report template](
 **Prove:** service state, journal entries, process and listening-socket analysis, root-cause chain, fix and reboot test for at least four independent faults. Include unit hardening trade-offs.
 
 ## P04 — Windows Identity and Group Policy
+Full guided [P04 lab and read-only PowerShell starter](projects/p04-windows-infrastructure/README.md). **No user-executed Windows/AD evidence yet.**
+
 **Problem:** Securely provision a small office and diagnose a configuration problem.
 
 **Build:** legally licensed/evaluation AD DS server and Windows client on isolated network; OU/group model, DNS integration, GPO, least-privilege delegation. Introduce broken DNS or GPO link deliberately.
@@ -118,3 +121,7 @@ Use [project template](templates/project-readme.md), [incident report template](
 For endpoint/IT Support Engineer interviews, lead with **P04 + P05 + P08**. For Linux/system engineering, lead with **P03 + P06 + P09**. For infrastructure/cloud ops, lead with **P06 + P10 + P12**. P07 is an excellent cross-role demonstration.
 
 Projects should not get a green “complete” badge until their acceptance tests and evidence are linked.
+## P13 — Virtualization, Storage and Verified Recovery
+Detailed [reproducible lab specification](projects/p13-virtualization-recovery/README.md). This deliberately prioritizes independent backup restore over snapshot-only demonstrations.
+
+**Exit gate:** a clean recovery VM, synthetic data integrity comparison, timed restoration and an honestly reported recovery limitation. No production or hypervisor administrator experience should be inferred until independently demonstrated.

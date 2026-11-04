@@ -16,10 +16,15 @@
 | Python for systems | Functional → Strong | Robust CLI, subprocess safety, structured logs, tests, packaging | P05 |
 | Ansible | Strong | Safe roles, repeat convergence, drift recovery, vault/secret discipline | P06 |
 | Infrastructure as code | Functional → Strong | State/diff, drift, lifecycle, cleanup, documented risk | Terraform Mastery/P12 |
-| Storage/backup | Strong | Restore checks, disaster-recovery game day, data integrity demonstration | P10 |
+| Storage/backup | Strong | Restore checks, disaster-recovery game day, data integrity demonstration | P10/P13 |
+| Hypervisor/virtual networking | Strong | Document host/guest resources, isolates, snapshots and verified recovery | P13 |
+| Windows identity and PKI | Strong | Reproduce synthetic AD/DNS/GPO auth failures; explain Kerberos and certificate trust | P04 |
 | Incident response | Strong | Hypothesis-driven evidence, timeline, root cause vs symptom, follow-up actions | P03/P07/P10 |
 | Cloud operations | Functional | One provider's IAM, cost controls, logs, monitoring, basic recovery | P12 |
 | Communication & documentation | Strong | Crisp runbook, case study, architecture explanation and measurable trade-offs | All |
+
+## Actual evidence versus targets
+This document contains **target competency levels**, not measured self-assessment. Use [EVIDENCE_MATRIX.csv](EVIDENCE_MATRIX.csv) to record personally executed skills and [CAREER_EVIDENCE_SYSTEM.md](CAREER_EVIDENCE_SYSTEM.md) to match them to real vacancies. As of this update, P04 has source only, P13 has a proposed lab, and P01/P03 assistant-side tests are not proof of owner-lab competence.
 
 ## Honest baseline
 Prior enterprise support includes AD, Microsoft 365, Intune, Jamf, SCCM, ServiceNow, remote networking and customer-facing incident work. **Do not infer expert-level skills merely from tool exposure**. Track each area against concrete tasks and reproducible evidence, not a self-rating.
