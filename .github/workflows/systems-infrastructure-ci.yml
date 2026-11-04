@@ -40,6 +40,15 @@ jobs:
       - name: Test synthetic loopback service
         run: python3 -m unittest discover -s systems-infrastructure/projects/p03-service-failure-lab/tests -v
 
+  powershell-syntax:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - name: Parse Windows PowerShell diagnostic starter
+        shell: pwsh
+        run: ./systems-infrastructure/projects/p04-windows-infrastructure/tests/Test-Syntax.ps1
+
   documentation:
     runs-on: ubuntu-latest
     timeout-minutes: 5
