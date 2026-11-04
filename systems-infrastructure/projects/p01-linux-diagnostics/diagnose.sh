@@ -52,11 +52,19 @@ section 'Kernel and machine' uname -srmo
 section 'Uptime and load' uptime
 section 'Memory allocation' free -h
 section 'Filesystem capacity' df -hP
-top_processes() {
-  # Keep output bounded while consuming ps completely to avoid SIGPIPE.
-  ps -eo pid,comm,%cpu,%mem --sort=-%cpu | awk 'NR <= 11 { print }'
-}
-section 'Top 10 processes by CPU (names may be sensitive)' top_processes
+# Direct invocation lets ShellCheck see this code path and lets us report failures.
+# awk consumes all ps output to avoid a broken pipe while printing only ten rows.
+printf '\n=== Top 10 processes by CPU (names may be sensitive) ===\n'
+if ! command -v ps >/dev/null 2>&1 || ! command -v awk >/dev/null 2>&1; then
+  printf '%s\n' 'WARN: ps or awk unavailable' >&2
+  failures=$((failures + 1))
+elif ps -eo pid,comm,%cpu,%mem --sort=-%cpu | awk 'NR <= 11 { print }'; then
+  :
+else
+  status=$?
+  printf 'WARN: process inventory exited with code %s\n' "$status" >&2
+  failures=$((failures + 1))
+fi
 section 'Network socket summary (no remote connections)' ss -s
 
 printf '\nCompleted with %s section warning(s).\n' "$failures"
