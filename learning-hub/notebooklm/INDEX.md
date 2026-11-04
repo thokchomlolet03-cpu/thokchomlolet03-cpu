@@ -34,6 +34,17 @@
 
 [Quantum learning path](../quantum/README.md) · [Experiment protocol](../quantum/EXPERIMENTS.md)
 
+## Visual judgment, professional communication and entrepreneurship
+
+| Theme | Notebook title | Open notebook | Original question | Status |
+|---|---|---|---|---|
+| Aesthetic literacy / design | — | — | Why does a composition look coherent, functional or confusing? | Not submitted |
+| Decision making under uncertainty | — | — | What low-risk experiment could test an assumption? | Not submitted |
+| Professional communication | — | — | How can I accurately explain demonstrated value and invite feedback? | Not submitted |
+| Marketing and customer discovery | — | — | Which user problem is real and how could it be verified? | Not submitted |
+
+[Human skills learning path](../personal-skills/README.md) · [Exercises and templates](../personal-skills/PRACTICE_TEMPLATES.md)
+
 ## Other research
 
 | Theme | Notebook title | Open notebook | Scope/limitations | Status |

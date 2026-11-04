@@ -2,7 +2,7 @@
 
 **Welcome.** This repository is the public front door to my engineering work, structured learning, and occasional writing. Whether you're here to assess my work, explore a project, follow a learning path or read an essay, you should be able to find the relevant evidence in a few clicks.
 
-[**GitHub home**](README.md) · [**Systems engineering**](systems-infrastructure/README.md) · [**Learning Hub**](learning-hub/README.md) · [**Quantum research**](learning-hub/quantum/README.md) · [**Essays & Ideas**](essays/README.md) · [**Contact**](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/)
+[**GitHub home**](README.md) · [**Systems engineering**](systems-infrastructure/README.md) · [**Learning Hub**](learning-hub/README.md) · [**Human skills**](learning-hub/personal-skills/README.md) · [**Quantum research**](learning-hub/quantum/README.md) · [**Essays & Ideas**](essays/README.md) · [**Contact**](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/)
 
 ## Why this exists
 
@@ -21,6 +21,7 @@ The learning and writing branches are intentionally separate from employer-facin
 | **A recruiter or hiring manager** | Actual enterprise background, technical depth, verified project evidence, current limitations | [Recruiter portfolio](systems-infrastructure/RECRUITER_PORTFOLIO.md) → [skills evidence matrix](systems-infrastructure/EVIDENCE_MATRIX.csv) → [project code](systems-infrastructure/PROJECT_BACKLOG.md) |
 | **A systems engineer or fellow learner** | Runbooks, reproductions, OS/network explanations, reasons behind design choices | [Systems & Infrastructure Engineering](systems-infrastructure/README.md) → [labs](systems-infrastructure/PROJECT_BACKLOG.md) → [learning resources](systems-infrastructure/LEARNING_RESOURCES.md) |
 | **Someone following the learning journey** | Free German A1–C2 links, corporate incident reports and source-based deep dives | [Learning Hub](learning-hub/README.md) → [German](learning-hub/german/README.md) / [engineering incidents](learning-hub/engineering-incidents/README.md) / [NotebookLM index](learning-hub/notebooklm/INDEX.md) |
+| **Someone developing design, communication or entrepreneurship skills** | Visual literacy, personal style and color choices, assertiveness, bounded experiments, marketing and customer discovery | [Human skills learning track](learning-hub/personal-skills/README.md) → [12-week roadmap](learning-hub/personal-skills/ROADMAP_12_WEEKS.md) |
 | **A reader interested in ideas and stories** | Essays, personal reflections, questions, creative writing and future published articles | [Essays & Ideas](essays/README.md) → [Medium](https://medium.com/@thokchom.lolet03) |
 | **A quantum computing learner or researcher** | A mathematical foundation, updated Qiskit and Google Cirq links, rigorous quantum-vs-classical experiments | [Quantum research learning path](learning-hub/quantum/README.md) → [Qiskit](learning-hub/quantum/QISKIT.md) / [Google Cirq](learning-hub/quantum/GOOGLE_CIRQ.md) → [experiments](learning-hub/quantum/EXPERIMENTS.md) |
 | **A collaborator or technical reviewer** | Research/code context, assumptions, implementation maturity and reproducibility | [Project Guide](PROJECT_GUIDE.md) → individual repository tests and limitations |
@@ -50,17 +51,21 @@ The [Learning Hub](learning-hub/README.md) reduces browsing friction. It links d
 
 **Reading something is not the same as understanding or validating it.** I try to turn useful questions into independent practice and testable explanations.
 
-### 4. Quantum computing is a separate, long-horizon research track
+### 4. Human skills are a separate practical development track
+
+The [human skills learning track](learning-hub/personal-skills/README.md) offers one-click visual-design and personal style resources, structured decision-making, professional communication, and marketing/customer discovery. It includes an optional [12-week sequence](learning-hub/personal-skills/ROADMAP_12_WEEKS.md) and explicitly empty progress log. This is **learning and experimentation**, not professional design/marketing experience or an earned certificate. Personal journal details stay private.
+
+### 5. Quantum computing is a separate, long-horizon research track
 
 The [quantum computing roadmap](learning-hub/quantum/README.md) is intended for first-principles study and future scientific-computing research—not a claim that quantum technology presently accelerates AI models. It connects [IBM's Qiskit](learning-hub/quantum/QISKIT.md), [Google Cirq](learning-hub/quantum/GOOGLE_CIRQ.md), error/noise models, and [honest quantum–classical comparisons](learning-hub/quantum/QUANTUM_AI_RESEARCH.md). Current infrastructure career evidence stays separate.
 
-### 5. Essays & Ideas is a separate public notebook
+### 6. Essays & Ideas is a separate public notebook
 
 [Essays & Ideas](essays/README.md) links to published pieces wherever they live—Medium, Substack or another platform in the future. Essays may include open questions, opinions, technical reflections and creative stories. A narrative voice is not automatically autobiographical, and an essay describing a technical ambition is not a verified engineering accomplishment.
 
 The index records original links, categories and publication dates; future essays can be added without rebuilding the profile.
 
-### 6. Larger projects have their own repositories
+### 7. Larger projects have their own repositories
 
 The [Project Guide](PROJECT_GUIDE.md) points to independent software and research repositories, including [Terraform Mastery](https://github.com/thokchomlolet03-cpu/terraform-mastery) and [Discovery Intelligence](https://github.com/thokchomlolet03-cpu/discovery_intelligence_system). Each project's own README, tests, evidence and constraints are its source of truth. Independent research ideas and hypothetical outcomes are not presented as proven scientific results.
 
