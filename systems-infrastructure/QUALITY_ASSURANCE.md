@@ -21,3 +21,6 @@ The last examined main-branch run at [Actions run 41709552945](https://github.co
 - Read-only PowerShell source gets static parse validation on GitHub CI, but Windows CIM behavior **must** be tested in a permitted Windows environment.
 - After each change, inspect the actual pull request's failing job logs; do not assume fixing one lint finding guarantees all jobs pass.
 - No secrets, proprietary employer data, or actual user identity dumps in evidence artifacts.
+
+## Verified default-branch CI — 2026-11-04
+After [PR #6](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/pull/6) was merged, [main workflow run 41789577964](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/actions/runs/41789577964) completed with **success** at merge commit `26b91896dcd2efa0638c80e33a5e1437c4a8991c`. All four jobs passed: Linux diagnostics; synthetic service tests; PowerShell static syntax; documentation links. No assertion is made about Windows runtime, owner lab, hypervisor restoration, cloud production or job readiness.

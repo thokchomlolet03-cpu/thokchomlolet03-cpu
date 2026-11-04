@@ -1,4 +1,6 @@
 # Systems & Infrastructure Engineering
+
+[![Systems infrastructure checks](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/actions/workflows/systems-infrastructure-ci.yml/badge.svg?branch=main)](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/actions/workflows/systems-infrastructure-ci.yml)
 **Operating systems · Networks · Endpoint management · Automation · Reliability**
 
 > An evidence-first, public learning workbench and technical portfolio. Curriculum inaugurated **3 November 2026**.
