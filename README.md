@@ -90,7 +90,7 @@ Four ways I explore that direction. **Each card opens the source.**
 
 I publish occasional essays, reflections and creative stories about questions that interest me beyond work. The [**Essays & Ideas index**](./essays/README.md) collects verified public links and will grow over time, whether I publish through [Medium](https://medium.com/@thokchom.lolet03), Substack or another platform.
 
-Start with [**Who Answered the Group Chat?**](https://medium.com/@thokchom.lolet03/who-answered-the-group-chat-c19a39891a19) or [**The Story of Discovery Intelligence**](https://medium.com/@thokchom.lolet03/the-story-of-discovery-intelligence-building-an-ai-that-seeks-truth-d1ccce2c189c). Stories and essays are not substitutes for reproducible engineering evidence.
+Start with [**The Quiet Art of Running Away**](https://medium.com/@thokchom.lolet03/the-quiet-art-of-running-away-4737f53d87e6), [**Who Answered the Group Chat?**](https://medium.com/@thokchom.lolet03/who-answered-the-group-chat-c19a39891a19), or [**The Story of Discovery Intelligence**](https://medium.com/@thokchom.lolet03/the-story-of-discovery-intelligence-building-an-ai-that-seeks-truth-d1ccce2c189c). Stories and essays are not substitutes for reproducible engineering evidence.
 
 ## The longer arc
 
