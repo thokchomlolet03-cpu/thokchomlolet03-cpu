@@ -1,7 +1,9 @@
-# Learning Hub — German, engineering, quantum research, human skills, and NotebookLM
+# Learning Hub — university learning, languages, engineering, quantum research, people, and NotebookLM
 
 [← Start Here](../START_HERE.md) · [Essays & Ideas](../essays/README.md) · [GitHub home](../README.md)
 
+
+**[Learning philosophy: breadth, depth and door-opening credentials](LEARNING_PHILOSOPHY.md)** — a lifelong map, not a six-month certificate sprint.
 
 **One bookmark for daily study.** You can open this page from [my public GitHub profile](../README.md) or the [Systems & Infrastructure Engineering portfolio](../systems-infrastructure/README.md). The links open original learning sites; this hub is a curated starting point, not a copy of paid courses or company reports.
 
@@ -11,6 +13,8 @@
 
 | Launch | What you get | Best first click |
 |---|---|---|
+| **🎓 [University coursework & academic evidence](university/README.md)** | University-quality study, exact free/paid credential distinctions and honest evidence of completion | [Open 22-course directory](university/README.md) |
+| **🌍 [Events, communities and travel](participation/README.md)** | Official conference directories, meetups, workshops and practical participation | [Explore participation](participation/README.md) |
 | **🇩🇪 [Learn German from A1 to C2](german/README.md)** | Level-by-level curriculum, one-click resources, speaking, reading, exams and German for IT jobs | [A1 — start here](german/README.md#a1--beginner) |
 | **🛠️ [Read how real infrastructure breaks](engineering-incidents/README.md)** | Official engineering blogs, real incidents, causes, mitigations and postmortems | [Cloudflare & Netflix](engineering-incidents/README.md#start-with-these-real-investigations) |
 | **📚 [Open and organize NotebookLM deep dives](notebooklm/README.md)** | Public notebook directory, share-link intake, structured learning notes for language and tech | [Notebook library](notebooklm/INDEX.md) |
@@ -28,6 +32,8 @@
 - Human skills: [Visual principles](https://www.nngroup.com/articles/principles-visual-design/) or [Communication](personal-skills/PROFESSIONAL_COMMUNICATION.md) — make one small, observable improvement.
 
 **Have an hour?** Do one German lesson + a written or spoken exercise; or read one outage report, reconstruct the timeline and test a safe concept in your own VM. Record what you actually accomplished rather than the minutes spent watching. For optional long-term quantum study, open the [12-week gentle on-ramp](quantum/ROADMAP_12_WEEKS.md) and work on one mathematical prediction or small simulator experiment. The career systems track remains the near-term priority.
+
+The weekly rotation below is **only an example**, never a requirement; questions, opportunities and real feedback determine the pace.
 
 ## Weekly rotation (adjust to shift work)
 

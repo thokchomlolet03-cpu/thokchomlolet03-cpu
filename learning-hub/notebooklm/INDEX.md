@@ -45,6 +45,16 @@
 
 [Human skills learning path](../personal-skills/README.md) · [Exercises and templates](../personal-skills/PRACTICE_TEMPLATES.md)
 
+## University study, languages, and event learning
+
+| Theme | Notebook title | Open notebook | What will be checked? | Status |
+|---|---|---|---|---|
+| University coursework | — | — | Can I explain a university concept and independently reproduce the result? | Not submitted |
+| Languages and communication | — | — | What original speaking/writing did I practice and what feedback was received? | Not submitted |
+| Conferences and engineering reports | — | — | Which evidence came from primary reports or speakers, and what remains uncertain? | Not submitted |
+
+[University coursework](../university/README.md) · [Events and community](../participation/README.md) · [Learning philosophy](../LEARNING_PHILOSOPHY.md)
+
 ## Other research
 
 | Theme | Notebook title | Open notebook | Scope/limitations | Status |

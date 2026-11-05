@@ -4,6 +4,8 @@
 
 A curated one-click library of first-party incident reports, postmortems and engineering deep dives. **Sources are the companies' own published accounts**, not proof that their system design is universally correct. Reports can be incomplete; actively test alternative explanations.
 
+**[Why this belongs in the lifelong learning system](../LEARNING_PHILOSOPHY.md):** studying how expert organizations solve production problems is a continuing practice. Read a primary account, test competing mechanisms, and connect a safe experiment to the [systems labs](../../systems-infrastructure/PROJECT_BACKLOG.md) or discuss insights with people at [events](../participation/README.md).
+
 **Purpose:** build causal understanding of operating systems, DNS/BGP/TCP, dependencies, scaling, monitoring, recovery, automation and human response. These are the skills a Systems Engineer needs when unexpected infrastructure problems appear.
 
 ## Live source libraries — bookmark these, not individual search results

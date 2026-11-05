@@ -2,6 +2,8 @@
 
 [← Learning Hub](../README.md) · [NotebookLM German index](../notebooklm/INDEX.md) · [Official Goethe exam practice](https://www.goethe.de/de/spr/prf/ueb.html)
 
+**[Learning philosophy](../LEARNING_PHILOSOPHY.md):** language competence is an ongoing foundation for wider communication and cross-cultural participation, not merely an exam to pass.
+
 **Goal:** build German proficiency useful for daily life, IT infrastructure work, interviews and, eventually, German-language study. There is no fixed guaranteed time per level. Study and progress according to tested speaking, listening, reading and writing, not videos watched.
 
 ## Fast launcher — click your current level
@@ -15,7 +17,9 @@
 | **[C1 — advanced](#c1--advanced)** | **[VHS C1 for work](https://c1-beruf.vhs-lernportal.de/wws/home.php)** + [Goethe free practice](https://www.goethe.de/de/spr/ueb.html) | [Easy German C1/C2](https://www.easygerman.org/podcast/) | [Goethe C1 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
 | **[C2 — proficiency](#c2--proficient)** | [Goethe advanced practice](https://www.goethe.de/de/spr/ueb.html) + original long-form German texts | [Easy German C1/C2](https://www.easygerman.org/) | [Goethe C2 sample](https://www.goethe.de/de/spr/prf/ueb.html) |
 
-**Direct-access note:** Links labeled VHS A1/A2/B1/B2-for-work/C1-for-work above open the **specific course start page**, rather than the general VHS homepage. Registration may still be needed to save progress. At B2 and C1 the verified direct courses focus on professional German.\n\n**Access notes:** DW's *Nicos Weg* is a structured video course through B1, not a complete A1–C2 course. VHS has free course offerings through C1 (check the specific course available at your level). Goethe's free content and free exam samples **supplement** study; they do not provide a fully taught free C2 program. Easy German offers free videos/podcasts, while membership-only transcripts/exercises may cost money.
+**Direct-access note:** Links labeled VHS A1/A2/B1/B2-for-work/C1-for-work above open the **specific course start page**, rather than the general VHS homepage. Registration may still be needed to save progress. At B2 and C1 the verified direct courses focus on professional German.
+
+**Access notes:** DW's *Nicos Weg* is a structured video course through B1, not a complete A1–C2 course. VHS has free course offerings through C1 (check the specific course available at your level). Goethe's free content and free exam samples **supplement** study; they do not provide a fully taught free C2 program. Easy German offers free videos/podcasts, while membership-only transcripts/exercises may cost money.
 
 ## A1 — Beginner
 
