@@ -6,6 +6,9 @@
 
 ## One path into deep systems engineering
 
+Consider [Nand2Tetris and MIT discrete mathematics](COMPUTER_FOUNDATIONS.md) as a strong, noncredentialed foundation before advanced kernel work. The [Finnish programming and cybersecurity offers](FINNISH_CREDIT_OPPORTUNITIES.md) may provide rigorously assessed academic evidence; decide whether their current deadlines and prerequisites suit you without treating them as a fixed personal schedule.
+
+
 Start from [MIT 6.004 Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) and [MIT Missing Semester](https://missing.csail.mit.edu/2026/). Follow questions into [MIT 6.1810 Operating Systems](https://pdos.csail.mit.edu/6.1810/2026/), [Stanford CS144 Networking](https://web.stanford.edu/class/cs144/), and, once ready, [MIT Distributed Systems](https://pdos.csail.mit.edu/6.5840/). Develop a real lab tied to a failure or mechanism and document results.
 
 ## One path to recognized, affordable credentials

@@ -69,7 +69,8 @@ For German, the experiment can be an original conversation or a corrected paragr
 |---|---|---|
 | Computer architecture and OS | [Systems Engineering](../systems-infrastructure/README.md) · [University academic sources](university/README.md) | [Personal lab evidence](../systems-infrastructure/EVIDENCE_MATRIX.csv) |
 | Reasoning and scientific method | [Engineering incident reading](engineering-incidents/README.md) · [Quantum experiment protocol](quantum/EXPERIMENTS.md) | [Original incident-reading template](engineering-incidents/READING_TEMPLATE.md) |
-| Recognized academic signals | [University course catalog](university/COURSE_CATALOG.csv) | [Credential distinctions](university/CREDENTIALS.md) · [Evidence tracker](university/EVIDENCE_TRACKER.csv) |
+| Recognized academic signals | [University course catalog](university/COURSE_CATALOG.csv) · [Finnish credit eligibility](university/FINNISH_CREDIT_OPPORTUNITIES.md) | [Credential distinctions](university/CREDENTIALS.md) · [Evidence tracker](university/EVIDENCE_TRACKER.csv) |
+| Logic → hardware → OS fundamentals | [Nand2Tetris and MIT mathematics](university/COMPUTER_FOUNDATIONS.md) | Independently tested components, proofs and a systems failure explanation |
 | Visual design and judgment | [Visual literacy](personal-skills/VISUAL_LITERACY.md) | [Comparison templates](personal-skills/PRACTICE_TEMPLATES.md) |
 | Self-presentation and relationship building | [Professional communication](personal-skills/PROFESSIONAL_COMMUNICATION.md) | [Events and in-person participation](participation/README.md) |
 | Markets and customers | [Marketing & entrepreneurship](personal-skills/MARKETING_ENTREPRENEURSHIP.md) | Original customer discovery, not inflated claims |
