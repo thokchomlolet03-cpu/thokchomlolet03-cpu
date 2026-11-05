@@ -7,13 +7,14 @@
 
 **One bookmark for daily study.** You can open this page from [my public GitHub profile](../README.md) or the [Systems & Infrastructure Engineering portfolio](../systems-infrastructure/README.md). The links open original learning sites; this hub is a curated starting point, not a copy of paid courses or company reports.
 
-**Last checked:** 4 November 2026. Availability and terms may change. No claim is made that a listed resource has been completed.
+**Last checked:** 5 November 2026. Availability and terms may change. No claim is made that a listed resource has been completed.
 
 ## Choose what you want to study right now
 
 | Launch | What you get | Best first click |
 |---|---|---|
-| **🎓 [University coursework & academic evidence](university/README.md)** | University-quality study, exact free/paid credential distinctions and honest evidence of completion | [Open 22-course directory](university/README.md) |
+| **🎓 [University coursework & academic evidence](university/README.md)** | University-quality study, exact free/paid credential distinctions and honest evidence of completion | [31-course catalog](university/README.md) |
+| **🧮 [Free Finnish university and computer foundations courses](university/FINNISH_CREDIT_OPPORTUNITIES.md)** | Current Helsinki/Turku/KAMK programming and security options; ECTS eligibility verified separately, plus Nand2Tetris/MIT foundations | [University credit audit](university/FINNISH_CREDIT_OPPORTUNITIES.md) · [Build a computer](university/COMPUTER_FOUNDATIONS.md) |
 | **🌍 [Events, communities and travel](participation/README.md)** | Official conference directories, meetups, workshops and practical participation | [Explore participation](participation/README.md) |
 | **🇩🇪 [Learn German from A1 to C2](german/README.md)** | Level-by-level curriculum, one-click resources, speaking, reading, exams and German for IT jobs | [A1 — start here](german/README.md#a1--beginner) |
 | **🛠️ [Read how real infrastructure breaks](engineering-incidents/README.md)** | Official engineering blogs, real incidents, causes, mitigations and postmortems | [Cloudflare & Netflix](engineering-incidents/README.md#start-with-these-real-investigations) |

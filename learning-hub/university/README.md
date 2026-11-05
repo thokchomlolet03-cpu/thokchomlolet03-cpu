@@ -4,7 +4,25 @@
 
 **Purpose:** build serious subject knowledge using the publicly available teaching of well-known universities, and make the results defensible through actual assignments, independent experiments, and accurately named credentials. This is part of a [lifelong learning system](../LEARNING_PHILOSOPHY.md) pursuing **breadth and depth without a race**. Credentials are useful when they open a real door; understanding and independent ability matter even when no certificate is awarded. **This directory is a plan, not a list of completed courses or institutional affiliations.**
 
-**Research check: 5 November 2026.** University offerings, deadlines, access to assignments, certificate terms, and credit rules can change. Always confirm the current official page before relying on enrollment or a credential.
+**Research check: 5 November 2026, expanded with a separate [Finnish-credit eligibility audit](FINNISH_CREDIT_OPPORTUNITIES.md) and [computer foundations map](COMPUTER_FOUNDATIONS.md).** University offerings, deadlines, access to assignments, certificate terms, and credit rules can change. Always confirm the current official page before relying on enrollment or a credential.
+
+## Newly verified: free programming and computer-systems foundations (5 November 2026)
+
+The [**Finnish university credit opportunities guide**](FINNISH_CREDIT_OPPORTUNITIES.md) distinguishes free participation from **officially recorded ECTS** and shows actual course/examination windows, while the [**computer foundations guide**](COMPUTER_FOUNDATIONS.md) connects mathematics, CPU architecture, kernels and failure analysis.
+
+| New option | Direct course entry | Condition / benefit |
+|---|---|---|
+| **Helsinki — Python Introduction** | [2026 Programming MOOC](https://programming-26.mooc.fi/) | Free; course **5 ECTS if separately registered and recorded after passing**. Important: 2026 site says material closes at end of 2026 despite a university listing through Aug 2027. |
+| **Helsinki — Advanced Python** | [2026 Programming MOOC, parts 8–14](https://programming-26.mooc.fi/) | Free; conditional **5 ECTS** and exam; current published exam timetable includes Feb 2027. |
+| **Helsinki — Cyber Security Base** | [2026 Introduction MOOC](https://cybersecuritybase.mooc.fi/descriptions/) | Free English cybersecurity project; **3 ECTS advertised**, studies end 13 Dec 2026. Separate exam and credit recognition require verification. |
+| **Turku — AI & Cybersecurity** | [Free Open University registration](https://avoin.peppi.utu.fi/en/5244) | **2 ECTS** if correctly registered and completed; registration open through 23 June 2027. Standalone MOOC browsing earns **no ECTS or certificate**. |
+| **KAMK — Cloud & Cybersecurity** | [Current free online course](https://opin.fi/en/study-options/KAMK/elements-of-cloud-and-cybersecurity/7913cfec-e909-4a48-9803-d323c8c5f6e1/implementations/792ec026-8453-4722-bdc7-a1d9b0b5833b) | 2 credits advertised; register by **30 Nov 2026**, finish by **31 Dec 2026**. Ask about non-degree transcript eligibility. |
+| **Turku — Fundamentals of Programming** | [English, online, 5 ECTS](https://opas.peppi.utu.fi/en/course/TKO_2323/94800?period=2024-2027) | Free current university offer; a possible **alternative** to Helsinki introductory Python, not another obligation. |
+| **Nand2Tetris** | [Free original projects](https://www.nand2tetris.org/) | Build a computer from logic gates; self-study has **no academic ECTS** and Coursera certification is paid. |
+| **MIT — 6.042J Mathematics for Computer Science** | [OpenCourseWare with textbook and problem sets](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) | Free, rigorous reasoning/proofs/graphs/probability; **no MIT credit or certificate**. |
+| **Helsinki — Full Stack Open** | [Current free online modules](https://fullstackopen.com/en/about/) | Optional for a research-software/CI–CD project, **not a replacement for OS and networking depth**. Provider describes conditional free certificate/credit pathways. |
+
+**The source text's 23 ECTS is a potential sum of advertised credit values, not a banked academic credential, an admissions guarantee or an automatic qualification.** Metropolia's apparently attractive 0-euro Linux, OS, CCNA and C courses are on the [restricted-access watchlist](FINNISH_CREDIT_OPPORTUNITIES.md#currently-restricted-metropolia-university-of-applied-sciences-open-uas) because its current Open UAS enrollment normally requires a Finnish personal identity code.
 
 ## One-click launchpad — choose the most relevant next step
 
@@ -31,13 +49,15 @@
 
 **Enrollment is not admission.** Self-directed MIT material is not an MIT degree transcript; a CS50 Certificate is **not accredited Harvard academic coursework**; OpenLearn badges are generally not Open University academic-credit awards. For university admissions, ask each institution how it evaluates these specific credentials.
 
-[Detailed credential rules](CREDENTIALS.md) · [22-course catalog](COURSE_CATALOG.csv) · [Evidence tracker](EVIDENCE_TRACKER.csv) · [Flexible study sequences](SIX_MONTH_SEQUENCE.md)
+[Finnish-credit eligibility audit](FINNISH_CREDIT_OPPORTUNITIES.md) · [Computer foundations](COMPUTER_FOUNDATIONS.md) · [Detailed credential rules](CREDENTIALS.md) · [31-course catalog](COURSE_CATALOG.csv) · [Evidence tracker](EVIDENCE_TRACKER.csv) · [Flexible study sequences](SIX_MONTH_SEQUENCE.md)
 
 ## Three complementary lanes — not deadlines or competing priorities
 
 Choose courses in any lane based on genuine interest, skill gaps, and whether a credential opens a specific door. More than one interest can develop over time. [Study philosophy](../LEARNING_PHILOSOPHY.md).
 
 ### Lane A — engineering depth and useful professional credentials
+
+For genuine theoretical breadth, see [Nand2Tetris and MIT discrete mathematics](COMPUTER_FOUNDATIONS.md). For possible zero-fee, formally assessed studies, see [Helsinki/Turku/KAMK](FINNISH_CREDIT_OPPORTUNITIES.md). Neither requires sacrificing language study, professional experience or long-term curiosity.
 1. [Helsinki DevOps with Docker](https://opin.fi/en/study-options/HY/devops-with-docker/32fc688c-76c7-42a7-b316-540a063deee7/implementations/761b9a25-a3b9-45bd-b8be-a956a827134f) (**time-sensitive Fall 2026 course**).
 2. [Harvard CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/).
 3. [MIT 6.004 Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/): selected units, or [MIT 6.1810](https://pdos.csail.mit.edu/6.1810/2026/) for deeper operating-system labs.
