@@ -8,6 +8,8 @@
 
 My long-term ambition is a discovery system that reasons about scientific evidence and can eventually evaluate quantum computing as **one possible computational resource**. I am studying quantum computing to understand the actual physics, mathematical capabilities, constraints and interfaces—not to assume that a quantum processor improves every AI workflow. This track is **independent of my near-term infrastructure career**: it is a patient, long-term area of study with real experiments and strict classical baselines.
 
+**Broader context:** [Learning philosophy](../LEARNING_PHILOSOPHY.md) · [University math/AI learning](../university/README.md). Quantum study is an open-ended research interest, with no imposed timeline or unjustified claim that quantum hardware accelerates AI.
+
 **Core research principle:** use the simplest well-supported classical solution unless a well-defined quantum algorithm, independent comparison and resource model justify a quantum approach.
 
 ## First click — choose your present level

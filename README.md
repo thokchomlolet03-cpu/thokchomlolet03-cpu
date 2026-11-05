@@ -5,6 +5,7 @@
 <p align="center">
   <a href="./START_HERE.md"><b>START HERE ↗</b></a> &nbsp; / &nbsp;
   <a href="./learning-hub/README.md"><b>LEARNING HUB ↗</b></a> &nbsp; / &nbsp;
+  <a href="./learning-hub/university/README.md"><b>UNIVERSITY LEARNING ↗</b></a> &nbsp; / &nbsp;
   <a href="./learning-hub/personal-skills/README.md"><b>HUMAN SKILLS ↗</b></a> &nbsp; / &nbsp;
   <a href="./learning-hub/quantum/README.md"><b>QUANTUM RESEARCH ↗</b></a> &nbsp; / &nbsp;
   <a href="./essays/README.md"><b>ESSAYS ↗</b></a> &nbsp; / &nbsp;
@@ -22,6 +23,12 @@ My current professional focus is progressing from enterprise IT support into Win
 
 **[New here? Start with the visitor guide.](./START_HERE.md)** It explains how this space works, what has been demonstrated, and where readers, recruiters and learners should go.
 
+## How I learn: breadth and depth, without a race
+
+**[Learning philosophy](./learning-hub/LEARNING_PHILOSOPHY.md):** credentials are useful door-openers, not the goal of study. The goal is deep knowledge, independent problem-solving, language ability, design judgment, communication, customer understanding, international participation and lifelong discovery.
+
+[University learning and credential distinctions](./learning-hub/university/README.md) · [Conferences, community and travel](./learning-hub/participation/README.md)
+
 ## Personal Learning Hub — one bookmark for daily study
 
 **[Open the Learning Hub](./learning-hub/README.md)** to launch German courses, engineering incident reports, and my source-based NotebookLM notes without searching across websites.
@@ -33,6 +40,8 @@ My current professional focus is progressing from enterprise IT support into Win
 | **NotebookLM deep dives** | [Notebook index](./learning-hub/notebooklm/INDEX.md) · [Share a public notebook](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/new?template=notebooklm-link.yml) |
 | **Quantum computing for future discovery** | **[Quantum first-principles learning path](./learning-hub/quantum/README.md)** · [Qiskit](./learning-hub/quantum/QISKIT.md) · [Google Cirq](./learning-hub/quantum/GOOGLE_CIRQ.md) |
 | **Visual design, communication and entrepreneurship** | **[Human Skills Learning Hub](./learning-hub/personal-skills/README.md)** · [12-week practice plan](./learning-hub/personal-skills/ROADMAP_12_WEEKS.md) |
+| **Top-university learning and credentials** | [22-course university catalog](./learning-hub/university/COURSE_CATALOG.csv) · [Academic evidence guide](./learning-hub/university/README.md) |
+| **Conferences and international participation** | [Official event directories and participation guide](./learning-hub/participation/README.md) |
 
 German study is an ongoing personal goal, **not a claim of a certified CEFR level**. NotebookLM links are added only when safe to share publicly.
 

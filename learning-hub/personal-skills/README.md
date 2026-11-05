@@ -2,6 +2,8 @@
 
 [← Learning Hub](../README.md) · [Start Here](../../START_HERE.md) · [NotebookLM](../notebooklm/INDEX.md) · [12-week roadmap](ROADMAP_12_WEEKS.md)
 
+**[Connection to lifelong learning](../LEARNING_PHILOSOPHY.md):** visual judgment, communication and business understanding complement technical depth. [University resources](../university/README.md) and [real-world participation](../participation/README.md) are optional ways to deepen them.
+
 **Purpose:** a public, practical learning library for four complementary abilities: interpreting visual design, making thoughtful decisions under uncertainty, explaining work to others, and understanding customers. This track is **educational and exploratory**, separate from verified employment experience and engineering-lab evidence.
 
 **Published:** November 2026. None of the courses or exercises below is marked completed. Source prices, schedules and availability can change.

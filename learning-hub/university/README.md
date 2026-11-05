@@ -2,7 +2,7 @@
 
 [← Learning Hub](../README.md) · [Start Here](../../START_HERE.md) · [Systems engineering](../../systems-infrastructure/README.md) · [Quantum](../quantum/README.md) · [Human skills](../personal-skills/README.md)
 
-**Purpose:** build serious subject knowledge using the publicly available teaching of well-known universities, and make the results defensible through actual assignments, independent experiments, and accurately named credentials. **This directory is a plan, not a list of completed courses or institutional affiliations.**
+**Purpose:** build serious subject knowledge using the publicly available teaching of well-known universities, and make the results defensible through actual assignments, independent experiments, and accurately named credentials. This is part of a [lifelong learning system](../LEARNING_PHILOSOPHY.md) pursuing **breadth and depth without a race**. Credentials are useful when they open a real door; understanding and independent ability matter even when no certificate is awarded. **This directory is a plan, not a list of completed courses or institutional affiliations.**
 
 **Research check: 5 November 2026.** University offerings, deadlines, access to assignments, certificate terms, and credit rules can change. Always confirm the current official page before relying on enrollment or a credential.
 
@@ -31,11 +31,13 @@
 
 **Enrollment is not admission.** Self-directed MIT material is not an MIT degree transcript; a CS50 Certificate is **not accredited Harvard academic coursework**; OpenLearn badges are generally not Open University academic-credit awards. For university admissions, ask each institution how it evaluates these specific credentials.
 
-[Detailed credential rules](CREDENTIALS.md) · [Course catalog with 23 entries](COURSE_CATALOG.csv) · [Evidence tracker](EVIDENCE_TRACKER.csv)
+[Detailed credential rules](CREDENTIALS.md) · [22-course catalog](COURSE_CATALOG.csv) · [Evidence tracker](EVIDENCE_TRACKER.csv) · [Flexible study sequences](SIX_MONTH_SEQUENCE.md)
 
-## Choose one of three lanes — do not enroll in everything
+## Three complementary lanes — not deadlines or competing priorities
 
-### Lane A — employment first (default)
+Choose courses in any lane based on genuine interest, skill gaps, and whether a credential opens a specific door. More than one interest can develop over time. [Study philosophy](../LEARNING_PHILOSOPHY.md).
+
+### Lane A — engineering depth and useful professional credentials
 1. [Helsinki DevOps with Docker](https://opin.fi/en/study-options/HY/devops-with-docker/32fc688c-76c7-42a7-b316-540a063deee7/implementations/761b9a25-a3b9-45bd-b8be-a956a827134f) (**time-sensitive Fall 2026 course**).
 2. [Harvard CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/).
 3. [MIT 6.004 Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/): selected units, or [MIT 6.1810](https://pdos.csail.mit.edu/6.1810/2026/) for deeper operating-system labs.
@@ -46,7 +48,7 @@
 2. [MIT Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) after mathematics and classical-physics prerequisites.
 3. Use the [Quantum Computing learning track](../quantum/README.md) for Qiskit/Cirq simulations and honest classical baselines.
 
-### Lane C — credibility in communication and business (parallel light track)
+### Lane C — communication, visual judgment and business
 1. [Open University Communication](https://www.open.edu/openlearn/money-business/effective-communication-the-workplace) → [MIT How to Speak](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/).
 2. [Open University Design Thinking](https://www.open.edu/openlearn/science-maths-technology/design-innovation/design-thinking) → [Open University Entrepreneurship](https://www.open.edu/openlearn/money-business/entrepreneurship-ideas-reality).
 3. Practice through the existing [human skills hub](../personal-skills/README.md); public awards should be **earned** before being displayed.
@@ -75,5 +77,7 @@ Use [EVIDENCE_TEMPLATE.md](EVIDENCE_TEMPLATE.md) and [EVIDENCE_TRACKER.csv](EVID
 - [German A1–C2](../german/README.md) — structured language practice and official exam preparation.
 - [Human skills](../personal-skills/README.md) — visual literacy, communication and business exercises.
 - [NotebookLM](../notebooklm/INDEX.md) — **public links only** to privacy-reviewed source-based study notebooks.
+- [Engineering incident library](../engineering-incidents/README.md) — how top technical organizations investigate and resolve real problems.
+- [Conferences and communities](../participation/README.md) — ask questions, meet practitioners, learn across cultures and travel when practical.
 
 Do not misrepresent self-study as being admitted to Harvard, MIT, Stanford, Yale, CMU, Helsinki, or any other degree program. This is an evidence-first learning map, not an endorsement, institutional affiliation, or current admission guarantee.

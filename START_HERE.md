@@ -2,13 +2,13 @@
 
 **Welcome.** This repository is the public front door to my engineering work, structured learning, and occasional writing. Whether you're here to assess my work, explore a project, follow a learning path or read an essay, you should be able to find the relevant evidence in a few clicks.
 
-[**GitHub home**](README.md) · [**Systems engineering**](systems-infrastructure/README.md) · [**Learning Hub**](learning-hub/README.md) · [**Human skills**](learning-hub/personal-skills/README.md) · [**Quantum research**](learning-hub/quantum/README.md) · [**Essays & Ideas**](essays/README.md) · [**Contact**](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/)
+[**GitHub home**](README.md) · [**Systems engineering**](systems-infrastructure/README.md) · [**Learning Hub**](learning-hub/README.md) · [**Learning philosophy**](learning-hub/LEARNING_PHILOSOPHY.md) · [**University courses**](learning-hub/university/README.md) · [**Human skills**](learning-hub/personal-skills/README.md) · [**Quantum research**](learning-hub/quantum/README.md) · [**Essays & Ideas**](essays/README.md) · [**Contact**](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/)
 
 ## Why this exists
 
 I previously worked in enterprise Level 2 IT support, and I am building toward deeper systems and infrastructure engineering: understanding hardware, operating systems, networks, identity, automation, and failures from first principles. I also pursue independent software and scientific research questions, and I write about ideas that interest me beyond technology.
 
-This is a **living workbench**, not a finished certificate wall or an attempt to portray planned work as completed work. Publishing a plan makes the next experiment explicit; publishing actual outputs, tests, mistakes and limitations makes the result reviewable. My working cycle is:
+This is a **living workbench**, not a finished certificate wall or an attempt to portray planned work as completed work. I study for **breadth and depth without an artificial deadline**: engineering foundations, critical reasoning, languages, visual judgment, communication, market understanding, real engineering case studies and meeting people. [Read the learning philosophy](learning-hub/LEARNING_PHILOSOPHY.md). Publishing a plan makes the next experiment explicit; publishing actual outputs, tests, mistakes and limitations makes the result reviewable. My working cycle is:
 
 **Ask a question → study original sources → predict what should happen → build/test in an authorized lab → capture observations → challenge the explanation → revise and publish.**
 
@@ -19,6 +19,8 @@ The learning and writing branches are intentionally separate from employer-facin
 | I'm visiting as… | What I might want | Best starting point |
 |---|---|---|
 | **A recruiter or hiring manager** | Actual enterprise background, technical depth, verified project evidence, current limitations | [Recruiter portfolio](systems-infrastructure/RECRUITER_PORTFOLIO.md) → [skills evidence matrix](systems-infrastructure/EVIDENCE_MATRIX.csv) → [project code](systems-infrastructure/PROJECT_BACKLOG.md) |
+| **A university-course learner** | High-quality free coursework, exact credential conditions and reproducible learning evidence | [University Coursework](learning-hub/university/README.md) → [Catalog](learning-hub/university/COURSE_CATALOG.csv) |
+| **Someone looking for talks, meetups or conferences** | Learning from people, community participation and responsible travel planning | [Conference and participation resources](learning-hub/participation/README.md) |
 | **A systems engineer or fellow learner** | Runbooks, reproductions, OS/network explanations, reasons behind design choices | [Systems & Infrastructure Engineering](systems-infrastructure/README.md) → [labs](systems-infrastructure/PROJECT_BACKLOG.md) → [learning resources](systems-infrastructure/LEARNING_RESOURCES.md) |
 | **Someone following the learning journey** | Free German A1–C2 links, corporate incident reports and source-based deep dives | [Learning Hub](learning-hub/README.md) → [German](learning-hub/german/README.md) / [engineering incidents](learning-hub/engineering-incidents/README.md) / [NotebookLM index](learning-hub/notebooklm/INDEX.md) |
 | **Someone developing design, communication or entrepreneurship skills** | Visual literacy, personal style and color choices, assertiveness, bounded experiments, marketing and customer discovery | [Human skills learning track](learning-hub/personal-skills/README.md) → [12-week roadmap](learning-hub/personal-skills/ROADMAP_12_WEEKS.md) |
