@@ -281,3 +281,7 @@ And perhaps that is a meaningful way to measure growth.
 Not by how successfully we escape the uncomfortable parts of existence.
 
 But by how much of reality we have learned to face without turning away.
+
+---
+
+*Publication links (editorial metadata, added 5 November 2026):* [Read on Medium](https://medium.com/@thokchom.lolet03/the-quiet-art-of-running-away-4737f53d87e6) · [Substack publication homepage](https://lolet0805.substack.com/) · [Essays & Ideas index](README.md). The author reports a Substack version is published; a direct public Substack article URL has not yet been confirmed. The original essay text above is preserved unchanged.
