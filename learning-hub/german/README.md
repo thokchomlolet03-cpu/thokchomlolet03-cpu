@@ -6,6 +6,8 @@
 
 **Goal:** build German proficiency useful for daily life, IT infrastructure work, interviews and, eventually, German-language study. There is no fixed guaranteed time per level. Study and progress according to tested speaking, listening, reading and writing, not videos watched.
 
+**Start with the method, not just the links:** [**How to learn German from Meitei through English — a detailed essay**](HOW_TO_LEARN_GERMAN.md). As a first-language Meitei speaker who is most comfortable using English for explanations, use English strategically to understand grammar, while training German listening, retrieval and communication directly. The essay covers pronunciation, word order, case, memory, deliberate practice, transfer, feedback, and realistic assessment through C2.
+
 ## Fast launcher — click your current level
 
 | Level | Primary course or practice | Listening and reading | Exam check |
@@ -20,6 +22,8 @@
 **Direct-access note:** Links labeled VHS A1/A2/B1/B2-for-work/C1-for-work above open the **specific course start page**, rather than the general VHS homepage. Registration may still be needed to save progress. At B2 and C1 the verified direct courses focus on professional German.
 
 **Access notes:** DW's *Nicos Weg* is a structured video course through B1, not a complete A1–C2 course. VHS has free course offerings through C1 (check the specific course available at your level). Goethe's free content and free exam samples **supplement** study; they do not provide a fully taught free C2 program. Easy German offers free videos/podcasts, while membership-only transcripts/exercises may cost money.
+
+**Choose one main course:** the DW and VHS links above are **alternatives or complements**, not two full curricula that must be completed simultaneously. Pick the presentation and exercises that keep you progressing, then use the other only for identified weaknesses. For *how* to study each lesson—rather than merely which lesson to open—read the [mechanism-first learning essay](HOW_TO_LEARN_GERMAN.md).
 
 ## A1 — Beginner
 
@@ -94,6 +98,23 @@ Write your own short incident explanations in German. Avoid publishing employer-
 4. **10–20 min:** original paragraph and corrections, or a guided [NotebookLM German deep dive](../notebooklm/README.md).
 
 **Once a week:** one exam-style speaking/writing exercise + one free Goethe sample task. **Every four weeks:** compare your work with CEFR descriptors or obtain instructor feedback. A public tracker should never assert a level until earned or independently assessed.
+
+## Additional resources that fill real gaps
+
+The core path already covers A1–C2, free structured learning, authentic listening and official exam samples. The following resources are **targeted additions**, not extra mandatory curricula. Choose them to solve an observed problem rather than accumulating subscriptions. Links and claims checked against official provider pages on 7 November 2026.
+
+| Need not fully served by the current launcher | Verified resource | Access and use |
+|---|---|---|
+| English-friendly, academically structured German foundation with audio and phonetics | **[University of Texas at Austin — Deutsch im Blick](https://coerll.utexas.edu/dib/)** | Free open-access first-year multimedia German textbook; especially useful when an English-language explanation makes a German pattern click. Use selectively alongside DW/VHS, not as a compulsory third full course. |
+| Detailed English-supported grammar explanations and self-correcting examples | **[UT Austin — Grimm Grammar](https://coerll.utexas.edu/gg/)** | Free grammar reference: noun gender, cases, conjugation, clauses, separable verbs and usage. Look up the rule after seeing it in actual German, then produce a fresh example yourself. |
+| Listening discrimination and German articulation (not just repeating TTS) | **[Goethe-Institut — Online Pronunciation Training](https://www.goethe.de/en/spr/ueb/ast.html)** | Free online pronunciation training with sound-discrimination tasks, modeled production and automated feedback; registration required. Human feedback remains valuable. |
+| Durable vocabulary and phrase recall across shifts | **[Anki — official desktop and mobile options](https://apps.ankiweb.net/)** · [manual](https://docs.ankiweb.net/) | Desktop and AnkiWeb are free; AnkiDroid on Android is free; official AnkiMobile on iOS is paid. Make cards for useful phrases, noun + article + plural, audio and situation-based prompts. Do not overload new cards. |
+| Real-world spoken/written German for IT and technical work | **[Goethe-Institut — Deutsch am Arbeitsplatz](https://www.goethe.de/de/spr/ueb/daa.html)** | Free workplace German exercises, including science and technology; start appropriate topics around A2/B1 and continue into higher levels as comprehension permits. Useful for colleagues, calls, reports and troubleshooting explanations. |
+| A consistent definition of progress independent of any learning app | **[Council of Europe — CEFR descriptors](https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors)** | Free can-do descriptions for reception, production, interaction and mediation. Use as a rubric with external feedback, not as a self-issued language certificate. |
+
+**What not to add for now:** another general A1–B1 video course, multiple duplicate flashcard tools, or a paid AI-conversation subscription before you have used the free backbone and identified a concrete problem. A qualified human tutor, conversation partner or suitable in-person intensive course can become the next *high-value addition* for listening and spontaneous response. Verify examination recognition, registration and fees with the actual employer or university separately.
+
+**Mechanism checklist for each new lesson:** (1) predict meaning before opening English subtitles, (2) notice one new pattern and explain it briefly in English, (3) say or write an original German answer *before* checking the model, (4) correct the biggest misunderstanding, and (5) test the same idea in a different context on another day. Record independent attempts separately from supported retries. [Why this works and where it fails →](HOW_TO_LEARN_GERMAN.md).
 
 ## Source and price checks (November 2026)
 - [DW Learn German](https://learngerman.dw.com/) — Nicos Weg (A1–B1) and other materials.
