@@ -7,12 +7,14 @@
 
 **One bookmark for daily study.** You can open this page from [my public GitHub profile](../README.md) or the [Systems & Infrastructure Engineering portfolio](../systems-infrastructure/README.md). The links open original learning sites; this hub is a curated starting point, not a copy of paid courses or company reports.
 
-**Last checked:** 5 November 2026. Availability and terms may change. No claim is made that a listed resource has been completed.
+**Last checked:** 16 November 2026. Availability and terms may change. No claim is made that a listed resource has been completed.
 
 ## Choose what you want to study right now
 
 | Launch | What you get | Best first click |
 |---|---|---|
+| **🏅 [World-class free courses — official-source directory](WORLD_CLASS_FREE_COURSES.md)** | Exceptional free training from Cisco, Red Hat, AWS, Harvard, MIT, NASA, Y Combinator, Goethe, FAO and more; honest exam/certificate caveats | **[Open the curated collection](WORLD_CLASS_FREE_COURSES.md)** |
+| **🧮 [Career-focused mathematics — selective roadmap](mathematics/README.md)** | Rebuild Algebra 2 and functions, then use discrete math, statistics, matrices, calculus and financial math for practical work | **[Start with the algebra diagnostic](mathematics/README.md#stage-0--diagnose-and-patch-gaps-selectively)** |
 | **🎓 [University coursework & academic evidence](university/README.md)** | University-quality study, exact free/paid credential distinctions and honest evidence of completion | [31-course catalog](university/README.md) |
 | **🧮 [Free Finnish university and computer foundations courses](university/FINNISH_CREDIT_OPPORTUNITIES.md)** | Current Helsinki/Turku/KAMK programming and security options; ECTS eligibility verified separately, plus Nand2Tetris/MIT foundations | [University credit audit](university/FINNISH_CREDIT_OPPORTUNITIES.md) · [Build a computer](university/COMPUTER_FOUNDATIONS.md) |
 | **🌍 [Events, communities and travel](participation/README.md)** | Official conference directories, meetups, workshops and practical participation | [Explore participation](participation/README.md) |
@@ -27,6 +29,7 @@
 ## Daily launch panel
 
 **Have 20 minutes?**
+- Mathematics: [Khan Algebra 2 diagnostic](https://www.khanacademy.org/math/get-ready-for-algebra-ii) or one [career math problem](mathematics/README.md) — solve without hints, then verify.
 - German: [DW Learn German — Nicos Weg](https://learngerman.dw.com/) for A1–B1; [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) for a free structured course.
 - Engineering: [Cloudflare postmortems](https://blog.cloudflare.com/tag/post-mortem/) — choose a failure and sketch the dependency chain.
 - Deep dive: [NotebookLM](https://notebooklm.google.com/) — review one source-based notebook, then add **your own verified observation**.
