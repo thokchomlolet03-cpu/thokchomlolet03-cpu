@@ -31,6 +31,10 @@
 
 [Exact mathematics sequence, with stopping points →](mathematics/README.md)
 
+### If a prototype has no paying customers
+
+Use **[First Customers & Founder Execution](entrepreneurship/README.md)** rather than adding more software or AI training. The core missing sources are [YC's focused MVP lesson](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp), [Stripe's first-customer guide](https://stripe.com/guides/atlas/starting-sales), [HubSpot's free Inbound Sales course](https://academy.hubspot.com/courses/inbound-sales), [Stripe's pricing guide](https://stripe.com/guides/atlas/saas-pricing) and [Stripe's founder-equity explainer](https://stripe.com/guides/atlas/equity). These resources are triggers for actions, not five more certificates.
+
 ## 3. Discovery shelf (not a checklist)
 
 **These are invitations to unfamiliar fields, not prerequisites for any IT job.** Pick one question and sample its original source; do not enroll in them all.

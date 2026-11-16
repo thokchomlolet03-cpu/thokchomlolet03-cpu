@@ -17,6 +17,8 @@
 
 [Reduced free-source catalog](RESOURCE_CATALOG.csv) · [Visual literacy notes](VISUAL_LITERACY.md) · [Communication notes](PROFESSIONAL_COMMUNICATION.md) · [Customer discovery notes](MARKETING_ENTREPRENEURSHIP.md)
 
+**For a real startup:** follow the [First Customers & Founder Execution lab](../entrepreneurship/README.md) rather than another general marketing curriculum. It adds ethical outreach, payment decisions, pricing and unit economics while preserving your technical career as the primary financial foundation.
+
 ## What changed
 
 A former 12-week rotating program mixed design, styling, communication, psychology and entrepreneurship with the user's technical/German commitments. Its [old roadmap link](ROADMAP_12_WEEKS.md) now directs back to this optional menu. The source catalog has been reduced from 21 to eight strong free/mostly-free choices; the more eclectic subject guides remain as reference reading, **not** required courses.
