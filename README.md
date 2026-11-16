@@ -40,6 +40,8 @@ My current professional focus is progressing from enterprise IT support into Win
 | **NotebookLM deep dives** | [Notebook index](./learning-hub/notebooklm/INDEX.md) · [Share a public notebook](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/new?template=notebooklm-link.yml) |
 | **Quantum computing for future discovery** | **[Quantum first-principles learning path](./learning-hub/quantum/README.md)** · [Qiskit](./learning-hub/quantum/QISKIT.md) · [Google Cirq](./learning-hub/quantum/GOOGLE_CIRQ.md) |
 | **Visual design, communication and entrepreneurship** | **[Human Skills Learning Hub](./learning-hub/personal-skills/README.md)** · [12-week practice plan](./learning-hub/personal-skills/ROADMAP_12_WEEKS.md) |
+| **World-class free learning collection** | **[Official-source courses across networking, cloud, CS, science, finance, business and languages](./learning-hub/WORLD_CLASS_FREE_COURSES.md)** — access and credential caveats |
+| **Career-focused mathematics** | **[Selective math learning path](./learning-hub/mathematics/README.md)** — Algebra 2 repair, subnetting/discrete math, statistics, linear algebra, calculus and finance |
 | **Top-university learning and credentials** | [31-course university catalog](./learning-hub/university/COURSE_CATALOG.csv) · [Academic evidence guide](./learning-hub/university/README.md) · [Finnish ECTS opportunities](./learning-hub/university/FINNISH_CREDIT_OPPORTUNITIES.md) · [Computer foundations](./learning-hub/university/COMPUTER_FOUNDATIONS.md) |
 | **Conferences and international participation** | [Official event directories and participation guide](./learning-hub/participation/README.md) |
 
