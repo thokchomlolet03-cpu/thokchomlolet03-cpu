@@ -29,7 +29,7 @@ A university's brand can guide learning, but the **type of credential** matters 
 - [Turku registration instructions](https://www.utu.fi/en/open-university-studies/registration): no Finnish online banking credentials does not necessarily block starting the registration form; **eligibility for an official academic record** is still individual.
 - [KAMK Cloud & Cybersecurity](https://opin.fi/en/study-options/KAMK/elements-of-cloud-and-cybersecurity/7913cfec-e909-4a48-9803-d323c8c5f6e1/implementations/792ec026-8453-4722-bdc7-a1d9b0b5833b): free course lists 2 credits, but automatic recording is described for **degree students**, not every foreign participant.
 - [Metropolia Open UAS](https://www.metropolia.fi/en/study-at-metropolia/open-university): since 2 November 2026 enrollment normally requires a **Finnish personal identity code**; an advertised free 16-ECTS CCNA package is not automatically open to every person abroad.
-- For an exact assessment of credit eligibility and course deadlines, use the [Finnish study opportunity audit](FINNISH_CREDIT_OPPORTUNITIES.md) instead of extrapolating from a headline ECTS value.
+- For historical context, consult the [archived Finnish study audit](FINNISH_CREDIT_OPPORTUNITIES.md); it cannot substitute for a **new official institutional eligibility and deadline check**.
 
 ### Primary rules
 
