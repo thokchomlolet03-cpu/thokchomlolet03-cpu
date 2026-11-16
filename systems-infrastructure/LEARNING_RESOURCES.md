@@ -4,6 +4,11 @@
 
 An editable [40-entry learning tracker](LEARNING_TRACKER.csv) is available for dated, evidence-linked progress. **Not started** in the tracker means *not yet recorded as completed in this portfolio*; it does not assert the user never studied the material elsewhere.
 
+## New curated learning and mathematical foundations (November 2026)
+
+- **[World-class free course directory](../learning-hub/WORLD_CLASS_FREE_COURSES.md)**: original-provider Cisco, Red Hat, Linux Foundation, AWS, Microsoft, Harvard, MIT, Kaggle, GitHub and other high-quality free resources; distinguishes free study from paid professional exams.
+- **[Career-focused mathematics path](../learning-hub/mathematics/README.md)**: algebra/functions, binary and subnetting, discrete logic, probability/statistics, linear algebra, targeted calculus and financial mathematics, with independent exercises and real-world evidence.
+
 ## Added university foundations and possible ECTS opportunities
 
 For independent computer-engineering depth: [Nand2Tetris, MIT 6.042J mathematics, architecture and OS](../learning-hub/university/COMPUTER_FOUNDATIONS.md).
