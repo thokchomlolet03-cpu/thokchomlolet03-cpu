@@ -1,3 +1,9 @@
+# OPTIONAL ADVANCED REFERENCE — not prerequisites for IT employment
+
+**16 November 2026:** This complete academic ladder is available when deeper hardware/OS mechanisms are the question. For near-term support, networking and systems roles, follow the [active hub](../README.md) and [systems labs](../../systems-infrastructure/README.md) instead. In particular, MIT 6.042J's **full course assumes single-variable calculus**; its opening placement here should not be interpreted as a beginner prerequisite.
+
+---
+
 # Computer and mathematical foundations — from logic gates to operating systems
 
 [← University learning](README.md) · [Finnish courses/ECTS opportunities](FINNISH_CREDIT_OPPORTUNITIES.md) · [Systems engineering portfolio](../../systems-infrastructure/README.md) · [Quantum learning](../quantum/README.md)

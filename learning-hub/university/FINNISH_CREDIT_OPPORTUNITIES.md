@@ -1,3 +1,11 @@
+# HISTORICAL RESEARCH — not an active enrollment recommendation
+
+**Archived for reference on 16 November 2026.** Dates, application eligibility, assessment access and ECTS recognition in the original November 5 research can expire or change. This document is **not** part of the active course queue. Do not register or claim credit from it without a fresh official institution check.
+
+[← Current university reference shelf](README.md) · [← Single active learning queue](../README.md)
+
+---
+
 # Free Finnish online coursework — access, assessments, and credit eligibility
 
 [← University coursework](README.md) · [Full university course catalog](COURSE_CATALOG.csv) · [Progress evidence](EVIDENCE_TRACKER.csv) · [Computer foundations](COMPUTER_FOUNDATIONS.md)

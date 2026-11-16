@@ -1,84 +1,60 @@
-# World-class free learning — original-source course directory
+# World-class free courses — the deliberately small source directory
 
-[← Learning Hub](README.md) · [Purpose-built mathematics roadmap](mathematics/README.md) · [Systems learning resources](../systems-infrastructure/LEARNING_RESOURCES.md)
+[← Learning Hub](README.md) · [Mathematics](mathematics/README.md) · [Audit decisions](CURRICULUM_AUDIT.md)
 
-**Updated: 16 November 2026.** Curated for serious first-principles learning, practical skill and cross-disciplinary exploration. **None of these entries implies completion or an earned credential.**
+**Reviewed: 16 November 2026.** Selection favors teaching by a technology's creator, a major academic institution, or a specialist research organization; meaningful exercises; and free access. **This is not a list of courses to complete.** Only the current skill gap dictates what becomes active.
 
-## Selection rule
+## 1. Career core and job-triggered courses
 
-Prioritize (a) the institution that teaches or builds the subject; (b) free, substantial content available now; (c) meaningful assignments, labs, problems or original analysis; and (d) transferable competence. A famous provider name does not automatically make a course a professional qualification.
+| Pick when... | Original institution and direct resource | What to study / produce | Free access and credential boundary |
+|---|---|---|---|
+| **Linux/admin gap** | **[Linux Foundation — Introduction to Linux (LFS101)](https://training.linuxfoundation.org/training/introduction-to-linux/)** | Shell, processes, services, files, permissions; diagnose a systemd failure | Free content; professional exam separate |
+| **RHEL-specific gap, as alternative** | **[Red Hat — Enterprise Linux Technical Overview (RH024)](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview)** | Red Hat enterprise Linux concepts and shell; compare with Ubuntu behavior | Free introduction; **not RHCSA certification** |
+| **Windows/endpoint/identity gap** | **[Microsoft Learn](https://learn.microsoft.com/en-us/training/)** | Select ONE PowerShell, Windows Server, Entra or Intune path tied to an actual task | Free training modules; exams generally paid; some labs require subscriptions |
+| **Networking/CCNA gap** | **[Cisco Networking Academy](https://www.netacad.com/)** + **[Packet Tracer](https://www.netacad.com/cisco-packet-tracer)** | Networking Basics, subnetting, packet-flow and routing/switching labs | Selected free learning/simulation; official CCNA exam separate |
+| **Tooling/Git gap** | **[MIT Missing Semester](https://missing.csail.mit.edu/2026/)** + **[GitHub Skills](https://learn.github.com/skills)** | Shell, debugging, version control and pull-request workflow on an actual project | Free material/exercises; neither is a professional IT certification |
+| **Cloud role requires it** | **[AWS Educate](https://aws.amazon.com/education/awseducate/)** | Free entry-level cloud and selected hands-on labs; demonstrate a simple service/network model | Free starter material and eligible badges; AWS certification separate |
 
-**Access key:** **Free** = course materials free; **Selected free** = a free subset of a larger paid product; **Exam separate** = an official professional exam costs money unless a current promotion applies; **No credential** = study is valuable but does not earn a formal qualification. Free access, badges, laboratory limits and pricing can change.
+**Choose one Linux introduction, not two; one cloud, not three; one practical Git exercise, not every Git course.** The [technical reference catalog](../systems-infrastructure/LEARNING_RESOURCES.md) remains available for vendor documentation, advanced tools and specialty questions.
 
-**Choose one primary course per active skill**, not every entry. For a subject, keep (1) a question, (2) evidence from a solved exercise or lab, (3) an independent explanation, and (4) a next question.
+## 2. Foundations and research extensions — only at the right stage
 
-## Infrastructure, networks, operating systems and cloud
-
-| Original institution / course | Why this earns a place | Access and credential caveat |
+| Trigger | Exceptional free course | Gate for usefulness |
 |---|---|---|
-| [Cisco Networking Academy](https://www.netacad.com/) — Networking Basics | Network models, addressing, devices and packet flow from the networking vendor | Selected self-paced courses free; course badges vary; **CCNA exam separate** |
-| [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) | Simulate routers, switches, VLANs and network faults rather than memorizing terms | Free for qualifying learners under Cisco terms; not a CCNA credential |
-| [Linux Foundation — Introduction to Linux (LFS101)](https://training.linuxfoundation.org/training/introduction-to-linux/) | Systematic Linux foundation from a core Linux ecosystem nonprofit | Free learning; professional exams separate |
-| [Red Hat — Enterprise Linux Technical Overview (RH024)](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) | Enterprise Linux and shell fundamentals from Red Hat | Free introductory course; **not** RHCSA preparation by itself; RHCSA exam separate |
-| [AWS Educate](https://aws.amazon.com/education/awseducate/) | Beginner cloud infrastructure with guided hands-on practice | Free learning and select labs/badges; certification exams separate |
-| [AWS Skill Builder](https://skillbuilder.aws/) | AWS's own architecture and operations education | Large free course selection; some labs/subscriptions paid; certification separate |
-| [Microsoft Learn](https://learn.microsoft.com/en-us/training/) | Windows, Azure, Microsoft 365, Entra and endpoint management paths | Free modules; selected exercises; certification exams generally separate |
-| [GitHub Skills](https://learn.github.com/skills) | Live Git/GitHub repositories and action-based workflows | Free exercises; completion is not an industry professional exam |
-| [Pro Git](https://git-scm.com/book/en/v2) | Definitive free book on version-control mechanics | Free book; no credential |
-| [Google — SRE book and workbook](https://sre.google/books/) | How large production systems are operated, monitored and improved | Free books; no credential |
-| [MIT — The Missing Semester](https://missing.csail.mit.edu/) | Development tools, shell, debugging, Git and automation | Free class materials; no MIT degree/certificate |
+| Grade 11–12 algebra gaps | **[Khan Academy — Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-for-algebra-ii)** / **[Algebra 2](https://www.khanacademy.org/math/algebra2)** | Course challenge, then weak units only; derive equations unaided |
+| Data, measurement, uncertainty | **[Khan Academy — Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)** | Interpret variation, conditional probabilities, confidence intervals |
+| Actual model-building question | **[Kaggle Learn](https://www.kaggle.com/learn)** | One relevant notebook and a rigorous train/validation split |
+| Learn ML theory from a creator | **[Google — Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)** | Explain training, error and evaluation rather than just run a model |
+| Deeper computer-science foundations | **[Harvard CS50x](https://cs50.harvard.edu/x/)** | Optional; tackle algorithms, memory and a final project if needed. A free CS50 certificate is conditional on assessed work; not a Harvard degree |
+| Vectors and transformations for AI/quantum | **[3Blue1Brown — Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)** → **[MIT 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)** | Visual intuition followed by independently solved MIT problems; no MIT OCW credential |
+| Calculus for optimization/physics | **[3Blue1Brown — Calculus](https://www.3blue1brown.com/lessons/essence-of-calculus/)** → **[MIT 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)** | Calculate derivatives and use them to predict an optimum; no MIT credential |
 
-For role-oriented progression, use [Systems & Infrastructure Engineering](../systems-infrastructure/README.md) and evidence-based labs there. Do not claim that a course alone proves job readiness.
+[Exact mathematics sequence, with stopping points →](mathematics/README.md)
 
-## Computer science, data, programming and AI
+## 3. Discovery shelf (not a checklist)
 
-| Original institution / course | What to learn | Access and credential caveat |
+**These are invitations to unfamiliar fields, not prerequisites for any IT job.** Pick one question and sample its original source; do not enroll in them all.
+
+| Domain | Original source | Worth exploring when... |
 |---|---|---|
-| [Harvard CS50x](https://cs50.harvard.edu/x/) | Algorithms, memory, C, Python, SQL and a substantial final project | Free learning; free CS50 certificate after requirements; optional paid edX verified certificate |
-| [Kaggle Learn](https://www.kaggle.com/learn) | Python, pandas, SQL, data cleaning, machine learning and practical notebooks | Free mini-courses and completion certificates; not a professional license |
-| [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Regression, classification, training, evaluation, embeddings and interactive exercises | Free; no assumption of Google professional certification |
-| [University of Helsinki — Full Stack Open](https://fullstackopen.com/en/) | Production-oriented React, Node, testing, TypeScript, APIs and CI | Free course and course certificate; academic credit subject to eligibility |
-| [MIT OpenCourseWare](https://ocw.mit.edu/) | Actual MIT university materials, problem sets and lectures | Free; **MIT OCW does not grant a certificate** |
+| How scientific knowledge is built | **[NASA Open Science training](https://science.nasa.gov/open-science/training/)** | You want to examine reproducibility and what a claim actually establishes |
+| Food, agriculture, environment and society | **[FAO eLearning Academy](https://elearning.fao.org/)** | You want to understand neglected global systems and resource challenges |
+| Biology and the data behind it | **[EMBL-EBI Introductory Bioinformatics](https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/)** | You ask how sequences, molecules and evidence are represented |
+| Physical engineering and simulation | **[Ansys Innovation Courses](https://innovationspace.ansys.com/courses/)** | You want to understand fluid, structural or simulation mechanics |
+| Physics/chemistry/mathematics | **[MIT OpenCourseWare](https://ocw.mit.edu/)** | You want to solve a specific university-level scientific problem (no MIT certificate) |
+| How businesses create durable value | **[NYU Stern — Aswath Damodaran](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/onlineclass.htm)** | You want to reason about valuation, cash flows and reinvestment |
+| Building a company from evidence | **[Y Combinator Startup School](https://www.startupschool.org/)** | You are interviewing users and validating a real problem; no accelerator admission implied |
+| German everyday life and accuracy | **[Deutsche Welle — Nicos Weg](https://learngerman.dw.com/)** with **[Goethe exercises](https://www.goethe.de/de/spr/ueb.html)** | DW is your primary course; Goethe supports specific weaknesses, not a second full program |
 
-The [mathematics roadmap](mathematics/README.md) connects probability, matrices, calculus and discrete math to these courses, without requiring a complete engineering-math degree.
+## Removed from the active course queue
 
-## Engineering, science and research
+- Extra introductory Python options from several universities, multiple duplicate general software curricula and concurrent cloud providers: **choose only when there is a concrete gap**.
+- Expiring Finnish university registration/ECTS campaigns: useful conditional academic opportunities, **not** a default career requirement and not reliable without fresh date/eligibility checks.
+- Advanced MIT kernel/distributed courses and quantum hardware/algorithms: **reference/research paths**, not prerequisites for an IT support job.
+- Paid or pricing-dependent Coursera classes, vendor promotional content, fashion/general lifestyle courses and every interesting elective: not part of a strict, completely free career course queue.
 
-| Original institution / course | What to learn | Access and credential caveat |
-|---|---|---|
-| [MIT OpenCourseWare — Scholar courses](https://ocw.mit.edu/courses/ocw-scholar/) | Rigorous, self-study-friendly physics, chemistry, linear algebra and calculus | Free; no MIT certificate |
-| [NASA — Open Science 101](https://science.nasa.gov/open-science/training/) | Reproducibility, open research data, methods and scientific transparency | Free modules; badge/certificate conditional on completion |
-| [Ansys Innovation Courses](https://innovationspace.ansys.com/courses/) | Engineering simulation, fluids, structural mechanics and numerical models | Free listed courses; some completion badges |
-| [MathWorks — MATLAB Academy / Onramps](https://matlabacademy.mathworks.com/) | Interactive numerical computing, MATLAB and applied engineering | Free Onramp courses; advanced options may require paid access |
-| [EMBL-EBI — Introductory Bioinformatics pathway](https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/) | Biological databases, sequences and evidence-based computational biology | Free self-paced material; verify individual course completion terms |
+Removing a resource from the active path does **not** mean it is mediocre or that you should stop exploring outside IT. See [the audit](CURRICULUM_AUDIT.md) for the rationale.
 
-## Finance, business, customers and entrepreneurship
+## Evidence rule
 
-| Original institution / course | What to learn | Access and credential caveat |
-|---|---|---|
-| [Y Combinator — Startup School](https://www.startupschool.org/) | Customer problems, MVPs, sales, iteration and startup economics | Free; not a guarantee of YC acceptance |
-| [NYU Stern — Aswath Damodaran's online classes](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/onlineclass.htm) | Finance, valuation, reinvestment, risk and cash flows | Free university teaching materials; no NYU credential |
-| [HubSpot Academy — Inbound Marketing](https://academy.hubspot.com/courses/inbound-marketing) | Acquisition, sales funnels, customer-facing content and measurement | Free course/certification; some product exercises may be paid |
-| [Google Skillshop — Google Ads](https://skillshop.withgoogle.com/googleads/) | Advertising, conversion measurement and campaign decisions | Free training and Google Ads certification where offered |
-| [Salesforce Trailhead](https://trailhead.salesforce.com/) | CRM, enterprise workflows and hands-on product exercises | Free badges/Superbadges; proctored credentials separate |
-
-## Languages, society and unfamiliar disciplines
-
-| Original institution / course | What to learn | Access and credential caveat |
-|---|---|---|
-| [Deutsche Welle — Nicos Weg](https://learngerman.dw.com/) | Structured free A1–B1 German video lessons and exercises | Free; not a Goethe language exam |
-| [Goethe-Institut — Deutsch für dich](https://www.goethe.de/prj/dfd/en/home.cfm) | Targeted German grammar, vocabulary, reading and listening | Free exercises; official Goethe exams separately paid |
-| [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) | Free structured adult German courses | Free courses; exam credentials separate |
-| [FAO eLearning Academy](https://elearning.fao.org/) | Agriculture, sustainability, food systems, statistics and climate | Free courses; selected badges/certificates after required assessments |
-
-[Full German learning path](german/README.md) · [University catalog](university/README.md) · [Human skills](personal-skills/README.md)
-
-## Curated instead of compulsive
-
-- **Immediate earning-power lane:** Cisco networking → Packet Tracer lab → Linux Foundation / Red Hat → Microsoft or AWS practical labs. Choose according to real job demands.
-- **Cross-disciplinary exploration lane:** one unfamiliar course or real problem at a time: NASA research methods, MIT physics, FAO food systems, EMBL biology or Damodaran finance.
-- **German:** continue DW as the principal daily course; use Goethe for targeted exercises rather than starting a duplicate general curriculum.
-- **Math:** study only the concepts that unlock a meaningful technical or financial task; the separate roadmap specifies which and why.
-- **Evidence:** save exercises and your own explanations, not screenshots that falsely imply official certification. Preserve copyright and employer privacy.
-
-**Maintenance:** Official provider URLs were selected and access notes reviewed in November 2026. Links, exam terms and course inventories can change; check the provider before paying or describing a credential as earned.
+For each selected course, retain the original source URL and date, *one solved problem or safe original lab*, your explanation of why it works, a failed attempt/correction, and an honest status. A badge is not a professional exam; open academic lectures do not grant an academic qualification. Verify provider terms before registering or paying.

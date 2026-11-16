@@ -16,10 +16,10 @@ I have professional enterprise L2 support experience with Windows and macOS endp
 ### Navigation
 | Purpose | Where |
 |---|---|
-| **Daily Learning Hub — German, incident reports, NotebookLM** | **[Open Learning Hub](../learning-hub/README.md)** · [German A1–C2](../learning-hub/german/README.md) · [Engineering incidents](../learning-hub/engineering-incidents/README.md) · [NotebookLM index](../learning-hub/notebooklm/INDEX.md) |
+| **Single active learning queue** | **[Open streamlined Learning Hub](../learning-hub/README.md)** · [German](../learning-hub/german/README.md) · [career mathematics](../learning-hub/mathematics/README.md) · [audit](../learning-hub/CURRICULUM_AUDIT.md) |
 | Start learning immediately | [First 30 days](FIRST_30_DAYS.md) · [First 12 weeks](LEARNING_SCHEDULE.md) |
 | 24-month strategy and decision gates | [Roadmap](ROADMAP.md) |
-| Courses, books, docs and free practice | [Learning resources](LEARNING_RESOURCES.md) · [Editable study tracker](LEARNING_TRACKER.csv) |
+| Deep technical references (not extra course commitments) | [Technical source shelf](LEARNING_RESOURCES.md) · [Historical 40-entry resource inventory](LEARNING_TRACKER.csv) |
 | Exam priorities and current versions | [Certifications](CERTIFICATIONS.md) |
 | Portfolio-quality projects and acceptance tests | [Project backlog](PROJECT_BACKLOG.md) · [Evidence matrix](EVIDENCE_MATRIX.csv) |
 | What employers can actually inspect | [Recruiter portfolio](RECRUITER_PORTFOLIO.md) · [Career-role matching](CAREER_MATCHING.md) · [Market-to-evidence tracker](CAREER_EVIDENCE_SYSTEM.md) |
