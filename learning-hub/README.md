@@ -1,70 +1,79 @@
-# Learning Hub — university learning, languages, engineering, quantum research, people, and NotebookLM
+# Learning Hub — a small active queue, deep competence, wide curiosity
 
-[← Start Here](../START_HERE.md) · [Essays & Ideas](../essays/README.md) · [GitHub home](../README.md)
+[← GitHub home](../README.md) · [Learning philosophy](LEARNING_PHILOSOPHY.md) · [Curriculum audit and removal decisions](CURRICULUM_AUDIT.md)
 
+**Reorganized 16 November 2026.** This is a plan, not proof of completed classes or professional credentials. The hub is deliberately small on the surface: a working curriculum, not a bookmark warehouse. The specialist pages remain available for later questions.
 
-**[Learning philosophy: breadth, depth and door-opening credentials](LEARNING_PHILOSOPHY.md)** — a lifelong map, not a six-month certificate sprint.
+## The only active learning queue
 
-**One bookmark for daily study.** You can open this page from [my public GitHub profile](../README.md) or the [Systems & Infrastructure Engineering portfolio](../systems-infrastructure/README.md). The links open original learning sites; this hub is a curated starting point, not a copy of paid courses or company reports.
+| Priority | Work on this | One place to begin | How to know it is working |
+|---|---|---|---|
+| **Career: one technical focus at a time** | Linux systems and Windows/endpoint troubleshooting first; networking next, or earlier if a real job requires it | [Systems & Infrastructure first 30 days](../systems-infrastructure/FIRST_30_DAYS.md) · [Source-based course choices](WORLD_CLASS_FREE_COURSES.md#1-career-core-and-job-triggered-courses) | Recover a deliberately broken service or explain a real packet trace; keep sanitized evidence |
+| **German: daily practice** | DW **Nicos Weg** as the primary course; Goethe as targeted support | [German path](german/README.md) | Original sentences, listening without subtitles, spoken and corrected explanations |
+| **Mathematics: a few sessions weekly** | Diagnose Algebra 2 gaps; then binary/CIDR and statistics; later matrices/calculus only if needed | [Career mathematics](mathematics/README.md) | Solve new problems independently and apply one to a lab |
+| **Discovery: optional, deliberately broad** | Pick **one** unfamiliar discipline or idea when curiosity leads | [Discovery shelf](WORLD_CLASS_FREE_COURSES.md#3-discovery-shelf-not-a-checklist) | Explain an unexpected connection or make a testable prediction |
 
-**Last checked:** 16 November 2026. Availability and terms may change. No claim is made that a listed resource has been completed.
+**Do not run every lane as a full course simultaneously.** One technical course/lab is active; German is an existing daily habit; mathematics supports actual gaps; exploration is permission to be curious, not another obligation. The proposed technical order is flexible around real jobs and rotating shifts.
 
-## Choose what you want to study right now
+## Follow a clear learning path
 
-| Launch | What you get | Best first click |
-|---|---|---|
-| **🏅 [World-class free courses — official-source directory](WORLD_CLASS_FREE_COURSES.md)** | Exceptional free training from Cisco, Red Hat, AWS, Harvard, MIT, NASA, Y Combinator, Goethe, FAO and more; honest exam/certificate caveats | **[Open the curated collection](WORLD_CLASS_FREE_COURSES.md)** |
-| **🧮 [Career-focused mathematics — selective roadmap](mathematics/README.md)** | Rebuild Algebra 2 and functions, then use discrete math, statistics, matrices, calculus and financial math for practical work | **[Start with the algebra diagnostic](mathematics/README.md#stage-0--diagnose-and-patch-gaps-selectively)** |
-| **🎓 [University coursework & academic evidence](university/README.md)** | University-quality study, exact free/paid credential distinctions and honest evidence of completion | [31-course catalog](university/README.md) |
-| **🧮 [Free Finnish university and computer foundations courses](university/FINNISH_CREDIT_OPPORTUNITIES.md)** | Current Helsinki/Turku/KAMK programming and security options; ECTS eligibility verified separately, plus Nand2Tetris/MIT foundations | [University credit audit](university/FINNISH_CREDIT_OPPORTUNITIES.md) · [Build a computer](university/COMPUTER_FOUNDATIONS.md) |
-| **🌍 [Events, communities and travel](participation/README.md)** | Official conference directories, meetups, workshops and practical participation | [Explore participation](participation/README.md) |
-| **🇩🇪 [Learn German from A1 to C2](german/README.md)** | Level-by-level curriculum, one-click resources, speaking, reading, exams and German for IT jobs | [A1 — start here](german/README.md#a1--beginner) |
-| **🛠️ [Read how real infrastructure breaks](engineering-incidents/README.md)** | Official engineering blogs, real incidents, causes, mitigations and postmortems | [Cloudflare & Netflix](engineering-incidents/README.md#start-with-these-real-investigations) |
-| **📚 [Open and organize NotebookLM deep dives](notebooklm/README.md)** | Public notebook directory, share-link intake, structured learning notes for language and tech | [Notebook library](notebooklm/INDEX.md) |
-| **🖥️ [My hands-on systems engineering workbench](../systems-infrastructure/README.md)** | Linux, Windows, networking, automation, hypervisors, labs and actual evidence | [First month lab](../systems-infrastructure/FIRST_30_DAYS.md) |
-| **🎨 [Human skills — visual judgment, communication and entrepreneurship](personal-skills/README.md)** | Learn aesthetic principles, personal styling and color, protected experimentation, workplace visibility and customer discovery | **[Explore the human skills path](personal-skills/README.md)** · [12-week plan](personal-skills/ROADMAP_12_WEEKS.md) |
-| **⚛️ [Quantum computing — first principles to quantum–AI research](quantum/README.md)** | IBM Qiskit, Google Cirq, math, quantum chemistry, circuit compilation and classical comparisons | **[Start the quantum pathway](quantum/README.md)** |
-| **✍️ [Read Essays & Ideas](../essays/README.md)** | Published reflections, technical ideas and creative writing, linked to original platforms | [Essay index](../essays/README.md) |
+<details>
+<summary><strong>A — Marketable technical capability (primary)</strong></summary>
 
-## Daily launch panel
+1. Start with [hands-on Linux diagnostics and fault recovery](../systems-infrastructure/FIRST_30_DAYS.md) and your existing [systems engineering evidence framework](../systems-infrastructure/CAREER_EVIDENCE_SYSTEM.md). For free teaching, use the [Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/) or [Red Hat RH024](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview) according to the environment; **do not study two beginner Linux curricula in parallel**.
+2. Keep Microsoft/Windows troubleshooting practice close to prior enterprise-support experience. Use [Microsoft Learn](https://learn.microsoft.com/en-us/training/) for a specific administrative task, not the entire catalog.
+3. Study Cisco networking with [Networking Academy](https://www.netacad.com/) and [Packet Tracer](https://www.netacad.com/cisco-packet-tracer); justify subnet math and reproduce a failure.
+4. Use [MIT Missing Semester](https://missing.csail.mit.edu/2026/) and [GitHub Skills](https://learn.github.com/skills) only for an observed tools/version-control gap.
+5. Add **one cloud provider** when a target role or project makes it necessary. [AWS Educate](https://aws.amazon.com/education/awseducate/) is a low-cost introductory starting point; Microsoft/Azure may be more directly relevant to an endpoint-oriented role.
 
-**Have 20 minutes?**
-- Mathematics: [Khan Algebra 2 diagnostic](https://www.khanacademy.org/math/get-ready-for-algebra-ii) or one [career math problem](mathematics/README.md) — solve without hints, then verify.
-- German: [DW Learn German — Nicos Weg](https://learngerman.dw.com/) for A1–B1; [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) for a free structured course.
-- Engineering: [Cloudflare postmortems](https://blog.cloudflare.com/tag/post-mortem/) — choose a failure and sketch the dependency chain.
-- Deep dive: [NotebookLM](https://notebooklm.google.com/) — review one source-based notebook, then add **your own verified observation**.
-- Human skills: [Visual principles](https://www.nngroup.com/articles/principles-visual-design/) or [Communication](personal-skills/PROFESSIONAL_COMMUNICATION.md) — make one small, observable improvement.
+**Do not** delay job applications for a second bachelor-level CS course, advanced quantum mathematics, Kubernetes, a second cloud provider or a stack of introductory badges.
 
-**Have an hour?** Do one German lesson + a written or spoken exercise; or read one outage report, reconstruct the timeline and test a safe concept in your own VM. Record what you actually accomplished rather than the minutes spent watching. For optional long-term quantum study, open the [12-week gentle on-ramp](quantum/ROADMAP_12_WEEKS.md) and work on one mathematical prediction or small simulator experiment. The career systems track remains the near-term priority.
+</details>
 
-The weekly rotation below is **only an example**, never a requirement; questions, opportunities and real feedback determine the pace.
+<details>
+<summary><strong>B — Foundations that compound (language and mathematics)</strong></summary>
 
-## Weekly rotation (adjust to shift work)
+- [German](german/README.md): DW Nicos Weg first; real listening/speaking/writing; Goethe exercises for specific weaknesses.
+- [Mathematics](mathematics/README.md): diagnose → algebra/functions → binary/logic → probability/statistics → optional AI/research extensions. No full Class 11–12 repeat by default.
 
-| Day | Suggested task | Proof to keep |
-|---|---|---|
-| 1 | German course lesson + vocabulary recall | Five original example sentences |
-| 2 | Linux/Windows/networks lab | Hypothesis, command, observed result |
-| 3 | German listening and shadowing | Self-recorded summary, not third-party audio |
-| 4 | One engineering incident report | [Original incident-reading note](engineering-incidents/READING_TEMPLATE.md) |
-| 5 | German writing or conversation | Short original text + corrected errors |
-| 6 | NotebookLM source comparison/deep dive | Three cited takeaways, one uncertainty |
-| 7 | Light review, spaced recall, choose next experiment | Updated learning log |
+</details>
 
-## How the sections connect
+<details>
+<summary><strong>C — Scientific and intellectual exploration (opt-in)</strong></summary>
 
-**Engineering incident → source analysis in NotebookLM → mechanism prediction → local lab → recruiter-ready evidence.**
+- [Selected original-source discovery courses](WORLD_CLASS_FREE_COURSES.md#3-discovery-shelf-not-a-checklist): NASA science methods, MIT physics/engineering, EMBL biological data, FAO food systems, Damodaran finance, YC entrepreneurship.
+- [Quantum research](quantum/README.md) is **not required for the near-term systems career**; it is a rigorous independent research track. Keep its experiments and cautions.
+- [University-level deep systems courses](university/README.md) are available when a specific mechanism or research question justifies them.
+- [Human skills](personal-skills/README.md) and [local/international communities](participation/README.md) are options, not compulsory courses.
 
-**German course → grammar and listening → NotebookLM review → writing/speaking correction → official exam practice.**
+</details>
 
-**Human skills → study one example → try a low-risk change → request feedback → revise.** See the [practice templates](personal-skills/PRACTICE_TEMPLATES.md) and keep personal data out of public GitHub.
+## Operating method: choose, test, record, stop
 
-**Quantum foundations → Qiskit/Cirq simulation → classical benchmark → noise/hardware-resource accounting → only then consider a scientific integration.** See [Quantum–AI research decisions](quantum/QUANTUM_AI_RESEARCH.md).
+1. **Choose the next problem**, not the next brand-name certificate.
+2. **Start with the original free provider** and check prerequisites, full-course access, exam cost and assessment terms.
+3. **Predict before watching or running**; solve an exercise or reproduce one safe failure.
+4. **Record what you personally did**, its source, date, evidence and limitations. A generated solution, course listing or proposed lab is not independent skill.
+5. **Stop or change direction** after a useful learning gate; extra courses are not automatically better.
 
-For language, don't count AI chat as a speaking qualification; for infrastructure, don't count AI-generated incident summaries as hands-on skill. Both demand **independent practice**.
+A sustainable example is 3–5 hours/week of primary technical labs, two to three 35–50-minute mathematics sessions, continued daily German, and optional curiosity reading. It is a suggestion, not a compliance target.
 
-## Publishing and privacy
+## Specialist libraries — references, not competing course queues
 
-This is a **public** GitHub repository. Never upload NotebookLM links that expose employer documents, customer information, private medical data, personally identifying information, passwords, paid textbooks or other restricted sources. A publicly shared NotebookLM viewer may still be able to access its underlying sources or generated artifacts even if you choose a chat-focused link. Learn how to share safely in [NotebookLM](notebooklm/README.md).
+| Purpose | Reference |
+|---|---|
+| Technical skills and reproducible projects | [Systems & Infrastructure workbench](../systems-infrastructure/README.md) · [Detailed technical reference shelf](../systems-infrastructure/LEARNING_RESOURCES.md) |
+| Curated free original-provider courses | [World-class free courses](WORLD_CLASS_FREE_COURSES.md) |
+| Higher mathematics and research prerequisites | [Mathematics](mathematics/README.md) |
+| Rigorous but **optional** university depth | [University references](university/README.md) · [Computer foundations](university/COMPUTER_FOUNDATIONS.md) |
+| Technical failures and real mechanisms | [Engineering incident library](engineering-incidents/README.md) |
+| Source-based personal notebooks | [NotebookLM](notebooklm/README.md) |
+| Communication, design, business | [Human skills](personal-skills/README.md) |
+| Unfamiliar communities and ideas | [Events and participation](participation/README.md) |
+| Long-term quantum discovery | [Quantum research](quantum/README.md) |
 
-Sources are linked rather than reproduced in full. The purpose of this hub is discovery, deep understanding and reproducible learning.
+## Credential, privacy and status discipline
+
+Free lessons are not equivalent to a professional exam, university credit, visa eligibility or proven work experience. Do not label a skill as demonstrated until it has been executed independently. This is a **public** GitHub repository: do not publish workplace data, confidential incidents, medical/personal records, credentials, or protected course solutions.
+
+For explicit reasons resources were cut from the active queue, see the [curriculum audit](CURRICULUM_AUDIT.md).

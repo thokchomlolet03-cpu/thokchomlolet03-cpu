@@ -1,3 +1,9 @@
+# CREDENTIALS GUIDE — reference, not an enrollment queue
+
+**Updated 16 November 2026:** The historical examples below explain credential *types*, not current course availability. In particular, recheck academic credit/ECTS registration dates with each provider. For currently selected courses use the [slim academic catalog](COURSE_CATALOG.csv).
+
+---
+
 # Academic credibility: what each learning record actually proves
 
 [← University learning](README.md) · [Evidence tracker](EVIDENCE_TRACKER.csv) · [Template](EVIDENCE_TEMPLATE.md)
