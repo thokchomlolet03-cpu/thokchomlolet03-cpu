@@ -6,6 +6,32 @@
 
 > **Method:** *intuition → worked derivation → independent exercises → practical application → explain from memory*. A beautiful video develops intuition, but mastery also requires problems solved without hints.
 
+## Start here: a course queue ranked by career value
+
+This is a **course selection**, not a requirement to complete every university mathematics class. Your near-term route is IT support → Linux/Windows systems, networking, endpoint and cloud operations. Data science, AI, entrepreneurship and quantum research are separate, longer-horizon branches. Use one main course at a time, and move on when you can solve representative problems without prompts.
+
+| Queue | Exact free course | Focus on these parts, not necessarily the full curriculum | Career-linked evidence | Priority |
+|---|---|---|---|---|
+| 1 | **[Khan Academy — Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-for-algebra-ii)** → **[Algebra 2](https://www.khanacademy.org/math/algebra2)** | First do the course challenge. Repair linear equations, inequalities, simultaneous equations, graphs/functions; then Algebra 2 exponentials, logarithms and modeling. Skip mastered units. | Graph exponential growth, explain a logarithm and solve a real cost/capacity equation | **NOW: universal prerequisite** |
+| 2 | **[Cisco Networking Academy](https://www.netacad.com/)** + **[Packet Tracer](https://www.netacad.com/cisco-packet-tracer)** | Binary/hex arithmetic, powers of two, CIDR masks, network ranges; combine with AND/OR/NOT and elementary logic | Derive IPv4 host ranges by hand and validate in a simulated topology | **NOW: networking/infrastructure** |
+| 3 | **[Khan Academy — Statistics and probability](https://www.khanacademy.org/math/statistics-probability)** | Descriptive stats, distributions, study design, conditional probability, random variables, sampling, confidence intervals and significance tests. Defer advanced ANOVA until needed. | Diagnose incident-frequency variability or evaluate class imbalance and model uncertainty on open data | **NEXT: data, AI and evidence** |
+| 4 | **[3Blue1Brown — Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)** → **[MIT 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)** | Vectors, dot product, matrix operations, linear systems, projections and eigenvectors; do MIT problem sets, not only videos | Compute vector similarities and a small regression example by hand and in Python | **LATER: AI/research** |
+| 5 | **[3Blue1Brown — Essence of Calculus](https://www.3blue1brown.com/lessons/essence-of-calculus/)** → **[Khan Academy — Calculus 1](https://www.khanacademy.org/math/calculus-1)** | Function limits, derivatives, rates of change, optimization, integration as accumulation; partial derivatives/gradients only when modeling needs them | Explain and calculate steps of simple gradient descent | **LATER: deeper ML/engineering** |
+| Parallel | **[Khan Academy — Finance and capital markets](https://www.khanacademy.org/economics-finance-domain/core-finance)** → **[NYU Stern / Damodaran](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/onlineclass.htm)** | Compound growth, inflation, discounting, NPV, expected value and risk; use scenario assumptions, not predicted returns | Compare two savings/investment scenarios with transparent cash flows and sensitivity | **PARALLEL: practical finance** |
+| Selective university extension | **[MIT 6.042J — Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)** | Sets, functions, graphs, proofs and counting, **after** sufficient higher-school foundations. MIT lists single-variable calculus as a prerequisite for the *full* course. | Reason about dependency graphs, counting, invariants or algorithms | **OPTIONAL deepening** |
+| Research only | **[IBM Quantum — Basics of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information)** | Complex numbers, vector spaces, inner products, matrices and tensor products after linear algebra | Predict a two-qubit state and check simulator probabilities | **OPTIONAL: quantum track** |
+
+### The sensible stopping points
+
+- **For near-term IT support, systems, CCNA, cloud and endpoint roles:** become fluent in **queues 1 and 2**, and basic measurement, percentages and charts from queue 3. Do **not** delay job applications to finish calculus or an MIT course.
+- **For Kaggle, ML and scientific experimentation:** add **queues 3–5** in that order as needed; confidence intervals, conditional probabilities, matrix operations and gradients should be understood rather than just coded.
+- **For personal finance or entrepreneurship:** finance runs in parallel after essential algebra; no calculus degree is needed.
+- **For quantum/computational science:** complete the linear-algebra foundation, revisit calculus and add complex-number/tensor-product mathematics only when tackling a well-defined research question.
+
+**A sustainable week:** three 35–50-minute problem-solving sessions plus one short application (network lab, data plot or financial scenario). Start each new course with a diagnostic or a representative problem. An indicative 70–80% independent success on mixed exercises is a *personal readiness heuristic*, not an official passing score; revisit errors before proceeding.
+
+**Avoid right now:** full advanced trigonometry, long integration-technique drills, formal proof courses, differential equations, tensor calculus and abstract algebra. These can be worthwhile later, but are not employment prerequisites for the target systems roles.
+
 ## What mathematics is actually worth learning?
 
 | Order | Topic | Depth needed | Direct career / research use |
