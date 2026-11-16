@@ -15,6 +15,10 @@
 
 **Do not run every lane as a full course simultaneously.** One technical course/lab is active; German is an existing daily habit; mathematics supports actual gaps; exploration is permission to be curious, not another obligation. The proposed technical order is flexible around real jobs and rotating shifts.
 
+## Optional entrepreneurship execution — a genuine missing skill
+
+When a real startup idea warrants testing, use **[First Customers & Founder Execution](entrepreneurship/README.md)** to learn customer interviews, offering a tiny MVP, direct sales, testing prices, unit economics and ownership. It is **not a new compulsory course track**. Evidence of real customers matters more than finishing another training catalog; follow the [blank evidence scorecard](entrepreneurship/EXECUTION_SCORECARD.md) to distinguish hypotheses from results.
+
 ## Follow a clear learning path
 
 <details>
@@ -68,7 +72,7 @@ A sustainable example is 3–5 hours/week of primary technical labs, two to thre
 | Rigorous but **optional** university depth | [University references](university/README.md) · [Computer foundations](university/COMPUTER_FOUNDATIONS.md) |
 | Technical failures and real mechanisms | [Engineering incident library](engineering-incidents/README.md) |
 | Source-based personal notebooks | [NotebookLM](notebooklm/README.md) |
-| Communication, design, business | [Human skills](personal-skills/README.md) |
+| Communication, design, business | [Human skills](personal-skills/README.md) · [Founder execution](entrepreneurship/README.md) |
 | Unfamiliar communities and ideas | [Events and participation](participation/README.md) |
 | Long-term quantum discovery | [Quantum research](quantum/README.md) |
 
