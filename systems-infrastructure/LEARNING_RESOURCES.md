@@ -2,22 +2,22 @@
 
 **Last researched: 2026-11-03; university study addendum verified 2026-11-05.** Free means content access is free, **not** necessarily a free exam, included lab/cloud tenant, perpetual access or optional instruction. Verify region-specific price, version and availability before paying.
 
-**This is a technical reference shelf, NOT another active course queue.** The [single Learning Hub](../learning-hub/README.md) decides what to study now. The [40-entry resource inventory](LEARNING_TRACKER.csv) is for locating official documentation; its priority numbers do not override the active queue. **Not started** in the tracker means *not yet recorded as completed in this portfolio*; it does not assert the user never studied the material elsewhere.
+An editable [40-entry learning tracker](LEARNING_TRACKER.csv) is available for dated, evidence-linked progress. **Not started** in the tracker means *not yet recorded as completed in this portfolio*; it does not assert the user never studied the material elsewhere.
 
 ## New curated learning and mathematical foundations (November 2026)
 
 - **[World-class free course directory](../learning-hub/WORLD_CLASS_FREE_COURSES.md)**: original-provider Cisco, Red Hat, Linux Foundation, AWS, Microsoft, Harvard, MIT, Kaggle, GitHub and other high-quality free resources; distinguishes free study from paid professional exams.
 - **[Career-focused mathematics path](../learning-hub/mathematics/README.md)**: algebra/functions, binary and subnetting, discrete logic, probability/statistics, linear algebra, targeted calculus and financial mathematics, with independent exercises and real-world evidence.
 
-## Optional advanced university references (not near-term obligations)
+## Added university foundations and possible ECTS opportunities
 
 For independent computer-engineering depth: [Nand2Tetris, MIT 6.042J mathematics, architecture and OS](../learning-hub/university/COMPUTER_FOUNDATIONS.md).
 
-For historical information about formally assessed studies, see the [archived November 2026 Finnish credit audit](../learning-hub/university/FINNISH_CREDIT_OPPORTUNITIES.md). It is **not a current enrollment recommendation**; verify schedules, eligibility, examination access and credit with the institution before taking action. The current [Metropolia enrollment restriction](https://www.metropolia.fi/en/study-at-metropolia/open-university) applies to people without the required Finnish personal identity code, unless an applicable exception is confirmed.
+For optional formally assessed studies with free-access offerings: [Helsinki Python and cybersecurity, Turku AI/cybersecurity, KAMK cloud and other current offerings](../learning-hub/university/FINNISH_CREDIT_OPPORTUNITIES.md). **Credit is conditional, not automatically awarded by completing a MOOC.** The current [Metropolia enrollment restriction](https://www.metropolia.fi/en/study-at-metropolia/open-university) applies to people without the required Finnish personal identity code, unless an applicable exception is confirmed.
 
 These university studies **supplement**, not replace, the Linux and network lab evidence tracked below.
 
-## How to use this technical reference shelf
+## How to use this catalog
 Pick **one primary** resource per topic, then use the reference material to answer questions raised by a lab. Record actual exercise evidence in [PROGRESS](PROGRESS.md). For each module, ask: (1) what mechanism did I learn? (2) can I predict an outcome? (3) can I provoke and diagnose a failure? (4) can I automate and test recovery?
 
 ### Track 1: Linux and shell — months 1–6
