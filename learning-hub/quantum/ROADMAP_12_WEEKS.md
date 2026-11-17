@@ -1,9 +1,3 @@
-# OPTIONAL RESEARCH STUDY MENU — not a scheduled obligation
-
-**16 November 2026:** These 12 suggested stages are an advanced quantum exploration reference, **not** the active weekly plan. Prioritize [current Learning Hub](../README.md), and work here only when a concrete research question and prerequisites justify it.
-
----
-
 # First 12 study weeks — flexible on-ramp for a long-term quantum track
 
 [← Quantum path](README.md) · [Experiments](EXPERIMENTS.md)
