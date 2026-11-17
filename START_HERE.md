@@ -91,3 +91,6 @@ The [Project Guide](PROJECT_GUIDE.md) points to independent software and researc
 **Where to go next:** [Systems portfolio](systems-infrastructure/README.md) · [Learning Hub](learning-hub/README.md) · [Essays & Ideas](essays/README.md) · [Contact](https://www.linkedin.com/in/thokchom-lolet-singh-b77341b2/).
 
 *Updated 4 November 2026.*
+
+
+Explore the [Knowledge Atlas](learning-hub/KNOWLEDGE_ATLAS.md) to browse broad university, research, language, history, culture and scientific learning without a career-only curriculum.
