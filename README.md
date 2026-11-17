@@ -31,7 +31,7 @@ My current professional focus is progressing from enterprise IT support into Win
 
 ## Personal Learning Hub — one bookmark for daily study
 
-**[Open the streamlined Learning Hub](./learning-hub/README.md)** for the single active learning queue, career-focused courses, German, mathematics, and optional broad discovery. The hub distinguishes current commitments from advanced references.
+**[Open the Learning Hub](./learning-hub/README.md)** to browse a living knowledge library: rigorous technical study, languages, mathematics, science, history, art, society and unexpected connections.
 
 | Choose a track | Start here |
 |---|---|
@@ -40,9 +40,10 @@ My current professional focus is progressing from enterprise IT support into Win
 | **NotebookLM deep dives** | [Notebook index](./learning-hub/notebooklm/INDEX.md) · [Share a public notebook](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/new?template=notebooklm-link.yml) |
 | **Quantum computing for future discovery** | **[Quantum first-principles learning path](./learning-hub/quantum/README.md)** · [Qiskit](./learning-hub/quantum/QISKIT.md) · [Google Cirq](./learning-hub/quantum/GOOGLE_CIRQ.md) |
 | **Visual design, communication and entrepreneurship** | **[Human Skills Learning Hub](./learning-hub/personal-skills/README.md)** · [12-week practice plan](./learning-hub/personal-skills/ROADMAP_12_WEEKS.md) |
-| **Curated world-class free learning** | **[Official-source directory — choose only needed courses](./learning-hub/WORLD_CLASS_FREE_COURSES.md)** · [Course pruning rationale](./learning-hub/CURRICULUM_AUDIT.md) |
-| **Career-focused mathematics** | **[Targeted algebra → binary/logic → statistics → optional ML math](./learning-hub/mathematics/README.md)** |
-| **Optional university learning (not a 31-course to-do list)** | [Selective academic reference shelf](./learning-hub/university/README.md) · [Credential distinctions](./learning-hub/university/CREDENTIALS.md) · [Computer foundations](./learning-hub/university/COMPUTER_FOUNDATIONS.md) |
+| **Knowledge Atlas — lifelong learning across disciplines** | **[Explore science, history, philosophy, biology, the arts, society and unfamiliar ideas](./learning-hub/KNOWLEDGE_ATLAS.md)** — original free university, research, cultural and institutional resources |
+| **World-class free learning collection** | **[Official-source courses across networking, cloud, CS, science, finance, business and languages](./learning-hub/WORLD_CLASS_FREE_COURSES.md)** — access and credential caveats |
+| **Career-focused mathematics** | **[Selective math learning path](./learning-hub/mathematics/README.md)** — Algebra 2 repair, subnetting/discrete math, statistics, linear algebra, calculus and finance |
+| **Top-university learning and credentials** | [31-course university catalog](./learning-hub/university/COURSE_CATALOG.csv) · [Academic evidence guide](./learning-hub/university/README.md) · [Finnish ECTS opportunities](./learning-hub/university/FINNISH_CREDIT_OPPORTUNITIES.md) · [Computer foundations](./learning-hub/university/COMPUTER_FOUNDATIONS.md) |
 | **Conferences and international participation** | [Official event directories and participation guide](./learning-hub/participation/README.md) |
 
 German study is an ongoing personal goal, **not a claim of a certified CEFR level**. NotebookLM links are added only when safe to share publicly.
