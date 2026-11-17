@@ -1,9 +1,3 @@
-# OPTIONAL LONG-TERM RESEARCH — not part of the active career course queue
-
-**16 November 2026:** This specialist quantum pathway is intentionally preserved for future inquiry, not a requirement for IT support, systems administration, networking or cloud operations. Start with [the single learning queue](../README.md) and [career-focused math](../mathematics/README.md); return here when a specific experiment requires quantum theory.
-
----
-
 # Quantum computing — first principles to trustworthy quantum–AI research
 
 [← Learning Hub](../README.md) · [Start Here](../../START_HERE.md) · [Systems & Infrastructure](../../systems-infrastructure/README.md) · [NotebookLM](../notebooklm/README.md)
