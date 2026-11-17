@@ -12,6 +12,8 @@ A collection may qualify because it is made by (1) the university or research ce
 
 > Browse by **question**, not by existing identity: “How did societies change?”, “Why do brains remember?”, “How does food reach people?”, “Can we measure an ecosystem?”, “Why does a building feel beautiful?”, “What is a good scientific explanation?”
 
+**Focused exploration:** [Human Behaviour, Society & Cooperation](human-cooperation/README.md) connects social psychology, anthropology, strategic interaction, poverty, conflict and humanitarian practice through free courses and critical research.
+
 ## A. Mathematics, logic, statistics and complexity
 
 | Source | Type | Doorway into a question |
