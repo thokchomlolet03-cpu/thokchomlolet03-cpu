@@ -13,6 +13,7 @@
 
 | Launch | What you get | Best first click |
 |---|---|---|
+| **🎓 [MIS master's preparation — graduate study](mis/README.md)** | 82-week independent graduate curriculum, official university resources, diagnostic, labs, timed exams and research capstone | **[Start the MIS track](mis/README.md)** |
 | **🏅 [World-class free courses — official-source directory](WORLD_CLASS_FREE_COURSES.md)** | Exceptional free training from Cisco, Red Hat, AWS, Harvard, MIT, NASA, Y Combinator, Goethe, FAO and more; honest exam/certificate caveats | **[Open the curated collection](WORLD_CLASS_FREE_COURSES.md)** |
 | **🧮 [Career-focused mathematics — selective roadmap](mathematics/README.md)** | Rebuild Algebra 2 and functions, then use discrete math, statistics, matrices, calculus and financial math for practical work | **[Start with the algebra diagnostic](mathematics/README.md#stage-0--diagnose-and-patch-gaps-selectively)** |
 | **🌌 [Knowledge Atlas — explore the world beyond your profession](KNOWLEDGE_ATLAS.md)** | Cross-disciplinary collections in history, philosophy, mathematics, natural sciences, public health, climate, art, psychology, literature and society | **[Enter the Knowledge Atlas](KNOWLEDGE_ATLAS.md)** |
@@ -32,6 +33,7 @@
 ## Daily launch panel
 
 **Have 20 minutes?**
+- MIS: read one section or solve one closed-book question from the [graduate preparation track](mis/README.md).
 - Mathematics: [Khan Algebra 2 diagnostic](https://www.khanacademy.org/math/get-ready-for-algebra-ii) or one [career math problem](mathematics/README.md) — solve without hints, then verify.
 - German: [DW Learn German — Nicos Weg](https://learngerman.dw.com/) for A1–B1; [VHS Lernportal](https://www.vhs-lernportal.de/wws/home.php) for a free structured course.
 - Engineering: [Cloudflare postmortems](https://blog.cloudflare.com/tag/post-mortem/) — choose a failure and sketch the dependency chain.
