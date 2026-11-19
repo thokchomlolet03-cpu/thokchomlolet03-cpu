@@ -35,6 +35,7 @@ My current professional focus is progressing from enterprise IT support into Win
 
 | Choose a track | Start here |
 |---|---|
+| **MIS master's preparation** | [Graduate curriculum, study resources, labs and assessments](./learning-hub/mis/README.md) |
 | **German A1 → C2** | [Level-by-level courses, practice and exam preparation](./learning-hub/german/README.md) |
 | **Real engineering failures** | [Netflix, Cloudflare, GitHub, Spotify and Google SRE investigations](./learning-hub/engineering-incidents/README.md) |
 | **NotebookLM deep dives** | [Notebook index](./learning-hub/notebooklm/INDEX.md) · [Share a public notebook](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/issues/new?template=notebooklm-link.yml) |
